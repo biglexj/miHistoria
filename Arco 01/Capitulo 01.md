@@ -1,43 +1,40 @@
-**LOCURAS EN EL TIEMPO 2.0**
+# Capitulo 01 - El Susurro de las Lunas
 
-# Capitulo 01
+Las dos lunas de **Xacro**, **Argentis** y **Opyl**, comenzaban su lento descenso sobre el horizonte carmesí, bañando los **Jardines Flotantes de Lumiria** con una luz plateada que se entrelazaba con el brillo bioluminiscente de los ríos. Eran las últimas horas del ciclo de luz, y para Biglex, ese era el momento más sagrado del día.
 
-CAPITULO 1 \- EL INICIO DE UNA NUEVA AVENTURA
+Sentado en un banco de cristal templado que parecía brotar de las raíces de un **Sauce de Fibra Óptica**, el joven de veinte años observaba cómo un pequeño dron de mantenimiento de la **TyCEC** pasaba silenciosamente sobre su cabeza. Su mente, sin embargo, no estaba en el presente. 
 
-Saludos, soy Biglex, un joven de 20 años que, aunque nació en el futurista Universo 7, actualmente reside en el Universo 11\. Mi hogar en el Universo 11 del Multiverso 3, es el vibrante Planeta Xacro, un lugar donde el futurismo se fusiona con la exuberante vegetación de una manera asombrosa y con un enfoque más avanzado en la exploración y la tecnología.
+Biglex jugueteaba con un pequeño proyector holográfico en su muñeca, repasando por centésima vez los esquemas del **GDU** que había logrado descargar de la red pública. Para la mayoría de los habitantes del Universo 11, el **Gestor de Dimensiones Universales** era poco más que una entidad abstracta que mantenía el cielo en su sitio. Para él, era el mapa del tesoro más grande jamás concebido.
 
-Mi familia proviene de diferentes universos: mi padre del Universo 17, proveniente del planeta Nicuni, y mi madre del planeta Xacro, en el Universo 11\. Se dedican al comercio multiversal, y esta diversidad de orígenes ha enriquecido mi perspectiva sobre el multiverso.
+—¿Otra vez con eso, Biglex? —Una voz melódica y cargada de una energía contagiosa rompió su concentración.
 
-Biglex: Desde mi juventud, he sentido una profunda curiosidad por los viajes en el tiempo. Me llevó a cuestionar cómo eran las eras pasadas y cómo será el futuro. Nuestro universo, el Universo 7, es un lugar asombroso, lleno de maravillas y misterios. Desde una perspectiva científica, siempre he querido entender cómo funciona el tejido del espacio-tiempo y cómo podríamos navegar a través de él.
+Biglex cerró el holograma de un parpadeo y sonrió al ver a Ely acercándose por la pasarela de cristal. Llevaba su túnica de trabajo manchada ligeramente con aceite sintético, señal de que acababa de salir del taller de naves de su familia. En **Xacro**, ser un **Nider** significaba llevar la tecnología en la sangre, pero Ely la llevaba también en las manos.
 
-Narrador: Para comprender mejor estas cuestiones, Biglex había investigado a fondo la organización TyCEC, que se especializaba en Tecnología y Exploración de la Creación en el Cosmos. A través de esta organización, había descubierto la existencia del GDU, el Gestor de Dimensiones Universales.
+—No puedo evitarlo, Ely —respondió él, levantándose para recibirla—. Mi padre dice que los comerciantes ven el multiverso como una vitrina, pero yo... yo quiero ver el mecanismo detrás del cristal.
 
-Biglex: El GDU, o Gestor de Dimensiones Universales, es una entidad única que supervisa y controla el tejido del espacio-tiempo en nuestro universo y en los multiversos circundantes. Es una maravilla de la tecnología avanzada y la ciencia que me ha intrigado durante años.
+Ely se rió, un sonido que para Biglex era más real que cualquier ley de la física. A solo dos millas de distancia, el taller de sus padres resonaba con el martilleo de las prensas hidráulicas que ensamblaban los nuevos modelos de androides, pero en este rincón de los **Jardines de Lumiria**, el mundo parecía detenerse.
 
-Narrador: El GDU funcionaba gracias a una compleja red de sensores y dispositivos que monitoreaban constantemente el espacio-tiempo, detectando cualquier anomalía o amenaza. Estos sensores eran especialmente sensibles a los desastres potenciales que podrían afectar no solo nuestro universo, sino también los universos vecinos.
+—Hoy terminamos el calibrado de un motor de salto para el Universo 17 —dijo ella, entrelazando sus dedos con los de él mientras comenzaban a caminar—. Me recordó a tu padre. ¿Cuándo regresan de su última ruta?
 
-Biglex: La misión del GDU era prevenir estos desastres y anomalías, así como comprender más profundamente la estructura del multiverso. Imagina el poder de conocer los secretos del tiempo y del espacio, de prever eventos catastróficos antes de que ocurran. Siempre me he preguntado cómo podríamos utilizar ese conocimiento para explorar el pasado y el futuro, y aprender de otras civilizaciones en diferentes épocas.
+—Mañana —contestó Biglex con un asomo de orgullo—. Traen especias de **Nicuni**. Mi madre dice que el comercio entre el Universo 7 y el 11 es la columna vertebral de nuestra economía, pero yo creo que solo les gusta como excusa para viajar.
 
-Narrador: Estos pensamientos habían estado rondando en la mente de Biglex durante años, y finalmente, una oportunidad se presentaría para explorar esas ideas a fondo.
+Mientras caminaban, el suelo bajo sus pies latía suavemente. Las plantas de Xacro no solo crecían, sino que procesaban datos y energía, purificando la atmósfera mientras emitían ese suave zumbido que era la banda sonora de la capital. Cruzaron un **Puente de Luz Sólida** sobre un río que brillaba con un azul eléctrico, donde peces artificiales nadaban entre algas reales.
 
-En Xacro, la vida es una sinfonía de avanzada tecnología y biodiversidad. Nuestra capital, Lumiria, es una maravilla arquitectónica que se mezcla armoniosamente con los jardines flotantes y los ríos luminiscentes que atraviesan la ciudad. Dos lunas se alzan en el cielo, bañando la superficie con su luz resplandeciente cada 15 horas.
+—A veces me pregunto —susurró Biglex, deteniéndose en el punto más alto del puente para mirar hacia el espacio profundo que se asomaba entre las naves de seguridad del GDU— cómo se veía todo esto antes de la TyCEC. ¿Cómo vivían sin saber que estamos dentro de una burbuja dentro de un gran globo?
 
-El sistema planetario de Xacro, hábilmente orquestado por la gravedad de su sol central, garantiza una convivencia armoniosa con la naturaleza y la tecnología. Los habitantes de Xacro son apasionados por la exploración, la innovación y la preservación de su entorno.
+Ely lo miró, y por un momento, la travesura habitual en sus ojos dio paso a una profundidad sorprendente.
 
-Mi vida ha transcurrido en este escenario futurista y enriquecedor. Me he sumergido en la exploración de los límites de la tecnología y he disfrutado de momentos inolvidables con Ely, mi más grande compañera. Nuestros paseos por los jardines flotantes y la admiración de la belleza de Xacro han sido una constante fuente de alegría.
+—Mi abuelo dice que antes el tiempo era un río que solo fluía hacia adelante —comentó ella—. Ahora, gracias a gente curiosa como tú, sabemos que el río tiene orillas que podemos caminar... si somos lo suficientemente valientes.
 
-Sin embargo, una serie de eventos inesperados me llevará a emprender un viaje a través del multiverso, descubriendo secretos y misterios que cambiarán mi vida para siempre. ¿Quién podría imaginar las aventuras que nos aguardan en este asombroso rincón del Universo 11?
+El sol central de Xacro terminó de ocultarse, y de repente, la ciudad estalló en una sinfonía de colores. Los edificios, maravillas de ingeniería translúcida, comenzaron a proyectar patrones de bienvenida a la noche.
 
-Mi vida era tranquila y apacible, llena de momentos divertidos junto a mis amigos y Ely, mi enamorada. Ely vivía a dos millas de mi hogar y provenía de una familia dedicada a la creación de androides y naves universales para el beneficio de los habitantes de Zecra.
+—Es hermoso —dijo Ely, recargando su cabeza en el hombro de Biglex—. Me pregunto si los dinosaurios veían los mismos colores.
 
-Ely: ¡Hola, Biglex\! Yo soy Ely. Debo decir que Zecra es un lugar hermoso, pero nada se compara con la belleza de tus ojos.
+Biglex soltó una carcajada suave, abrazándola. 
+—Si algún día lo descubrimos, espero que sea contigo a mi lado.
 
-Narrado: Ely, siempre extrovertida y llena de energía, hacía que Biglex se sintiera más vivo que nunca. Mientras paseaban por los campos de Zecra, compartían risas y chistes. El sol se sumergía lentamente detrás de las montañas, teñiendo el cielo con colores cálidos, como un abrazo de despedida del día.
+No sabían que en las sombras de la ciudad de Nides, un hombre llamado Jey Halcime ya había puesto sus ojos en ellos. El destino estaba tensando una cuerda que los lanzaría a través del tejido mismo de la realidad, pero por esa noche, solo eran dos jóvenes contemplando un cielo que estaba a punto de volverse pequeño.
 
-Biglex: (mirando el cielo) Ely, es como si el universo mismo nos estuviera guiñando un ojo, como si nos estuviera diciendo que algo emocionante nos aguarda en el horizonte.
+***
 
-Ely: (con una sonrisa radiante) ¡Tienes razón, Biglex\! No importa a dónde nos lleve este nuevo camino, siempre estaremos juntos. Y si es un camino de viajes en el tiempo, ¡será una aventura como ninguna otra\!
-
-Narrador: La pareja se abrazó, contemplando la inmensidad del universo, emocionada por las posibilidades que se avecinaban. No sabían que este encuentro con Jey Halcime marcaría el comienzo de una aventura que trascendería las barreras del tiempo y el espacio, desafiando todo lo que conocían. El sol se sumió completamente y la noche trajo consigo la promesa de un nuevo día lleno de incertidumbre y emoción.
-
-Con esta escena emotiva, concluye el primer capítulo de su viaje. El próximo capítulo llevará a Biglex, Ely y Jey Halcime hacia un viaje en el tiempo que cambiará sus vidas para siempre.
+> "El primer paso de un gran viaje no siempre es el más largo, sino el que nos obliga a dejar de mirar el mapa para empezar a mirar el horizonte."

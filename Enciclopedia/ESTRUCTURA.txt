@@ -1,0 +1,55 @@
+Listado de rutas de carpetas para el volumen Biglex
+El número de serie del volumen es B07B-868D
+D:\PROYECTOS\BIGLEXJ\AHISTORIA\WORLDBUILDING
+¦   ESTRUCTURA.txt
+¦   README.md
+¦   
++---01_Cosmologia
+¦       Estructura_Multiverso.md
+¦       README.md
+¦       Viajes_Temporales.md
+¦       
++---02_Multiversos
+¦   ¦   README.md
+¦   ¦   
+¦   +---Multiverso_03
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---Universo_07
+¦   ¦   +---Universo_11
+¦   ¦   ¦       Planeta_Xacro.md
+¦   ¦   ¦       
+¦   ¦   +---Universo_17
+¦   +---Multiverso_05
+¦   ¦   +---Universo_09
+¦   +---Multiverso_11
+¦   ¦   +---Universo_01
+¦   +---Multiverso_12
+¦       +---Universo_01
++---03_Personajes
+¦   ¦   README.md
+¦   ¦   
+¦   +---Aliados
+¦   +---Antagonistas
+¦   +---Equipo
+¦   +---Protagonistas
+¦           Biglex.md
+¦           Ely.md
+¦           
++---04_Tecnologia
+¦   ¦   Dimantis.md
+¦   ¦   README.md
+¦   ¦   
+¦   +---Naves
++---05_Organizaciones
+¦       README.md
+¦       
++---06_Especies
+¦       README.md
+¦       
++---07_Historia
+¦       README.md
+¦       
++---08_Glosario
+        README.md
+        

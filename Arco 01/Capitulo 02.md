@@ -1,81 +1,86 @@
-CAPITULO 2 \- EL ENCUENTRO INESPERADO
+# Capitulo 02 - Luces de Lumiria
 
-Narrador: La ciudad futurista de Lumiria despertaba con las primeras luces del día, y Biglex y Ely estaban ansiosos por su cita matutina en un café flotante que se alzaba sobre las aguas cristalinas del planeta Xacro. Mientras se preparaban, una emoción especial llenaba el aire.
+La mañana en Lumiria no comenzó con el habitual estruendo de una metrópolis, sino con un suave murmullo de motores antigravitatorios y el canto de las aves sintéticas que anidaban en los rascacielos de cristal. Biglex se encontraba frente al espejo de su habitación, ajustándose el brazalete comunicador. Hoy no era un día cualquiera; era su cita con Ely, y en una ciudad que nunca dejaba de innovar, las posibilidades eran infinitas.
 
-Biglex: (con una sonrisa): Ely, hoy será un día inolvidable. Estoy emocionado de pasar tiempo juntos y explorar nuestra hermosa ciudad.
+—¡Biglex! ¡Date prisa o nos quedaremos sin mesa en el Caelum! —La voz de Ely llegó a través del comunicador, acompañada por el sonido del viento.
 
-Ely: (bailando de alegría): ¡Así es, Biglex\! Siempre encuentras la forma de hacer que cada día sea emocionante.
+Pocos minutos después, ambos se encontraban en el **Caelum**, un café flotante cuyas mesas se suspendían de forma independiente sobre las aguas cristalinas del Gran Lago de Xacro. Mientras el camarero —un androide modelo N-400 fabricado por la familia de Ely les servía dos tazas de extracto de nebulosa, Biglex no podía apartar la vista de su acompañante.
 
-Narrador: La cita de Biglex y Ely se convirtió en una odisea de amor, un día lleno de aventuras y locuras en los lugares más inesperados de Xacro.
+—Zecra es hermoso, Biglex, pero Lumiria hoy está... deslumbrante —dijo Ely, señalando la ciudad que se extendía bajo sus pies.
 
-Primero, decidieron tomar un café en el café flotante, donde las mesas se suspendían en el aire y ofrecían una vista panorámica de la ciudad. Entre risas y juegos, compartieron confidencias y sueños.
+—Nada en este universo, ni en los otros doce, se compara con la belleza de tus ojos, Ely —respondió Biglex con una sonrisa que le valió un leve sonrojo de la chica.
 
-Biglex: (sonriendo) Ely, no importa en qué época nos encontremos, siempre serás la dueña de mi corazón.
+Entre risas y confidencias, la cita se transformó en una odisea por los rincones más futuristas de la capital. Decidieron subir a las **Cápsulas Supersónicas**, un sistema de transporte que atravesaba túneles de vacío a velocidades que pegaban sus cuerpos contra los asientos de gel. La adrenalina de la velocidad se mezclaba con sus risas mientras cruzaban Lumiria de un extremo a otro en cuestión de segundos.
 
-Ely: (tomando su mano): Biglex, eres el chico más dulce y romántico de todos los universos. ¿Sabes eso, ¿verdad?
+—¡Esto es increíble! —gritó Ely, aferrándose al brazo de Biglex mientras la cápsula giraba en un loop vertical.
 
-Narrador: Luego, se aventuraron a visitar las cápsulas de transporte de Lumiria. Montaron una de las cápsulas supersónicas, que los llevó en un emocionante paseo a través de la ciudad, sintiendo la adrenalina mientras atravesaban túneles y alcanzaban velocidades asombrosas.
+—¡Te dije que te encantaría! —respondió él, disfrutando de la emoción en los ojos de ella.
 
-Biglex: (gritando de emoción) ¡Ely, esta es la mejor cita de la historia\!
+Al atardecer, buscaron el sosiego del **Jardín de las Luces**. Allí, las flores no dependían solo del sol; al caer la noche, comenzaban a emitir un suave resplandor en tonos violetas y cianes. Sentados bajo la sombra de un Roble de Memoria, un árbol cuyas hojas guardaban fragmentos de la historia del planeta, Biglex miró hacia arriba.
 
-Ely: (riéndose): ¡No puedo estar más de acuerdo, Biglex\!
+—Cada estrella que ves ahí arriba es un mundo, Ely. Y aun así, ninguna brilla tanto como tú en mi vida.
 
-Narrador: Decidieron tomar un descanso en el Jardín de las Luces, donde las flores resplandecían en una variedad de colores y emitían un suave resplandor. Se sentaron bajo un árbol gigante y disfrutaron de un momento de tranquilidad, mirando las estrellas que parpadeaban en el cielo.
+—Eres un poeta incurable, Biglex —susurró ella, recostándose en su hombro mientras el jardín se iluminaba por completo.
 
-Biglex: (mirando al cielo) Ely, cada estrella en el universo no brilla tanto como tú en mi vida.
+Después de un rato de contemplación, decidieron visitar el **Mercado de los Sentidos**, un bazar flotante donde los comerciantes vendían experiencias sensoriales comprimidas en pequeñas esferas de cristal. Biglex compró una que contenía el aroma del océano de Nicuni, el planeta de su padre, y se la regaló a Ely.
 
-Ely: (acurrucándose): Biglex, eres un poeta y un soñador. Te amo por eso.
+—Para que siempre recuerdes de dónde vengo —dijo él, colocando la esfera en la palma de su mano.
 
-Narrador: La siguiente parada fue el café biotecnológico, donde las mesas estaban hechas de árboles de luz que cambiaban de forma y color. Disfrutaron de bebidas exóticas y se sorprendieron con los fenómenos científicos que rodeaban el lugar.
+Ely la activó, y de inmediato, el olor a sal marina y especias exóticas llenó el aire entre ellos. 
+—Es hermoso, Biglex. Gracias.
 
-Biglex: (maravillado) Ely, ¿alguna vez pensarías que podríamos tener una cita en un lugar tan sorprendente?
+Su siguiente parada fue el **Café Biotecnológico**, un lugar donde la arquitectura era orgánica. Las mesas eran extensiones de árboles de luz que cambiaban de color según el estado de ánimo de los comensales. Allí, se dejaron sorprender por bebidas que cambiaban de estado físico al ser ingeridas, un recordatorio constante de que en el Universo 11, la ciencia era la forma más alta de arte.
 
-Ely: (con asombro) ¡Es alucinante, Biglex\! No hay límite para la creatividad aquí.
+Mientras disfrutaban de sus bebidas, Ely notó que Biglex parecía distraído, mirando ocasionalmente su brazalete comunicador.
 
-Narrador: Su última parada los llevó a un simulador de la Tierra, un lugar virtual que recreaba la belleza de este planeta. Mientras paseaban por un parque lleno de árboles y animales simulados, Biglex y Ely compartieron un momento especial.
+—¿Estás esperando algo? —preguntó ella con curiosidad.
 
-Biglex: (mirando al horizonte): Ely, este lugar nos recuerda la historia de la Tierra.
+—No, solo... —Biglex dudó un momento—. Es solo que he estado pensando mucho últimamente sobre los viajes en el tiempo. Sobre si realmente es posible.
 
-Ely: (suspirando): Sí, Biglex. Y aunque no vivimos allí, podemos explorar el multiverso juntos.
+Para cerrar el día, visitaron el **Simulador de la Tierra**. Caminaron por una recreación virtual de un parque del siglo XXI, rodeados de árboles de madera real y animales que Biglex solo había visto en archivos históricos.
 
-Narrador: Con cada lugar que visitaban, Biglex y Ely compartían risas, alegría y, sobre todo, su amor inquebrantable. A medida que avanzaba el día, su conexión crecía. Después de una tarde llena de risas y aventuras, se encontraban listos para su siguiente capítulo, sin saber que un emocionante encuentro con Jey Halcime estaba a la vuelta de la esquina.
+—Es extraño pensar que nuestros ancestros vivían solo aquí —comentó él, tocando la corteza de un roble simulado—. Sin multiversos, sin saltos temporales... solo este pequeño punto azul.
 
-Narrador: El sol comenzaba a ponerse sobre la vibrante ciudad de Lumiria en una tarde de descanso para Jey Halcime. Como investigador del tiempo y un apasionado por los viajes temporales, a menudo encontraba refugio en un rincón tranquilo de la ciudad, lejos del bullicio de la vida cotidiana. 
+—Quizás por eso eran tan valientes —añadió Ely—. No tenían a dónde huir si algo salía mal.
 
-Jey Halcime: (pensando en voz alta) Cada día que pasa, el tiempo me obsesiona más.
+Mientras el sol se sumergía definitivamente tras las montañas de Xacro, el ambiente de paz se vio interrumpido por una presencia que Biglex notó de inmediato. No era la mirada de un droide de seguridad, ni la curiosidad de otro turista. Era algo más pesado, más analítico.
 
-Narrador: Mientras Jey reflexionaba sobre los misterios del tiempo, observó a lo lejos a una pareja que parecía disfrutar de su tiempo libre, compartiendo risas y conversaciones junto a un café flotante. Era Biglex y Ely, sumidos en su propia pequeña burbuja de felicidad.
+Cerca de la salida del simulador, un hombre de mediana edad, vestido con una túnica oscura decorada con circuitos de cobre, los observaba. Jey Halcime no parecía un habitante común de Lumiria. Su mirada cargaba con el peso de siglos, una obsesión que relucía en sus ojos mientras se acercaba a ellos con una sonrisa enigmática.
 
-Biglex: (riendo) Y luego le dije a mi amigo que había viajado al pasado para obtener la receta secreta de la pizza. ¡Su cara fue impagable\!
+—El tiempo es un recurso curioso, ¿no creen? —dijo Jey, interceptando su camino—. Algunos lo gastan en café y paseos, otros en lamentar el pasado. Pero verlos a ustedes... me hace pensar que hay quienes están listos para dominarlo.
 
-Ely: (divertida) ¡Imagino que aún sigues disfrutando de esa pizza en el presente\!
+Biglex dio un paso al frente, protegiendo instintivamente a Ely, pero la curiosidad fue más fuerte que la cautela. El extraño no parecía una amenaza, sino un enigma esperando ser resuelto.
 
-Narrador: Jey, curioso y decidido, se acercó a la pareja con una sonrisa enigmática.
+—¿Quién es usted? —preguntó Biglex, sintiendo que ese encuentro no era, en absoluto, una coincidencia.
 
-Jey Halcime: (entusiasmado) Perdón por interrumpir, pero no puedo evitar escuchar sus risas. Parece que comparten una conexión especial.
+Jey se rió suavemente, una risa que sonaba como el tic-tac de un reloj antiguo. 
+—Soy Jey Halcime, investigador del tiempo y fundador de Timenet. He estado observándolos durante un tiempo, Biglex, Ely. Su curiosidad por el multiverso y el tiempo no ha pasado desapercibida.
 
-Biglex: (amablemente) ¡Oh, no te preocupes\! Sí, somos Biglex y Ely. Nos encanta disfrutar de nuestro tiempo juntos y compartir risas.
+—¿Timenet? —repitió Ely, reconociendo el nombre—. La compañía de investigación temporal en la ciudad de Nides. He oído hablar de ella.
 
-Narrador: Jey, curioso y decidido, se acercó a la pareja con una sonrisa enigmática.
+—Exactamente —confirmó Jey—. Estamos ubicados en el distrito industrial de Nides, a unas dos horas de aquí en transporte rápido. Y tengo una propuesta para ustedes. Algo que cambiará su percepción de la realidad para siempre.
 
-Jey Halcime: (entusiasmado) Perdón por interrumpir, pero no pude evitar notar su energía y alegría. Parece que disfrutan mucho su tiempo juntos.
+Biglex y Ely intercambiaron una mirada. La intensidad en los ojos de Jey era innegable, pero también lo era la promesa de aventura que sus palabras contenían.
 
-Biglex: (amablemente) ¡No te preocupes\! Sí, somos Biglex y Ely. Nos encanta disfrutar de la vida y compartir risas.
+—¿De qué se trata? —preguntó Biglex, incapaz de contener su curiosidad.
 
-Ely: (curiosa) ¿Y tú? ¿Qué te trae por aquí?
+—No aquí —respondió Jey, mirando alrededor—. Vengan a Timenet mañana al mediodía. Les mostraré algo que solo un puñado de personas en todo el multiverso han visto: una máquina capaz de abrir las puertas del tiempo mismo. Pero necesito personas valientes, inteligentes y, sobre todo, dispuestas a arriesgarlo todo por el conocimiento.
 
-Jey Halcime: (sonriendo) El tiempo es mi pasión. Siempre he soñado con explorar sus misterios y secretos. Observando su felicidad, me di cuenta de que saben disfrutar el presente, pero ¿alguna vez han pensado en explorar otras eras?
+Jey les entregó una pequeña tarjeta holográfica que mostraba las coordenadas exactas de Timenet en Nides, junto con un código de acceso.
 
-Biglex: (pensativo) ¡Eso suena intrigante\! Pero, ¿cómo podríamos hacerlo?
+—Piénsenlo esta noche —dijo Jey, dándose la vuelta—. Pero si deciden venir, sepan que nada volverá a ser igual.
 
-Narrador: Jey comenzó a explicarles su proyecto de viaje en el tiempo y cómo Biglex y Ely podrían ser parte crucial de esta aventura.
+Mientras Jey desaparecía entre la multitud del simulador, Biglex y Ely se quedaron en silencio, mirando la tarjeta holográfica que brillaba suavemente en la mano de Biglex.
 
-Ely: (emocionada) ¡Espera, ¿estás diciendo que podríamos viajar en el tiempo? ¿Y conocer diferentes épocas y civilizaciones?
+—¿Qué piensas? —preguntó Ely finalmente.
 
-Jey Halcime: (entusiasmado) Exactamente. Pero esto es solo el comienzo. Estoy reuniendo un equipo de personas excepcionales para explorar el tiempo y cambiar la historia. ¿Estarían interesados?
+—Creo... —Biglex miró a Ely, sus ojos llenos de emoción y un toque de miedo—. Creo que esto es lo que he estado esperando toda mi vida. Pero no quiero arrastrarte a algo peligroso.
 
-Biglex: (mirando a Ely) ¿Qué dices, amor? ¿Deberíamos unirnos a esta aventura?
+Ely tomó su mano y la apretó con firmeza. 
+—Biglex, donde tú vayas, yo voy. Siempre.
 
-Ely: (sonriente) ¡Claro que sí\! Suena como la experiencia de toda una vida.
+Esa noche, mientras regresaban a sus hogares, ambos sabían que el día siguiente marcaría un punto de no retorno. La ciudad de Nides los esperaba, y con ella, los secretos del tiempo mismo.
 
-Narrador: Así comenzó una colaboración que los llevaría a explorar el multiverso y descubrir secretos que desafiarían su comprensión del tiempo. Jey, Biglex y Ely se embarcaron en un viaje que cambiaría sus vidas y el curso de la historia. Juntos, compartirían risas, lágrimas y las mayores locuras en el tiempo.
+***
+
+> "Aquel que busca dominar el tiempo debe primero entender que el reloj no mide la vida, sino la velocidad con la que la dejamos pasar."
