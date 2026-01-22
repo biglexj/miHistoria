@@ -4,16 +4,22 @@ Esta sección documenta las diferentes razas y seres que habitan el multiverso.
 
 ## 🧬 Especies Conocidas
 
-### [Niders.md](./Niders.md)
-**Especie Principal**
-- Humanoides
-- Habitantes de Xacro, Zecra y otros planetas
-- Biglex y Ely son Niders
+### [Humanos.md](./Humanos.md)
+**Especie Originaria de la Tierra**
+- Universo 7, Planeta Tierra
+- Biglex es Humano, nacido en la Tierra
 
-### [Umanoides.md](./Umanoides.md)
-**Seres Orgánicos Avanzados**
-- Presentes en Timenet
-- *[Pendiente de más detalles]*
+### [Niders.md](./Niders.md)
+**Especie Principal del Multiverso 3**
+- Humanoides orgánicos
+- Habitantes de Xacro, Zecra, Nicuni y otros planetas
+- Ely es Nider, nativa de Xacro
+
+### [Gisakianos.md](./Gisakianos.md)
+**Seres Biotecnológicos/Sintéticos**
+- Copias de humanos originales que desaparecieron
+- Comparten rasgos y apariencia con Niders pero son sintéticos
+- *[Ubicación por definir]*
 
 ### [Androides.md](./Androides.md)
 **Seres Artificiales**
@@ -47,8 +53,9 @@ Esta sección documenta las diferentes razas y seres que habitan el multiverso.
 ## 🤖 Por Tipo
 
 ### Orgánicas
+- Humanos
 - Niders
-- Umanoides
+- Gisakianos
 - Habitantes de Celestia
 - Invasores de Celestia
 - Cyberjolianos

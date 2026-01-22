@@ -6,7 +6,7 @@ La mañana en Lumiria no comenzó con el habitual estruendo de una metrópolis, 
 
 Pocos minutos después, ambos se encontraban en el **Caelum**, un café flotante cuyas mesas se suspendían de forma independiente sobre las aguas cristalinas del Gran Lago de Xacro. Mientras el camarero —un androide modelo N-400 fabricado por la familia de Ely les servía dos tazas de extracto de nebulosa, Biglex no podía apartar la vista de su acompañante.
 
-—Zecra es hermoso, Biglex, pero Lumiria hoy está... deslumbrante —dijo Ely, señalando la ciudad que se extendía bajo sus pies.
+—Lumiria es hermosa, Biglex, y hoy está... deslumbrante —dijo Ely, señalando la ciudad que se extendía bajo sus pies.
 
 —Nada en este universo, ni en los otros doce, se compara con la belleza de tus ojos, Ely —respondió Biglex con una sonrisa que le valió un leve sonrojo de la chica.
 
@@ -22,7 +22,7 @@ Al atardecer, buscaron el sosiego del **Jardín de las Luces**. Allí, las flore
 
 —Eres un poeta incurable, Biglex —susurró ella, recostándose en su hombro mientras el jardín se iluminaba por completo.
 
-Después de un rato de contemplación, decidieron visitar el **Mercado de los Sentidos**, un bazar flotante donde los comerciantes vendían experiencias sensoriales comprimidas en pequeñas esferas de cristal. Biglex compró una que contenía el aroma del océano de Nicuni, el planeta de su padre, y se la regaló a Ely.
+Después de un rato de contemplación, decidieron visitar el **Mercado de los Sentidos**, un bazar flotante donde los comerciantes vendían experiencias sensoriales comprimidas en pequeñas esferas de cristal. Biglex compró una que contenía el aroma del océano de LA Tierra, el planeta de su padre, y se la regaló a Ely.
 
 —Para que siempre recuerdes de dónde vengo —dijo él, colocando la esfera en la palma de su mano.
 
@@ -35,13 +35,23 @@ Mientras disfrutaban de sus bebidas, Ely notó que Biglex parecía distraído, m
 
 —¿Estás esperando algo? —preguntó ella con curiosidad.
 
-—No, solo... —Biglex dudó un momento—. Es solo que he estado pensando mucho últimamente sobre los viajes en el tiempo. Sobre si realmente es posible.
+—No, solo... —Biglex dudó un momento—. Es solo que he estado pensando mucho últimamente sobre los viajes en el tiempo. Sobre si realmente es posible. Sobre todo lo que podríamos descubrir.
 
-Para cerrar el día, visitaron el **Simulador de la Tierra**. Caminaron por una recreación virtual de un parque del siglo XXI, rodeados de árboles de madera real y animales que Biglex solo había visto en archivos históricos.
+Para cerrar el día, visitaron el **Simulador de Civilizaciones Antiguas**. Caminaron por una recreación virtual de diferentes épocas y culturas, rodeados de arquitectura que abarcaba desde pirámides hasta ciudades flotantes de civilizaciones olvidadas.
 
-—Es extraño pensar que nuestros ancestros vivían solo aquí —comentó él, tocando la corteza de un roble simulado—. Sin multiversos, sin saltos temporales... solo este pequeño punto azul.
+Biglex se detuvo frente a una réplica de una antigua biblioteca, sus estantes llenos de libros físicos de papel. Tocó uno con reverencia, maravillado por la simplicidad de la tecnología.
 
-—Quizás por eso eran tan valientes —añadió Ely—. No tenían a dónde huir si algo salía mal.
+—Es fascinante —murmuró él—. Pensar que hubo civilizaciones que almacenaban todo su conocimiento en objetos físicos. Sin hologramas, sin bases de datos cuánticas... solo papel y tinta.
+
+Ely lo observó con ternura, compartiendo su asombro.
+
+—Quizás por eso valoraban tanto el conocimiento —añadió ella, acercándose a él—. Cada libro era único, irremplazable. No podían simplemente hacer una copia con un clic.
+
+—A veces me pregunto —continuó Biglex, mirando los estantes simulados— qué secretos se perdieron cuando estas civilizaciones desaparecieron. Cuánto conocimiento se fue con ellas.
+
+Ely sonrió, tomando su mano.
+
+—Por eso estamos aquí, ¿no? Para descubrir esos secretos.
 
 Mientras el sol se sumergía definitivamente tras las montañas de Xacro, el ambiente de paz se vio interrumpido por una presencia que Biglex notó de inmediato. No era la mirada de un droide de seguridad, ni la curiosidad de otro turista. Era algo más pesado, más analítico.
 

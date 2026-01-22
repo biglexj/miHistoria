@@ -35,7 +35,7 @@ Ely es una joven Nider de belleza llamativa y apariencia vibrante. Su presencia 
 **Nota**: Ely tiene 4 outfits principales que usa según la situación. Siempre añadir contexto de cuál está usando en cada escena.
 
 #### Outfit 1: Base/Oficial (Predeterminado)
-- **Camiseta**: Gris oscura (#6E7179) con logo "Ely Vtuber" estampado en blanco y rosa
+- **Camiseta**: Gris oscura (#6E7179)
 - **Shorts**: Blancos (#F9FAF7) con detalles de volantes en los bordes
 - **Cabello**: Atado con lazos coral (#DF6863) en las puntas, cayendo libremente hasta casi el suelo
 - **Zapatillas**: Turquesa con detalles blancos (#01D6B9), estilo deportivo

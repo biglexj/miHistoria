@@ -36,13 +36,14 @@ Lumiria es una maravilla arquitectónica que se mezcla armoniosamente con:
 
 ## Habitantes
 
-- **Especie Dominante**: Niders (humanoides)
+- **Especie Dominante**: Niders
 - **Población**: Alta densidad en Lumiria
+- **Otras Especies**: Humanos (minoría), Androides
 - **Cultura**: Apasionados por la exploración, innovación y preservación del entorno
 
 ### Habitantes Conocidos
-- **Biglex**: Reside actualmente aquí
-- **Ely**: Vive a 2 millas del hogar de Biglex
+- **Biglex**: Humano (nacido en la Tierra), reside aquí
+- **Ely**: Nider, vive a 2 millas de Biglex
 - **Madre de Biglex**: Originaria de Xacro
 - **Padres de Ely**: Fabricantes de androides y naves
 

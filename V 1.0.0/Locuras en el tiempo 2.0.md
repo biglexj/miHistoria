@@ -55,7 +55,7 @@ Biglex: \-Sí, Ely, estoy emocionado. Mi padre tiene varias naves, así que pode
 
 Narrador: Y así, con el acuerdo de Biglex y Ely, junto con la solicitud de Jey Halcime de aplazar el inicio de la aventura, comenzaron los preparativos para su viaje en el tiempo.
 
-Narrador: Con todo preparado, partieron rumbo a Timenet. La compañía era impresionante, llena de naves, androides, umanoides y, sobre todo, la máquina del tiempo que estaba oculta en la parte más profunda de Timenet.
+Narrador: Con todo preparado, partieron rumbo a Timenet. La compañía era impresionante, llena de naves, androides, gisakianos y, sobre todo, la máquina del tiempo que estaba oculta en la parte más profunda de Timenet.
 
 Jey Halcime: (con entusiasmo) \-Esto es la máquina del tiempo, y necesito un elemento muy peculiar, el Dimantis, que se encuentra en el universo 1 del multiverso 12\. Tomen todo lo que necesiten: comida, armas, protección, combustible y más. Pero tengan cuidado con los habitantes, son peligrosos. Deben ser astutos para conseguir lo que les pido. 
 

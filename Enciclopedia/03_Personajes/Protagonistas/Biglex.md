@@ -4,17 +4,17 @@
 
 - **Nombre Completo**: Biglex J
 - **Edad**: 20 años
-- **Especie**: Nider (humanoide)
+- **Especie**: Humano (Mestizo)
 - **Género**: Masculino
 - **Estatura**: 1.70 m
-- **Nacimiento**: Planeta Zecra, Universo 7, Multiverso 3
+- **Nacimiento**: Planeta Tierra, Universo 7, Multiverso 3
 - **Residencia Actual**: Planeta Xacro, Universo 11, Multiverso 3 Junto a Ely, ciudad de Lumiria
 - **Ocupación**: Explorador temporal, Aventurero multiversal
 
 ## Apariencia Física
 
 ### Descripción General
-Biglex es un joven Nider de apariencia casual y relajada, con un estilo que refleja su personalidad práctica y aventurera. Su presencia transmite confianza sin arrogancia, y una madurez que contrasta con su juventud.
+Biglex es un joven Humano de apariencia casual y relajada, con un estilo que refleja su personalidad práctica y aventurera. Su presencia transmite confianza sin arrogancia, y una madurez que contrasta con su juventud.
 
 ### Rasgos Faciales
 - **Rostro**: Facciones masculinas definidas pero juveniles, mandíbula marcada
@@ -153,9 +153,9 @@ Biglex es un joven Nider de apariencia casual y relajada, con un estilo que refl
 ### Pasado (Antes de los 20 años)
 
 **Nacimiento y Familia**
-- **Origen**: Nació en el Universo 7, Planeta Zecra
-- **Padre**: Del Universo 17, planeta Nicuni - Comerciante multiversal
-- **Madre**: Del Universo 11, planeta Xacro - Comerciante multiversal
+- **Origen**: Nació en el Universo 7, Planeta Tierra (Humano Mestizo)
+- **Padre**: Del Universo 17, planeta Nicuni, Multiverso 7 - Comerciante multiversal
+- **Madre**: Del Universo 7, planeta Tierra (o Zecra), Multiverso 3 - Comerciante multiversal
 - **Infancia**: Creció expuesto al comercio entre universos, vio diferentes culturas desde pequeño
 - **Influencia Familiar**: Sus padres le dieron perspectiva amplia del multiverso
 

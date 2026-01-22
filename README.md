@@ -30,7 +30,7 @@ Documentación completa del universo organizada en 8 categorías:
 - **[03_Personajes](./Worldbuilding/03_Personajes):** Fichas detalladas de protagonistas, equipo, aliados y antagonistas
 - **[04_Tecnologia](./Worldbuilding/04_Tecnologia):** Dimantis, cápsulas, naves, máquina del tiempo y otros artefactos
 - **[05_Organizaciones](./Worldbuilding/05_Organizaciones):** TyCEC, GDU, Timenet, Cyberjol
-- **[06_Especies](./Worldbuilding/06_Especies):** Niders, umanoides, androides y otras razas
+- **[06_Especies](./Worldbuilding/06_Especies):** Humanos, Niders, Gisakianos, androides y otras razas
 - **[07_Historia](./Worldbuilding/07_Historia):** Cronología y eventos importantes
 - **[08_Glosario](./Worldbuilding/08_Glosario):** Términos y conceptos del universo
 

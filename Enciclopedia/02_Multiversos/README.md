@@ -6,8 +6,11 @@ Esta sección contiene la documentación de todos los multiversos, universos y p
 
 ### [Multiverso 3](./Multiverso_03)
 El multiverso hogar de Biglex. Contiene:
-- **Universo 7**: Planeta Zecra (nacimiento de Biglex)
+- **Universo 7**: Planeta Tierra (nacimiento de Biglex)
 - **Universo 11**: Planeta Xacro (residencia actual)
+
+### [Multiverso 7](./Multiverso_07)
+Multiverso de procedencia del padre de Biglex.
 - **Universo 17**: Planeta Nicuni (origen del padre de Biglex)
 
 ### [Multiverso 5](./Multiverso_05)
@@ -16,34 +19,29 @@ Primer multiverso visitado por error durante la búsqueda del Dimantis.
 
 ### [Multiverso 11](./Multiverso_11)
 Destino de la misión principal.
-- **Universo 1**: Planeta Celestia (en guerra)
-
-### [Multiverso 12](./Multiverso_12)
-Ubicación original del Dimantis.
-- **Universo 1**: Fuente del Dimantis
+- **Universo 1**: Planeta Celestia (en guerra, ubicación del Dimantis)
 
 ## 📊 Estadísticas
 
 - **Multiversos conocidos**: 4
-- **Universos explorados**: 6
-- **Planetas visitados**: 5+
+- **Universos explorados**: 5
+- **Planetas visitados**: 4+
 
 ## 🗺️ Mapa de Navegación
 
 ```
 Multiverso 3 (Hogar)
-├── Universo 7 → Zecra
-├── Universo 11 → Xacro (Lumiria)
+├── Universo 7 → Tierra
+└── Universo 11 → Xacro (Lumiria)
+
+Multiverso 7
 └── Universo 17 → Nicuni
 
 Multiverso 5
 └── Universo 9 → Variancia
 
 Multiverso 11
-└── Universo 1 → Celestia
-
-Multiverso 12
-└── Universo 1 → [Ubicación del Dimantis]
+└── Universo 1 → Celestia (Dimantis)
 ```
 
 ## 📝 Convenciones de Nomenclatura

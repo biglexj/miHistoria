@@ -2,9 +2,46 @@
 
 ## Descripción General
 
-El multiverso en "Locuras en el Tiempo" está organizado en una jerarquía de tres niveles, similar a esferas concéntricas o **"globos circulares"** que contienen realidades dentro de realidades.
+El multiverso en "Locuras en el Tiempo" está organizado en una jerarquía de cuatro niveles, desde el Cosmos hasta los planetas individuales. La estructura se visualiza como **"globos circulares"** anidados, donde cada nivel contiene realidades dentro de realidades.
 
-## Jerarquía
+## Jerarquía Cósmica Completa
+
+### Cosmos ✨
+- **Definición**: La totalidad de la existencia
+- **Contenido**: Todos los multiversos conocidos y desconocidos
+- **Alcance**: Infinito e inexplorado en su totalidad
+- **Características**: El nivel más alto de la realidad
+
+### Multiverso 🌐
+- **Definición**: Conjunto de universos relacionados dentro del Cosmos
+- **Numeración**: Multiverso 3, Multiverso 7, Multiverso 11, etc.
+- **Características**: Cada multiverso tiene sus propias leyes físicas sutiles
+- **Forma**: Globos circulares gigantes que flotan en el vacío dimensional
+
+### Universo 🔮
+- **Definición**: Burbuja dimensional dentro de un multiverso
+- **Numeración**: Universo 7, Universo 11, Universo 17, etc.
+- **Características**: Comparten las leyes físicas del multiverso padre
+- **Forma**: Burbujas más pequeñas flotando dentro del globo mayor
+
+### Planeta 🪐
+- **Definición**: Cuerpo celeste habitable dentro de un universo
+- **Ejemplos**: Tierra, Xacro, Nicuni, Celestia
+- **Características**: Hogar de especies y civilizaciones
+- **Forma**: Esferas planetarias convencionales
+
+**Ejemplo de ubicación completa:**
+```
+Biglex nació en:
+Tierra (Planeta) → Universo 7 → Multiverso 3 → Cosmos
+
+Padre de Biglex es de:
+Nicuni (Planeta) → Universo 17 → Multiverso 7 → Cosmos
+```
+
+---
+
+## Jerarquía Detallada
 
 ### Nivel 1: Multiversos 🌐
 
@@ -59,14 +96,14 @@ Los planetas son los cuerpos celestes dentro de cada universo.
 ```
 Multiverso 3
 ├── Universo 7
-│   └── Planeta Zecra (nacimiento de Biglex)
+│   └── Planeta Tierra (nacimiento de Biglex)
 ├── Universo 11
 │   ├── Planeta Xacro (residencia de Biglex)
 │   │   └── Capital: Lumiria
 │   └── Otros planetas
-└── Universo 17
-    └── Planeta Nicuni (origen del padre de Biglex)
 ```
+
+**Nota:** El Universo 17 (Planeta Nicuni) pertenece al Multiverso 7, no al Multiverso 3.
 
 ## Métodos de Viaje
 
@@ -77,7 +114,7 @@ Multiverso 3
 - **Requisitos**: Nave espacial básica
 
 ### Entre Universos (mismo multiverso)
-- **Método**: Agujeros de Gusano
+- **Método**: Cruzando los limites de los universos
 - **Dificultad**: ⭐⭐ Media
 - **Tiempo**: Variable
 - **Requisitos**: Navegación especializada

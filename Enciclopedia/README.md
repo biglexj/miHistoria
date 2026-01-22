@@ -24,7 +24,7 @@ Objetos, artefactos y tecnología del universo: Dimantis, cápsulas de compresi�
 Facciones, grupos y organizaciones: TyCEC, GDU, Timenet, Cyberjol.
 
 ### [06_Especies](./06_Especies)
-Razas y seres que habitan el multiverso: Niders, umanoides, androides, etc.
+Razas y seres que habitan el multiverso: Humanos, Niders, Gisakianos, androides, etc.
 
 ### [07_Historia](./07_Historia)
 Cronología, línea temporal y eventos importantes del universo.
@@ -138,8 +138,9 @@ AHistoria/
     │
     ├── 06_Especies/                  # Razas y seres
     │   ├── README.md
+    │   ├── Humanos.md
     │   ├── Niders.md
-    │   ├── Umanoides.md
+    │   ├── Gisakianos.md
     │   ├── Androides.md
     │   └── Habitantes_Celestia.md
     │

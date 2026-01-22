@@ -15,24 +15,21 @@ El Multiverso 3 es el multiverso hogar de Biglex y el punto de partida de la his
 
 ### [Universo 7](./Universo_07)
 - **Planeta Principal**: Zecra
+- **Planeta donde nacio Biglex**: Tierra
 - **Relevancia**: Lugar de nacimiento de Biglex
 
 ### [Universo 11](./Universo_11)
 - **Planeta Principal**: Xacro
-- **Capital**: Lumiria
+- **Otros Planetas**: Zecra (agrícola, especias)
+- **Capital**: Lumiria  
 - **Relevancia**: Residencia actual de Biglex y Ely
-
-### [Universo 17](./Universo_17)
-- **Planeta Principal**: Nicuni
-- **Relevancia**: Origen del padre de Biglex
-- **Especialidad**: Comercio
 
 ## Habitantes Conocidos
 
 - **Biglex**: Protagonista (nacido en U7, vive en U11)
 - **Ely**: Protagonista (vive en U11)
-- **Padre de Biglex**: Comerciante (originario de U17)
-- **Madre de Biglex**: Comerciante (originaria de U11)
+- **Padre de Biglex**: Comerciante (originario de U17, M7)
+- **Madre de Biglex**: Comerciante (originaria de U7)
 
 ## Organizaciones Importantes
 

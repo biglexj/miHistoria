@@ -36,8 +36,9 @@ Glosario completo de términos, conceptos y definiciones.
 - Variancia
 
 ### Especies
+- Humanos
 - Niders
-- Umanoides
+- Gisakianos
 - Androides
 
 ---

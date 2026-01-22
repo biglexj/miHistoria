@@ -21,7 +21,6 @@ Esta sección documenta todos los objetos, artefactos y tecnologías del univers
 - Comunicadores Temporales
 - Trajes de Camuflaje
 - Androides
-- Umanoides
 
 ## 📊 Clasificación por Rareza
 

@@ -34,7 +34,7 @@ Entonces les esperó en la ciudad de Nides, la compañía de Timenet.
 
 Paso el tiempo y estábamos preparado Yo y Ely para el viaje, y como mi padre tenía varias naves y romanos uno de ellos y nos fuimos rumbo a Timenet.
 
-La compañía es grande y genial, había; Naves, Androides, Umanoides, y sobre todo la máquina del tiempo que estaba oculto en la parte mas baja de Timenet.
+La compañía es grande y genial, había; Naves, Androides, Gisakianos, y sobre todo la máquina del tiempo que estaba oculto en la parte mas baja de Timenet.
 
 Jey Halmice con alegria, habla, esto es la maquina del tiempo y necesito un elemento muy curioso que es el Dimantis que esta ubicado en el universo 1, del multiverso 12 y necesito que me la traigan, tomen todo lo que necesiten; comida, armas, protección, combustible, entre otros. Pero tengan cuidado con sus habitantes ya que son muy peligrosos y deben ser muy cuidadoso y astutos para poder conseguir los que les pido.
 

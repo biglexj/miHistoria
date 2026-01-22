@@ -62,7 +62,7 @@ Ely y yo nos miramos. El timing no podía ser más perfecto... o más inquietant
 
 Después del desayuno, ambos nos dirigimos al pequeño armario donde guardábamos nuestra ropa. Jey nos había recomendado vestirnos de manera que llamáramos la atención lo menos posible, pero que también fuera funcional.
 
-**Ely** se cambió primero. Se quitó la blusa coral y la falda plisada, y se puso su **outfit base**: una camiseta gris oscura con el logo "Ely Vtuber" estampado en blanco y rosa, y unos **shorts blancos** con detalles de volantes. Sobre esto, se puso una elegante **chaqueta blanca** con ribetes turquesa que brillaban sutilmente. Se ató su cabello turquesa con los característicos **lazos coral** en las puntas, dejándolo caer libremente por su espalda hasta casi tocar el suelo. Finalmente, se puso sus **zapatillas turquesa** con detalles blancos y sus **aretes amarillo neón** en forma de estrella.
+**Ely** se cambió primero. Se quitó la blusa coral y la falda plisada, y se puso su **outfit base**: una camiseta gris oscura y unos **shorts blancos** con detalles de volantes. Sobre esto, se puso una elegante **chaqueta blanca** con ribetes turquesa que brillaban sutilmente. Se ató su cabello turquesa con los característicos **lazos coral** en las puntas, dejándolo caer libremente por su espalda hasta casi tocar el suelo. Finalmente, se puso sus **zapatillas turquesa** con detalles blancos y sus **aretes amarillo neón** en forma de estrella.
 
 —¿Cómo me veo? —preguntó, dando una vuelta.
 
