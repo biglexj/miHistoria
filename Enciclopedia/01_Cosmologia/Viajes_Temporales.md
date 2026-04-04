@@ -42,41 +42,6 @@ El tiempo tiende a autocorregirse, pero tiene límites. Cambios menores pueden s
 - No se puede viajar más allá del fin del universo
 - Algunos períodos son más estables que otros
 
-## Destinos Temporales Visitados
-
-### Pasado
-- **1000 años atrás**: Época de abundante naturaleza y animales salvajes
-- **Era de los Dinosaurios**: Presenciaron la extinción masiva por infecciones
-
-### Futuro
-- **Año 3000**: Civilización humana avanzada con el sistema Cyberjol
-- **Prisión Temporal**: Lugar fuera del tiempo normal controlado por Cyberjol
-
-## Peligros del Viaje Temporal
-
-1. **Quedar Atrapado**: Como en la prisión temporal de Cyberjol
-2. **Alteración Accidental**: Cambiar eventos sin querer
-3. **Infecciones Temporales**: Enfermedades de otras épocas
-4. **Desorientación Temporal**: Perder el sentido del tiempo propio
-5. **Paradojas**: Crear inconsistencias en la línea temporal
-
-## Tecnología de Soporte
-
-- **Cápsulas de Compresión**: Para almacenar suministros
-- **Dispositivos de Invisibilidad**: Para evitar detección
-- **Comunicadores Temporales**: Para mantener contacto
-
-## Organizaciones Relacionadas
-
-- **TyCEC**: Tecnología y Exploración de la Creación en el Cosmos
-- **GDU**: Gestor de Dimensiones Universales (previene desastres temporales)
-- **Timenet**: Compañía de Jey Halcime que desarrolla la tecnología
-
-## Ejemplos en la Historia
-
-- **Arco 01**: Biglex y Jey realizan pruebas iniciales viajando 1000 años al pasado
-- **Arco 01**: Visitan la era de los dinosaurios
-- **Arco 01**: Viajan al año 3000 y son capturados por Cyberjol
 
 ## Teoría Científica
 
@@ -84,6 +49,14 @@ La máquina del tiempo funciona mediante:
 1. **Agujeros en el Espacio-Tiempo**: Creados por el Dimantis
 2. **Navegación Cuántica**: Control preciso del destino temporal
 3. **Estabilización Temporal**: Mantener la integridad del viajero
+
+## Organizaciones Relacionadas
+
+- [TyCEC](../05_Organizaciones/TyCEC.md): Tecnología y Exploración de la Creación en el Cosmos.
+- [GDU](../05_Organizaciones/GDU.md): Gestor de Dimensiones Universales (Administración).
+- [GDT](../05_Organizaciones/GDT.md): Gestor de Dimensiones y Tiempo (Operaciones y Seguridad).
+- [SiCoTemp](../05_Organizaciones/SiCoTemp.md): Sistema de Coordenadas Temporales.
+- [Timenet](../05_Organizaciones/Timenet.md): Compañía de Jey Halcime, desarrolladora de la tecnología.
 
 ## Notas
 

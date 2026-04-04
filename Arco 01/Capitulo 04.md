@@ -24,7 +24,7 @@ Jey se detuvo frente a la consola principal, su rostro iluminado por el respland
 
 —¿El mineral del Multiverso 11? —preguntó Biglex, recordando sus lecturas.
 
-—Exactamente. Universo 1, Multiverso 11, en el planeta Celestia. Es un mineral que no solo genera energía, sino que estabiliza el tejido del espacio-tiempo al ser comprimido. Sin él, solo podemos dar saltos cortos y peligrosos. Su primera misión no será viajar al pasado, sino ir por el combustible básico: el Dimantis.
+—Exactamente. Universo 1, Multiverso 11, en el planeta **Celestia.** Es un mineral que no solo genera energía, sino que estabiliza el tejido del espacio-tiempo al ser comprimido. Sin él, solo podemos dar saltos cortos y peligrosos. Su primera misión no será viajar al pasado, sino ir por el combustible básico: el Dimantis.
 
 Jey les entregó una serie de pequeñas esferas metalizadas: **Cápsulas de Compresión**. 
 —Empaquen todo. Comida, suministros, trajes de protección y armas defensivas. Los habitantes de ese cuadrante son... impredecibles. Sean astutos.

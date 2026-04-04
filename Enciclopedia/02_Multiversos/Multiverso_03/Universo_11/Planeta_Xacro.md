@@ -43,7 +43,7 @@ Lumiria es una maravilla arquitectónica que se mezcla armoniosamente con:
 
 ### Habitantes Conocidos
 - **Biglex**: Humano (nacido en la Tierra), reside aquí
-- **Ely**: Nider, vive a 2 millas de Biglex
+- **Ely**: Nider, vive junto a Biglex
 - **Madre de Biglex**: Originaria de Xacro
 - **Padres de Ely**: Fabricantes de androides y naves
 

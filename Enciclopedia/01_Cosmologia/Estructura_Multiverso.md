@@ -7,36 +7,43 @@ El multiverso en "Locuras en el Tiempo" está organizado en una jerarquía de cu
 ## Jerarquía Cósmica Completa
 
 ### Cosmos ✨
-- **Definición**: La totalidad de la existencia
-- **Contenido**: Todos los multiversos conocidos y desconocidos
-- **Alcance**: Infinito e inexplorado en su totalidad
-- **Características**: El nivel más alto de la realidad
+- **Definición**: El "Tejido Primordial", la totalidad de la existencia.
+- **Contenido**: Todos los multiversos conocidos y por descubrir.
+- **Alcance**: Infinito, inexplorado y en constante expansión.
+- **Características**: El nivel de realidad más alto y absoluto.
 
 ### Multiverso 🌐
-- **Definición**: Conjunto de universos relacionados dentro del Cosmos
-- **Numeración**: Multiverso 3, Multiverso 7, Multiverso 11, etc.
-- **Características**: Cada multiverso tiene sus propias leyes físicas sutiles
-- **Forma**: Globos circulares gigantes que flotan en el vacío dimensional
+- **Definición**: Conjunto de universos vinculados por un mismo origen dimensional.
+- **Numeración**: Multiverso 3, Multiverso 5, Multiverso 11, etc.
+- **Características**: Cada multiverso posee constantes físicas y temporales propias.
+- **Forma**: "Globos circulares" masivos que flotan en el vacío del Cosmos.
 
 ### Universo 🔮
-- **Definición**: Burbuja dimensional dentro de un multiverso
+- **Definición**: Burbuja dimensional estable contenida dentro de un multiverso.
 - **Numeración**: Universo 7, Universo 11, Universo 17, etc.
-- **Características**: Comparten las leyes físicas del multiverso padre
-- **Forma**: Burbujas más pequeñas flotando dentro del globo mayor
+- **Características**: Zonas de estabilidad que comparten el tejido del multiverso padre.
+- **Forma**: Burbujas de realidad que coexisten dentro del globo mayor.
+
+### Galaxia 🌌
+- **Definición**: Nódulos de materia y realidad dentro de un universo.
+- **Nomenclatura**: Convención Híbrida (Nombres NASA + Inventados + Códigos GDU). Ejemplo: Vía Láctea, Sector-G7.
+- **Características**: Pueden presentar variaciones físicas según su distancia al Núcleo Universal.
+- **Forma**: Estructuras espirales o elípticas con profundidad tridimensional.
 
 ### Planeta 🪐
-- **Definición**: Cuerpo celeste habitable dentro de un universo
-- **Ejemplos**: Tierra, Xacro, Nicuni, Celestia
-- **Características**: Hogar de especies y civilizaciones
-- **Forma**: Esferas planetarias convencionales
+- **Definición**: Cuerpos celestes habitables, el escenario de la vida cotidiana.
+- **Ejemplos**: Tierra, Xacro, Marte (NASA), Kepler-186f (NASA), Celestia.
+- **Nomenclatura**: Sigue la **Convención Híbrida** (aplica a planetas, lunas, soles y meteoritos).
+- **Características**: Hogar de civilizaciones; donde ocurren los micro-conflictos diarios.
+- **Forma**: Esferas planetarias convencionales bajo leyes físicas estándar.
 
 **Ejemplo de ubicación completa:**
 ```
 Biglex nació en:
-Tierra (Planeta) → Universo 7 → Multiverso 3 → Cosmos
+Tierra (Planeta) → Galaxia Vía Láctea → Universo 7 → Multiverso 3 → Cosmos
 
-Padre de Biglex es de:
-Nicuni (Planeta) → Universo 17 → Multiverso 7 → Cosmos
+El Padre de Biglex es de:
+Nicuni (Planeta) → Galaxia por definir → Universo 17 → Multiverso 7 → Cosmos
 ```
 
 ---
@@ -56,6 +63,7 @@ Los multiversos son las estructuras más grandes, como **globos circulares gigan
 **Multiversos Conocidos:**
 - Multiverso 3 (hogar de Biglex)
 - Multiverso 5
+- Multiverso 7 (Hogar del Padre de Biglex)
 - Multiverso 11
 - Multiverso 12
 
@@ -72,23 +80,51 @@ Dentro de cada multiverso existen múltiples universos, como burbujas más peque
 - Multiverso 3 contiene:
   - Universo 7 (nacimiento de Biglex)
   - Universo 11 (residencia actual de Biglex)
+- Multiverso 7 contiene:
   - Universo 17 (origen del padre de Biglex)
 
-### Nivel 3: Planetas 🪐
+### Nivel 3: Galaxias 🌌
+
+Las galaxias son los motores de materia de cada universo. El **GDU (Gestor de Dimensiones Universales)** las clasifica para facilitar la navegación inter-estelar y el comercio dimensional.
+
+**Características:**
+- **Nomenclatura Híbrida**: Se rige por la **Convención de Nombres Cósmicos** (ver abajo). Fusiona nombres históricos o de la NASA con códigos técnicos.
+- **Variabilidad Física**: La estabilidad de las constantes universales depende de la **distancia al Núcleo Universal** de su universo respectivo.
+- **Tejido Dimensional**: Algunas galaxias presentan "fallos de tejido", zonas donde la física es impredecible o la magia/energía fluye de forma distinta a la estándar.
+
+**Clasificación del GDU:**
+1. **Clase A (Estables)**: Galaxias centrales, leyes físicas rígidas (ej: Vía Láctea).
+2. **Clase B (Periféricas)**: Mayor distancia al núcleo, gravedad o tiempo pueden variar sutilmente.
+3. **Clase X (Anómalas)**: Galaxias con fallos severos en el tejido, solo aptas para exploradores expertos.
+
+### Nivel 4: Planetas 🪐
 
 Los planetas son los cuerpos celestes dentro de cada universo.
 
 **Características:**
-- Siguen las leyes físicas estándar
-- Viaje mediante naves espaciales convencionales
-- Cada planeta puede tener vida y civilizaciones únicas
+- Siguen las leyes físicas estándar.
+- Viaje mediante naves espaciales convencionales.
+- Cada planeta puede tener vida y civilizaciones únicas.
+
+---
+
+## 🛰️ Convención de Nombres Cósmicos
+
+Para evitar la saturación de nombres inventados, el **GDU** y las civilizaciones avanzadas utilizan una lógica unificada para **toda existencia física** (galaxias, planetas, soles, lunas, meteoritos, etc.):
+
+1. **Nombres "Reales" (NASA/Históricos)**: Se mantienen nombres de nuestra realidad para cuerpos conocidos o similares para dar familiaridad (ej: Marte, Júpiter, Alpha Centauri).
+2. **Nombres Inventados**: Nombres únicos creados por civilizaciones locales (ej: Xacro, Nicuni, Lumiria).
+3. **Códigos Técnicos del GDU**: Nomenclatura científica para catalogar objetos (ej: *Kepler-452b*, *Mec-01*, *Sol-Prime-3*).
+
+*Esta lógica aplica a cualquier cuerpo celeste en cualquier universo del Multiverso.*
 
 ## Visualización
 
 ```
 🌐 Multiverso (Globo Grande)
   └─ 🔮 Universo (Burbuja Mediana)
-      └─ 🪐 Planeta (Cuerpo Celeste)
+      └─ 🌌 Galaxia (Nódulo de Materia)
+          └─ 🪐 Planeta (Cuerpo Celeste)
 ```
 
 ### Ejemplo Completo
@@ -103,27 +139,33 @@ Multiverso 3
 │   └── Otros planetas
 ```
 
-**Nota:** El Universo 17 (Planeta Nicuni) pertenece al Multiverso 7, no al Multiverso 3.
+**Nota:** El Universo 17 (Planeta Nicuni) pertenece al Multiverso 7.
 
 ## Métodos de Viaje
 
 ### Entre Planetas
-- **Método**: Naves espaciales convencionales
-- **Dificultad**: ⭐ Baja
-- **Tiempo**: Horas a días
-- **Requisitos**: Nave espacial básica
+- **Método**: Impulsores de iones y motores de curvatura básica.
+- **Dificultad**: ⭐ Mínima (tránsito cotidiano).
+- **Tiempo**: Horas a pocos días.
+- **Requisitos**: Nave civil estándar.
+
+### Entre Galaxias
+- **Método**: Motores de Salto Hiper-Espacial o Puertos de Aceleración.
+- **Dificultad**: ⭐⭐ Moderada.
+- **Tiempo**: Semanas a meses (dependiendo de la cercanía al Núcleo).
+- **Requisitos**: Blindaje contra radiación cósmica y navegación del GDU activa.
 
 ### Entre Universos (mismo multiverso)
-- **Método**: Cruzando los limites de los universos
-- **Dificultad**: ⭐⭐ Media
-- **Tiempo**: Variable
-- **Requisitos**: Navegación especializada
+- **Método**: Sincronización de fase en los límites de la burbuja universal.
+- **Dificultad**: ⭐⭐⭐⭐ Alta.
+- **Tiempo**: Instantáneo (el salto), pero requiere días de preparación.
+- **Requisitos**: Coordenadas validadas y generadores de campo de fase.
 
 ### Entre Multiversos
-- **Método**: Agujeros Blancos
-- **Dificultad**: ⭐⭐⭐ Alta
-- **Tiempo**: Impredecible
-- **Requisitos**: Tecnología avanzada, navegación precisa, Transversor Universal (opcional)
+- **Método**: Agujeros Blancos o Transversores de Realidad.
+- **Dificultad**: ⭐⭐⭐⭐⭐ Crítica.
+- **Tiempo**: Impredecible; el tiempo externo e interno pueden desfasarse.
+- **Requisitos**: Tecnología de punta, Transversor Universal y un guía de navegación avanzada.
 
 ## Ejemplos en la Historia
 

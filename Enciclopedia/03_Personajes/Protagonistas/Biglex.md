@@ -2,7 +2,7 @@
 
 ## Datos Básicos
 
-- **Nombre Completo**: Biglex J
+- **Nombre Completo**: Biglex
 - **Edad**: 20 años
 - **Especie**: Humano (Mestizo)
 - **Género**: Masculino
@@ -36,8 +36,7 @@ Biglex es un joven Humano de apariencia casual y relajada, con un estilo que ref
 - **Postura**: Relajada pero segura, manos frecuentemente en bolsillos o cruzadas
 
 ### Accesorios
-- **Reloj**: En muñeca izquierda, color crema (#F5F2EA), estilo casual-deportivo
-- **Brazalete/Pulsera**: En muñeca derecha, color beige claro (#F9FAF7), posible significado personal
+- **Reloj**: En muñeca izquierda, color crema (#F5F2EA), estilo casual-deportivo, tiene la cualidad de transformarce en un brazalete con capacidades multiples
 - **Sin otros accesorios**: Mantiene un look minimalista
 
 ### Vestimenta
@@ -46,8 +45,7 @@ Biglex es un joven Humano de apariencia casual y relajada, con un estilo que ref
 - **Camisa**: Gris-azul (#8BA7AE), manga larga enrollada hasta los antebrazos
 - **Pantalones**: Beige (#D5C4A0), corte recto tipo chino, funcionales y cómodos
 - **Zapatillas**: Turquesa con detalles blancos (#01D6B9), estilo urbano-deportivo
-- **Reloj**: En muñeca izquierda, color crema (#F5F2EA)
-- **Brazalete**: En muñeca derecha, color coral/beige claro (#F9FAF7)
+- **Reloj/Brazalete**: En muñeca izquierda, color crema (#F5F2EA)
 - **Uso**: Día a día, salidas, viajes cortos, situaciones normales
 - **Contexto**: Su look más reconocible, el que usa por defecto (SIN chaqueta)
 
@@ -116,7 +114,7 @@ Biglex es un joven Humano de apariencia casual y relajada, con un estilo que ref
 ### Habilidades Técnicas
 - **Pilotaje Experto**: Maneja naves espaciales y universales con maestría pero no lee el manual que luego le pasa factura
 - **Conocimiento Técnico**: Aprendió sobre naves ayudando a su padre comerciante
-- **Investigación Científica**: Estudió extensivamente el GDU (Gran Dispositivo Universal) y TyCEC (sistema de coordenadas temporales)
+- **Investigación Científica**: Estudió extensivamente el GDT: Gestor de Dimensiones y Tiempo, y TyCEC (Tecnología y Exploración de la Creación en el Cosmos)
 - **Navegación Multiversal**: Comprende las rutas entre universos
 - **Mecánica**: Puede reparar y mantener naves y dispositivos
 
@@ -153,14 +151,14 @@ Biglex es un joven Humano de apariencia casual y relajada, con un estilo que ref
 ### Pasado (Antes de los 20 años)
 
 **Nacimiento y Familia**
-- **Origen**: Nació en el Universo 7, Planeta Tierra (Humano Mestizo)
+- **Origen**: Nació en el Universo 7, Multiverso 3, Planeta Tierra (Humano Mestizo)
 - **Padre**: Del Universo 17, planeta Nicuni, Multiverso 7 - Comerciante multiversal
 - **Madre**: Del Universo 7, planeta Tierra (o Zecra), Multiverso 3 - Comerciante multiversal
 - **Infancia**: Creció expuesto al comercio entre universos, vio diferentes culturas desde pequeño
 - **Influencia Familiar**: Sus padres le dieron perspectiva amplia del multiverso
 
 **Educación y Desarrollo**
-- **Juventud**: Desarrolló pasión obsesiva por los viajes en el tiempo
+- **Juventud**: Desarrolló pasión por los viajes en el tiempo
 - **Educación Formal**: Detalles no especificados, pero claramente técnica/científica
 - **Autoaprendizaje**: Investigó exhaustivamente TyCEC y el GDU por cuenta propia
 - **Práctica**: Ayudó a su padre con naves, aprendiendo mecánica y pilotaje
@@ -180,31 +178,11 @@ Biglex es un joven Humano de apariencia casual y relajada, con un estilo que ref
 - **Relación**: Enamorado de Ely, relación estable y profunda
 
 **El Llamado de la Aventura**
-- **Encuentro**: Jey Halcime lo busca específicamente
-- **Razón**: Sus conocimientos del TyCEC y habilidades de pilotaje
-- **Reacción**: "Esta era la oportunidad que estaba buscando"
-- **Decisión**: Acepta inmediatamente, Ely decide acompañarlo
+- **Encuentro**: [Jey Halcime](./Jey_Halcime.md) lo busca específicamente por sus conocimientos técnicos.
+- **Inicio de la Misión**: Se une a la tripulación de la Aurora bajo el liderazgo de Jey como su "mano derecha" técnica.
 
-**Inicio de la Misión**
-- **Objetivo**: Encontrar el Dimantis, objeto de poder inmenso
-- **Equipo**: Se une a Flevy, Sina, Yani, Keny, Inca bajo liderazgo de Jey
-- **Rol**: "Mano derecha" de Jey Halcime
-- **Preparativos**: Entrenamiento en Timenet, obtención de equipamiento
-
-### Desarrollo y Evolución
-
-**Arco 01: En Busca del Dimantis**
-- **Capítulos 1-2**: De soñador a aventurero activo
-- **Capítulos 3-4**: Primer viaje entre multiversos real
-- **Capítulos 5-6**: Enfrenta peligros reales, no solo teóricos
-- **Evolución**: De idealista a aventurero experimentado que entiende las consecuencias
-
-**Crecimiento del Personaje**
-- Aprende que la aventura tiene costos reales
-- Desarrolla habilidades de liderazgo prácticas
-- Fortalece relación con Ely bajo presión
-- Gana respeto del equipo por sus conocimientos
-- Confronta la diferencia entre teoría y práctica
+### Trayectoria Narrativa
+Para seguir su evolución, lee la historia en los capítulos del [Arco 01](../../../Arco%2001/).
 
 ## Relaciones
 
@@ -222,21 +200,14 @@ Biglex es un joven Humano de apariencia casual y relajada, con un estilo que ref
 - **Impacto**: Ely lo mantiene centrado cuando se pierde en teorías
 
 ### Jey Halcime
-- **Tipo**: Mentor, líder de la misión, figura paternal
-- **Descripción**: Biglex es su "mano derecha" de confianza
-- **Dinámica**: 
-  - Relación de respeto mutuo
-  - Jey confía en los conocimientos técnicos de Biglex
-  - Biglex admira la experiencia de Jey
-  - Aprendizaje constante
-- **Razón del Reclutamiento**: Conocimientos únicos del TyCEC
-- **Desarrollo**: Jey ayuda a Biglex a madurar como líder
+- **Tipo**: Mentor y figura de confianza.
+- **Relación**: Jey reclutó a Biglex como su "mano derecha" por su expertise técnico.
+- **Vínculo**: Ver perfil completo en [Jey Halcime](./Jey_Halcime.md).
 
-### Equipo de la Misión (Flevy, Sina, Yani, Keny, Inca)
-- **Tipo**: Compañeros de aventura, camaradas
-- **Descripción**: Trabajan juntos para encontrar el Dimantis
-- **Rol de Biglex**: Experto técnico y navegador
-- **Dinámica**: Respeto ganado por su expertise, no por autoridad impuesta
+### Tripulación Aurora
+- **Tipo**: Compañeros de aventura y camaradas técnicos.
+- **Rol**: Biglex actúa como navegador principal y experto en GDU.
+- **Vínculo**: Lista completa y roles en [Tripulación Aurora](../Equipo/Tripulacion_Aurora.md).
 
 ### Padres
 - **Tipo**: Familia, mentores iniciales
@@ -266,110 +237,13 @@ Biglex es un joven Humano de apariencia casual y relajada, con un estilo que ref
 - **Herramientas de Reparación**: Para mantenimiento de nave
 - **Reloj y Brazalete**: Posible significado sentimental
 
-## Momentos Destacados
+## Evolución en la Historia
 
-### Primer Encuentro con Jey Halcime (Capítulo 2)
-**Contexto**: Vida tranquila interrumpida por oportunidad
-
-**Reacción de Biglex**: "Esta era la oportunidad que estaba buscando"
-
-**Significado**: Transición de soñador a aventurero
-
-**Impacto**: Cambió su vida completamente
-
-### Decisión de Ely de Acompañarlo (Capítulo 2)
-**Momento**: Ely dice "Te acompaño Biglex hasta donde vayas"
-
-**Reacción de Biglex**: Alivio y felicidad profunda
-
-**Significado**: No tendría que elegir entre amor y aventura
-
-**Cita**: "Ely, es como si el universo mismo nos estuviera guiñando un ojo"
-
-### Primer Viaje Multiversal (Capítulo 4)
-**Contexto**: Teoría se vuelve realidad
-
-**Experiencia**: Finalmente experimenta lo que estudió años
-
-**Emoción**: Asombro mezclado con validación científica
-
-**Desarrollo**: Entiende que la realidad supera la teoría
-
-### Infiltración en Celestia (Capítulo 6)
-**Situación**: Primera misión de alto riesgo
-
-**Rol**: Pone en práctica sus conocimientos técnicos
-
-**Trabajo en Equipo**: Coordina con Ely usando sus fortalezas complementarias
-
-**Resultado**: Éxito que prueba su valor al equipo
-
-### Momentos Románticos en Medio del Peligro (Capítulo 5)
-**Contexto**: Búsqueda del Dimantis
-
-**Significado**: Encuentra paz con Ely incluso en caos
-
-**Crecimiento**: Aprende a balancear misión y relación personal
-
-## Arco Narrativo
+Esta sección resume la trayectoria fundamental. Para el detalle cronológico, ver el **[Resumen de Arcos](../../07_Historia/Resumen_Arcos.md)**.
 
 ### Arco 01: En Busca del Dimantis
+Primer viaje real entre multiversos. Biglex evoluciona de un joven soñador a un explorador de campo capaz de afrontar los riesgos y responsabilidades del viaje temporal.
 
-**Capítulo 1 - El Soñador**
-- Presentación de Biglex en su vida cotidiana
-- Paseos con Ely por campos de Zecra
-- Anhelo evidente de aventura
-- "Solo quiero explorar"
-- Establecimiento de su pasión por viajes temporales
-
-**Capítulo 2 - El Llamado**
-- Jey Halcime lo busca específicamente
-- Reconocimiento de sus habilidades únicas
-- Decisión inmediata de aceptar
-- Ely decide acompañarlo
-- "Ely, es como si el universo mismo nos estuviera guiñando un ojo"
-
-**Capítulo 3 - Preparativos en Timenet**
-- Entrenamiento para la misión
-- Conoce al resto del equipo
-- Obtiene equipamiento especializado
-- "Esta era la oportunidad que estaba buscando"
-- Transformación mental de civil a aventurero
-
-**Capítulo 4 - Viaje Entre Multiversos**
-- Primer viaje multiversal real (no teórico)
-- Descubrimientos prácticos sobre el TyCEC
-- Validación de años de estudio
-- Maravilla ante la realidad del multiverso
-- Comienza a entender las implicaciones reales
-
-**Capítulo 5 - Búsqueda del Dimantis**
-- Primera confrontación con peligro real
-- Balanceo entre misión y relación con Ely
-- Aplicación práctica de conocimientos
-- Momentos de duda y superación
-- Crecimiento como líder
-
-**Capítulo 6 - Infiltración en Celestia**
-- Misión de alto riesgo
-- Trabajo en equipo con Ely y otros
-- Prueba definitiva de sus habilidades
-- Gana respeto total del equipo
-- Transición completa a aventurero experimentado
-
-### Evolución del Personaje
-- **Inicio**: Soñador teórico con vida tranquila
-- **Catalizador**: Llamado de Jey Halcime
-- **Desarrollo**: Enfrenta realidad vs. teoría
-- **Estado Actual**: Aventurero experimentado con propósito
-- **Futuro**: Continuar creciendo como líder y explorador
-
-### Temas del Arco
-- Sueños vs. Realidad
-- Conocimiento Teórico vs. Experiencia Práctica
-- Amor y Aventura pueden coexistir
-- Responsabilidad que viene con poder/conocimiento
-- Maduración sin perder curiosidad
 
 ## Citas Memorables
 
@@ -445,7 +319,7 @@ Biglex es un joven Humano de apariencia casual y relajada, con un estilo que ref
 
 ## Notas
 
-Biglex J representa el arquetipo del "soñador que finalmente vive su sueño". Es el científico aventurero que demuestra que el conocimiento y la curiosidad pueden ser tan valiosos como la fuerza física. Su relación con Ely añade profundidad emocional sin eclipsar su propia identidad como explorador y experto.
+Biglex representa el arquetipo del "soñador que finalmente vive su sueño". Es el científico aventurero que demuestra que el conocimiento y la curiosidad pueden ser tan valiosos como la fuerza física. Su relación con Ely añade profundidad emocional sin eclipsar su propia identidad como explorador y experto.
 
 Su evolución de soñador teórico a aventurero experimentado es el corazón de la narrativa. Biglex prueba que puedes mantener tu curiosidad y asombro mientras maduras y enfrentas responsabilidades reales. No tiene que elegir entre amor (Ely) y pasión (exploración) - puede tener ambos, y de hecho, ambos se fortalecen mutuamente.
 

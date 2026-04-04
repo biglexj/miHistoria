@@ -7,13 +7,17 @@ Esta sección contiene definiciones de términos importantes del universo.
 ### [Terminos.md](./Terminos.md)
 Glosario completo de términos, conceptos y definiciones.
 
+### [Diccionario_Nombres.md](./Diccionario_Nombres.md)
+Diccionario oficial de nombres inventados, reales (NASA) y códigos del GDU.
+
 ## 🔤 Categorías
 
 ### Cosmología
 - Multiverso
 - Universo
+- Galaxias
 - Agujero Blanco
-- Agujero de Gusano
+- Agujero Negro
 - Quinta Dimensión
 
 ### Tecnología
@@ -25,6 +29,8 @@ Glosario completo de términos, conceptos y definiciones.
 ### Organizaciones
 - TyCEC
 - GDU
+- GDT
+- SiCoTemp
 - Timenet
 - Cyberjol
 

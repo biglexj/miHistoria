@@ -16,22 +16,17 @@ Esta sección documenta las diferentes razas y seres que habitan el multiverso.
 - Ely es Nider, nativa de Xacro
 
 ### [Gisakianos.md](./Gisakianos.md)
-**Seres Biotecnológicos/Sintéticos**
-- Copias de humanos originales que desaparecieron
-- Comparten rasgos y apariencia con Niders pero son sintéticos
-- *[Ubicación por definir]*
+**Seres Biotecnológicos Adaptativos**
+- Copias de humanos originales que desaparecieron.
+- Estructura híbrida biotecnológica.
 
 ### [Androides.md](./Androides.md)
-**Seres Artificiales**
-- Fabricados en Xacro (padres de Ely)
-- Tecnología avanzada
-- Diversos propósitos
+**Seres Artificiales de Apoyo**
+- Fabricados en Xacro para soporte técnico y misiones.
 
-### [Habitantes_Celestia.md](./Habitantes_Celestia.md)
-**Especie de Celestia**
-- Astutos en estrategia
-- Físicamente menos fuertes que los invasores
-- En guerra durante el Arco 01
+### [Celestianos.md](./Celestianos.md)
+**Raza del Planeta Celestia, Universo 1, Multiverso 11**
+- Astutos estrategas, actualmente bajo asedio.
 
 ### Otras Especies
 - **Cyberjolianos**: Habitantes del año 3000
@@ -62,6 +57,19 @@ Esta sección documenta las diferentes razas y seres que habitan el multiverso.
 
 ### Artificiales
 - Androides
+
+---
+
+## 📏 Reglas de Escritura: Jerarquía Espacial
+Para mantener la coherencia y evitar escalas excesivas, la descripción del origen de cada especie debe seguir obligatoriamente este orden:
+
+1. **Nombre de Especie**
+2. **Planeta de Origen**
+3. **Galaxia** (Opcional, si está definida)
+4. **Universo**
+5. **Multiverso**
+
+*Ejemplo: Celestianos → Planeta Celestia → Galaxia Dorada (N/A) → Universo 1 → Multiverso 11.*
 
 ---
 

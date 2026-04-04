@@ -144,16 +144,11 @@ Ely es una joven Nider de belleza llamativa y apariencia vibrante. Su presencia 
 - **Educación**: Conocimientos técnicos por influencia familiar
 
 ### Presente (Inicio de la Historia)
-- **Vida Cotidiana**: Tranquila, paseando por los campos de Zecra con Biglex
-- **El Llamado**: Jey Halcime recluta a Biglex para la misión del Dimantis
-- **Decisión Crucial**: Acepta unirse a la misión sin dudar
-- **Compromiso**: "Te acompaño Biglex hasta donde vayas"
+- **Vida Cotidiana**: Tranquila, paseando por los campos de Zecra con Biglex.
+- **El Llamado**: Decide unirse a la misión del Dimantis impulsada por su lealtad hacia Biglex y su propia curiosidad científica.
 
-### Desarrollo y Evolución
-- **Arco 01 - Capítulos 1-3**: Presentación como la novia de Biglex, decisión de unirse a la aventura
-- **Arco 01 - Capítulos 4-6**: Demuestra su ingenio estratégico repetidamente, gana respeto del equipo
-- **Evolución del Personaje**: De "compañera romántica" a "aventurera estratégica" por derecho propio
-- **Crecimiento**: Aprende a confiar en sus propias habilidades fuera de la sombra de Biglex
+### Trayectoria Narrativa
+Para seguir su evolución, lee la historia en los capítulos del [Arco 01](../../../Arco%2001/).
 
 ## Relaciones
 
@@ -167,15 +162,14 @@ Ely es una joven Nider de belleza llamativa y apariencia vibrante. Su presencia 
 - **Química**: Natural, sin drama innecesario, equipo sólido
 
 ### Jey Halcime
-- **Tipo**: Líder de la misión, figura de autoridad
-- **Descripción**: Confía en las habilidades de Ely, la reclutó junto a Biglex
-- **Dinámica**: Respeto mutuo profesional
-- **Desarrollo**: Jey aprende a valorar su inteligencia estratégica
+- **Tipo**: Mentor y líder.
+- **Relación**: Ely inicialmente se une por Biglex, pero gana el respeto de Jey por su inteligencia estratégica.
+- **Vínculo**: Ver perfil completo en [Jey Halcime](./Jey_Halcime.md).
 
-### Equipo de la Misión
-- **Tipo**: Compañeros de aventura
-- **Descripción**: Trabajan juntos eficientemente
-- **Rol de Ely**: Analista estratégica y decodificadora
+### Tripulación Aurora
+- **Tipo**: Compañeros de misión.
+- **Rol**: Copiloto y estratega de sistemas.
+- **Vínculo**: Detalles en [Tripulación Aurora](../Equipo/Tripulacion_Aurora.md).
 
 ### Padres
 - **Tipo**: Familia, relación de soporte
@@ -183,90 +177,13 @@ Ely es una joven Nider de belleza llamativa y apariencia vibrante. Su presencia 
 - **Influencia**: Le transmitieron conocimiento técnico y pensamiento lógico
 - **Legado**: Base de su comprensión tecnológica
 
-## Momentos Destacados
+## Evolución en la Historia
 
-### Descubrimiento de la Debilidad de Cyberjol (Año 3000)
-**Situación**: El equipo infiltrado en territorio enemigo
-
-**Observación de Ely**: Los Cyberjolianos se comunicaban mediante:
-- Sonidos agudos específicos
-- Luces parpadeantes en patrones codificados
-
-**Conclusión Estratégica**: Su audición para susurros humanos es deficiente
-
-**Plan de Acción**: "Debemos aprovechar su mala audición! Cuando hablemos, hagámoslo en susurros"
-
-**Resultado**: Escape exitoso del equipo
-
-### Descifrado de Comunicaciones en Celestia (Capítulo 6)
-**Situación**: Señales confusas desde el planeta
-
-**Análisis de Ely**:
-- Señales de socorro: secuencias repetidas con luces parpadeantes regulares
-- Amenazas de invasores: secuencias caóticas y oscurecidas
-
-**Impacto**: Información crucial para la estrategia del equipo
-
-### Momento Romántico en el Campo de Zecra (Capítulo 1)
-**Contexto**: Antes de la misión, vida tranquila
-
-**Frase memorable**: "¡Imagínate poder viajar al pasado y ver cómo vivían los dinosaurios! Eso sería alucinante."
-
-**Significado**: Prefiguración de su amor por la aventura
-
-## Equipamiento
-
-### Equipamiento Estándar de Misión
-- **Cápsulas de Compresión**: Para almacenamiento eficiente de suministros
-- **Armas**: Proporcionadas y configuradas por Jey Halcime
-- **Comunicadores**: Dispositivos de comunicación de largo alcance
-- **Equipo de Camuflaje**: Para infiltraciones
-- **Kit de Supervivencia**: Suministros básicos comprimidos
-
-### Equipamiento Personal
-- No depende de tecnología pesada
-- Prefiere herramientas de análisis sobre armas
-- Lleva dispositivos de su propio diseño (influencia de sus padres)
-
-## Arco Narrativo
+Esta sección resume su trayectoria fundamental. Para el detalle cronológico, ver el **[Resumen de Arcos](../../07_Historia/Resumen_Arcos.md)**.
 
 ### Arco 01: En Busca del Dimantis
+Introducción como compañera de Biglex. Evoluciona de una ingeniera de taller a una estratega indispensable para el éxito de la misión en el Multiverso 11.
 
-**Capítulo 1 - Introducción**
-- Presentación de Ely y su relación con Biglex
-- Vida tranquila en los campos de Zecra
-- Curiosidad por la aventura ya evidente
-
-**Capítulo 2 - El Llamado**
-- Jey Halcime recluta a Biglex
-- Ely decide unirse sin vacilación
-- "Te acompaño Biglex hasta donde vayas y me gusta la idea de viajar y conocer otros tiempos"
-
-**Capítulo 3 - Preparativos**
-- Entrenamiento para la misión
-- Ely recibe equipamiento
-- Primeras muestras de su capacidad analítica
-
-**Capítulo 4 - Viaje entre Multiversos**
-- Experiencia de viaje interdimensional
-- Adaptación a nuevos entornos
-- Trabajo en equipo con el grupo
-
-**Capítulo 5 - Búsqueda del Dimantis**
-- Momentos de acción y peligro
-- Momentos románticos con Biglex
-- "A pesar de los peligros que enfrentamos, siempre encuentro la paz en tus brazos"
-
-**Capítulo 6 - Infiltración en Celestia**
-- Descifrado de señales cruciales
-- Demuestra su valor estratégico
-- Solidifica su rol en el equipo
-
-### Evolución del Personaje
-- **Inicio**: La novia de Biglex que decide acompañarlo
-- **Desarrollo**: Aventurera que demuestra habilidades únicas
-- **Estado Actual**: Miembro valioso del equipo por mérito propio
-- **Futuro**: Continuar creciendo como estratega y líder
 
 ## Citas Memorables
 

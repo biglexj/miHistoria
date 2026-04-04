@@ -4,7 +4,7 @@
 
 - **Ubicación**: Universo 7, Multiverso 3
 - **Tipo**: Terrestre
-- **Importancia**: Lugar de nacimiento de Biglex J.
+- **Importancia**: Lugar de nacimiento de Biglex.
 - **Estado Actual**: Conocido como un planeta de origen, pero Biglex ya no reside aquí.
 
 ---

@@ -12,21 +12,28 @@ Esta sección documenta las facciones, grupos y organizaciones del universo.
 
 ### [GDU.md](./GDU.md)
 **Gestor de Dimensiones Universales**
-- Sistema planetario de investigación
-- Previene desastres temporales y dimensionales
-- Monitorea anomalías en el espacio-tiempo
+- Entidad administrativa y diplomática intermodal.
+- Sede: Estación Vórtice (Multiverso 11).
+
+### [GDT.md](./GDT.md)
+**Gestor de Dimensiones y Tiempo**
+- Entidad técnica de seguridad temporal.
+- Previene paradojas y mantiene la integridad de la línea de tiempo.
+
+### [SiCoTemp.md](./SiCoTemp.md)
+**Sistema de Coordenadas Temporales**
+- Estándar técnico para la navegación en el tiempo.
+- Sincronización de reloj universal y métricas de desviación.
 
 ### [Timenet.md](./Timenet.md)
 **Compañía de Jey Halcime**
-- Ubicación: Ciudad de Nides
-- Desarrolla tecnología de viajes temporales
-- Posee la Máquina del Tiempo
+- Ubicación: Ciudad de Nides.
+- Tecnología de exploración y desarrollo temporal.
 
 ### [Cyberjol.md](./Cyberjol.md)
 **Sistema de Control del Año 3000**
-- Antagonista principal (Arco 01)
-- Controla la prisión temporal
-- Experimenta con viajes en el tiempo
+- Antagonista principal (Arco 01).
+- Enclave de la Prisión Temporal.
 
 ## 📊 Por Tipo
 
