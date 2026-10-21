@@ -31,6 +31,15 @@ Esta sección documenta las diferentes razas y seres que habitan el multiverso.
 ### Otras Especies
 - **Cyberjolianos**: Habitantes del año 3000
 - **Invasores de Celestia**: Especie desconocida
+- **Gikenos**: Nombre en una nota de ideas, sin ficha ni relación confirmada con los Gisakianos. Mantener pendiente; no contarlo todavía como especie distinta ni como alias.
+
+## Criterios para completar fichas
+
+- Distinguir especie biológica, ser artificial, civilización y organización; no son categorías intercambiables.
+- Registrar el origen solo con planeta, universo y multiverso confirmados.
+- Describir capacidades junto con límites y evidencias en capítulos.
+- La profesión, el cargo y la función dramática pertenecen a cada personaje y arco; no se deducen de su especie.
+- Marcar explícitamente lo confirmado y lo pendiente. No rellenar campos con suposiciones.
 
 ## 📊 Por Origen
 
