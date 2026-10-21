@@ -23,9 +23,9 @@ El **Dimantis** es un mineral raro y extremadamente poderoso que sirve como fuen
 ## Ubicación
 
 ### Ubicación Original
-- **Multiverso**: 12
+- **Multiverso**: 11
 - **Universo**: 1
-- **Planeta**: *[Pendiente de especificar]*
+- **Planeta**: Celestia
 
 > **Nota**: Esta ubicación remota hace que obtener el Dimantis sea una misión extremadamente peligrosa y compleja.
 
@@ -58,13 +58,10 @@ El Dimantis es esencial para:
 
 ### Arco 01: La Misión del Dimantis
 
-**Capítulo 3**: Jey Halcime revela la necesidad del Dimantis
-> "Necesito un elemento muy peculiar, el Dimantis, que se encuentra en el universo 1 del multiverso 12. Sin el Dimantis, la máquina del tiempo no podría operar adecuadamente ni abrir agujeros en el espacio-tiempo."
+**Capítulo 4**: Jey Halcime revela la ubicación del Dimantis
+> "Exactamente. Universo 1, Multiverso 11, en el planeta Celestia."
 
-**Capítulos 4-6**: Biglex, Ely y el equipo viajan en busca del Dimantis
-- Atraviesan múltiples multiversos
-- Enfrentan diversos peligros
-- Llegan al Multiverso 11, Universo 1 (Celestia)
+**Capítulos 4-12**: Biglex, Ely y el equipo viajan en busca del Dimantis, lo obtienen en Celestia y emprenden el regreso a casa.
 
 ## Importancia Narrativa
 
