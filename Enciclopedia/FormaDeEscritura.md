@@ -1,154 +1,119 @@
-INSTRUCCIONES: INTEGRAR NARRATIVA COTIDIANA EN MI HISTORIA
+# Guía de escritura y continuidad — Locuras en el Tiempo
 
-OBJETIVO
-Humanizar la trama sci-fi con micro-conflictos y detalles mundanos que hagan la historia mas cercana y natural, estilo The Big Bang Theory, Young Sheldon y Georgie & Mandy en contexto futurista.
+## Propósito y alcance
 
-PRINCIPIO FUNDAMENTAL
-EL FUTURO ES EL ESCENARIO, NO EL PROTAGONISTA
-- La tecnologia esta normalizada para los personajes
-- No se sorprenden por naves, IA o viajes espaciales
-- Es su dia a dia, como tu con el celular
+Esta es la guía operativa para escribir y revisar la historia. Conserva su identidad de aventura de ciencia ficción, sus personajes y sus reglas confirmadas, y permite mejorar la estructura poco a poco. No completa por cuenta propia los datos que aún están por decidir.
 
-REGLAS BASE
+Los referentes de comedia familiar y de convivencia sirven para observar el uso de rutinas, roces pequeños y humor de personajes. No se imitan voces, diálogos ni escenas concretas.
 
-1. PERSONAJES CON DEFECTOS REALES
-- Inseguridades normales
-- Manias molestas
-- Preferencias que chocan entre si
-- Rutinas aburridas
+## Qué cuenta como canon
 
-2. CONFLICTOS COTIDIANOS DISFRAZADOS
-- Discusion sobre que ruta tomar en el espacio = discusion de road trip
-- Pelea por controlar la musica de la nave = pelea por el aux del carro
-- Queja por hambre en mision importante = queja tipica de viaje largo
-- Debate sobre paradas tecnicas = debate sobre parar en gasolinera
+Al revisar una contradicción, seguir este orden:
 
-3. CONSECUENCIAS LOGICAS
-- Las decisiones tienen resultados creibles
-- No hay soluciones magicas de ultimo minuto
-- Los errores cuestan (tiempo, recursos, relaciones)
+1. La petición actual y las decisiones explícitas de Biglex.
+2. Los capítulos vigentes que muestran un hecho en la historia.
+3. Las fichas y reglas actuales de la Enciclopedia.
+4. Los documentos de ideas futuras, que son posibilidades hasta que se integren.
+5. Las versiones antiguas y notas históricas.
 
-4. HUMOR ORGANICO
-- Nace de la personalidad de los personajes
-- Situaciones comicas por choque de personalidades
-- NO chistes forzados
+Marcar las afirmaciones de trabajo como **Confirmado**, **Propuesta** o **Pendiente** cuando su estado pueda confundirse. Una ficha no convierte por sí sola una propuesta en canon. No corregir una contradicción cambiando en silencio los capítulos: primero registrar qué fuente prevalece y qué consecuencias tendría la corrección.
 
-5. DETALLES MUNDANOS CONSTANTES
-- Mostrar rutinas aburridas (comer, dormir, limpiar)
-- Conversaciones sin importancia argumental
-- Quejas por incomodidades
+La revisión del Arco 01 mostró una mediana aproximada de 1.460 palabras por capítulo y un rango de 856–2.101. Ese conteo inicial incluye el archivo Markdown completo, incluidos títulos y formato; sirve como referencia del material existente, no como medición editorial exacta.
 
-REGLAS DE IDENTIDAD (NO MEZCLAR MARCA CON HISTORIA)
+## Personajes, especies y funciones
 
-6. DISTINCIÓN ENTRE CREADOR Y PERSONAJE
-- Biglex (Historia) ≠ Biglex J (Marca/Canal). En la narrativa es un aventurero y protagonista, no un representante de marca.
-- Ely (Historia) ≠ Ely VTuber (Canal). En la narrativa es una Nider (humanoide) y compañera, NO es una IA ni una VTuber.
-- Los términos "VTuber", "IA" o cargos corporativos NO existen dentro del universo de MI HISTORIA para estos personajes.
-- Mantener la esencia de sus personalidades pero adaptados 100% a un contexto de "personas reales" dentro de su mundo sci-fi.
+Biglex y Ely son personajes dentro de este universo. No introducir en la ficción su identidad de canal, su condición de VTuber ni una identidad de IA.
 
-LISTA DE MICRO-CONFLICTOS APLICABLES
+La especie describe origen y rasgos biológicos o sintéticos; por sí sola no determina carácter, oficio, moralidad, capacidad ni bando. Cada especie puede contener diferencias individuales, culturales e históricas. Evitar que todo personaje de una especie comparta una misma conducta.
 
-Conflictos Interpersonales:
-- Habitos molestos de compañeros de nave
-- Diferencias en orden/limpieza
-- Horarios de sueño incompatibles
-- Preferencias de temperatura/iluminacion
-- Invasion de espacio personal en nave pequeña
-- Quien controla entretenimiento (musica, holovids)
+Registrar las funciones por personaje y por arco, porque alguien puede cambiar de responsabilidad con la experiencia y las circunstancias. Distinguir:
 
-Conflictos Logisticos:
-- Racionamiento de recursos (comida, agua, energia)
-- Turnos de tareas aburridas (limpieza, mantenimiento)
-- Quien controla la ruta/decisiones
-- Prioridades diferentes en gastos/recursos
-- Discusiones sobre eficiencia vs comodidad
+- **Función dramática**: qué aporta al conflicto y a su resolución.
+- **Especialidad**: qué sabe hacer, con sus límites.
+- **Cargo o autoridad**: a quién puede dirigir y en qué ámbito.
+- **Estado en el arco**: activo, ausente, en reserva u otro estado confirmado.
 
-Conflictos Emocionales Sutiles:
-- Frustracion acumulada que explota por tonteria
-- Celos profesionales/personales
-- Miedo disfrazado de enojo
-- Cansancio que genera irritabilidad
-- Estres que saca lo peor de cada uno
+Un puesto de mando no vuelve a su titular el mejor especialista en cada área. Repartir decisiones relevantes entre el elenco según lo establecido en sus fichas, y dar agencia a los personajes secundarios cuando su conocimiento o elección sea necesario.
 
-FORMATO DE IMPLEMENTACION
+Las especies y funciones aún sin definir se mantienen como pendientes. No asignarles especie, origen, poderes ni una función futura solo para completar una tabla. Al planear cada arco, anotar quién participa, qué quiere, qué decisión toma, qué límite enfrenta y cómo cambia al terminar.
 
-Estructura de escena cotidiana:
+## Jerarquías y escalas
 
-1. CONTEXTO DE TRAMA PRINCIPAL
-2. DETALLE MUNDANO
-3. MICRO-CONFLICTO
-4. RESOLUCION SIMPLE
-5. VUELTA A TRAMA PRINCIPAL
+La ubicación espacial ya establecida sigue esta cadena: **Cosmos → Multiverso → Universo → Galaxia → Planeta**. Es una escala de contención y ubicación, no una medida de poder o mérito.
 
-Tiempo narrativo: 1-2 parrafos maximo
-No interrumpe el ritmo, pero humaniza
+Mantener separadas varias dimensiones de comparación:
 
-EJEMPLOS DE REFERENCIA (TBBT/Young Sheldon/Georgie & Mandy)
+- **Escala de existencia y ubicación**: dónde existe algo.
+- **Autoridad**: qué decisiones puede tomar una persona u organización y sobre quiénes.
+- **Capacidad**: aptitud física, técnica, social o sobrenatural, descrita por separado.
+- **Conocimiento y acceso**: qué información, recursos o lugares puede alcanzar.
+- **Movilidad**: qué distancias o fronteras puede cruzar y con qué medios.
 
-Estilo The Big Bang Theory:
-- Sheldon tiene mania con su asiento especifico
-- Leonard se frustra con habitos de Sheldon
-- Discusiones por nimiedades (quien compra comida, limpieza)
-- Chistes internos que se repiten
-- Problemas cotidianos en contexto "extraordinario"
+No resumirlas en una única clasificación de “más fuerte”. Si dos personajes se comparan, indicar el eje y la situación concretos; una ventaja en uno no concede automáticamente ventajas en los demás. La jerarquía institucional de una organización tampoco debe confundirse con la jerarquía cósmica.
 
-Estilo Young Sheldon:
-- Familia normal lidiando con genio raro
-- Conflictos familiares tipicos (dinero, escuela, religion)
-- Rutinas del sur de Texas normalizadas
-- Narrador adulto da contexto con humor
-- Eventos grandes vistos desde perspectiva pequeña
+## Magia y reglas de cada universo
 
-Estilo Georgie & Mandy:
-- Pareja joven con problemas reales (dinero, vivienda)
-- Choque generacional con familia politica
-- Estres de paternidad joven
-- Decisiones cotidianas con peso emocional
-- Humor nace de situaciones incomodas pero realistas
+No asumir que todos los universos tienen magia ni que sus reglas son iguales. Para cada universo donde se confirme, documentar:
 
-APLICACION EN CONTEXTO SCI-FI
+- Estado: confirmado, descartado o pendiente.
+- Fuente y quién puede acceder a ella.
+- Efectos posibles y límites.
+- Coste, riesgo o consecuencia.
+- Cómo se detecta, aprende o controla.
+- Compatibilidad al viajar a otro universo y qué cambia allí.
+- Ejemplos ya mostrados en capítulos.
 
-Transportar estos elementos a MI HISTORIA:
+La tecnología, la biología y la magia deben distinguirse cuando tengan causas o límites diferentes. Si algo no está definido, dejarlo pendiente; no usar una habilidad nueva para resolver una escena sin preparación o coste.
 
-En lugar de:
-- "Sheldon tiene su asiento"
-Aplicar:
-- "Biglex tiene su control de navegacion que nadie mas puede tocar"
+## Cotidianidad, humor y escenas tranquilas
 
-En lugar de:
-- "Familia discute por cena de Accion de Gracias"
-Aplicar:
-- "Tripulacion discute por racionamiento de comida favorita"
+El futuro es el entorno habitual de los personajes. Naves, asistentes y viajes no causan asombro por defecto a quienes los usan cada día; sí pueden sorprender una tecnología desconocida, una anomalía o una cultura con reglas nuevas.
 
-En lugar de:
-- "Georgie preocupado por pagar renta"
-Aplicar:
-- "Personaje preocupado por creditos para combustible de nave"
+Las rutinas, bromas y roces pequeños pueden mostrar carácter, fortalecer o tensar relaciones, expresar la cultura, hacer visibles límites materiales o dar respiro entre escenas intensas. Cada escena debe cumplir al menos una de esas funciones. Si solo repite una idea o retrasa el conflicto, se corta o se integra en otra escena.
 
-CHECKLIST ANTES DE ESCRIBIR ESCENA
+El humor nace de la personalidad y la circunstancia. Los conflictos cotidianos tienen consecuencias proporcionales y no sustituyen el conflicto principal. No exigir una escena doméstica cada cierto número fijo de párrafos ni una proporción matemática entre aventura y vida diaria: se usa cuando encaja y se omite cuando interrumpe el ritmo.
 
-- ¿Los personajes actuan como personas reales?
-- ¿Hay al menos un detalle mundano cada 3-4 parrafos de accion?
-- ¿Los conflictos tienen consecuencias logicas?
-- ¿El humor nace organicamente de las personalidades?
-- ¿La tecnologia esta normalizada (no genera asombro)?
-- ¿Hay espacio para lo aburrido/rutinario?
-- ¿Podria esta escena pasar en TBBT pero en el espacio?
+## Extensión y estructura de capítulo
 
-PROPORCION NARRATIVA
+**Medida principal: palabras del cuerpo del capítulo.**
 
-Equilibrio ideal:
-- 70% trama principal
-- 30% detalles mundanos
+- Objetivo habitual: **1.300–1.800 palabras**.
+- Margen flexible: **1.000–2.200 palabras**.
+- Menos de 1.000 o más de 2.200: revisar ritmo, escenas y propósito; no recortar ni alargar automáticamente.
+- Referencia secundaria: aproximadamente **7.500–11.500 caracteres**, contando espacios en el texto del capítulo. Los caracteres varían mucho según diálogo y formato, así que no prevalecen sobre el conteo de palabras.
+- Párrafos: como orientación, **50–80 bloques narrativos** por capítulo, con margen aproximado de 40–100. Los diálogos de una sola intervención cuentan como bloque; no se fuerzan para alcanzar una cifra.
+- No estandarizar líneas: su longitud depende del ancho de pantalla, el editor y el formato final.
+- Como punto de partida, estructurar cada capítulo en **3–6 escenas**; ampliar o reducir según el conflicto y el ritmo.
 
-Los micro-conflictos deben:
-- Revelar personalidad
-- Construir relaciones
-- Generar empatia
-- NO solo rellenar espacio
+Para comparar capítulos, contar solo el texto narrativo, sin notas editoriales ni índices. Registrar el mismo criterio cada vez. Una cifra fuera del margen es una señal para revisar, no un defecto por sí sola.
 
-NOTA FINAL
+## Arcos, temporadas y avance gradual
 
-La cotidianidad debe sentirse natural, no insertada a la fuerza. Si una escena no fluye con detalles mundanos, no forzarlos. Pero siempre buscar oportunidades organicas de humanizar.
+Cada capítulo debe tener una intención legible, un cambio o descubrimiento y una salida que invite a continuar o permita respirar. No todos necesitan un giro ni un gancho dramático.
 
-Referencia constante: ¿Chuck Lorre pondria esta escena? Si la respuesta es no, reescribir.
+Cada temporada debe cerrar su conflicto principal y dejar visible qué cambió para sus personajes. Puede dejar una consecuencia, pregunta o hilo mayor abierto. Ese hilo avanza de forma perceptible pero gradual; la siguiente temporada parte de las consecuencias reales, no devuelve a los personajes al punto inicial.
+
+Los arcos, temporadas y capítulos son niveles distintos hasta que el plan los haga coincidir. No asumir que un arco equivale a una temporada. El cierre debe responder a la promesa planteada, no solo alcanzar un número de capítulos.
+
+## Trabajo capítulo por capítulo
+
+Para cada capítulo:
+
+1. Leer el capítulo completo y consultar únicamente las fichas y reglas relacionadas.
+2. Resumir qué ocurre, qué queda establecido y qué cambia para cada personaje presente.
+3. Señalar contradicciones, repeticiones, pendientes y escenas sin función clara.
+4. Proponer una estructura revisada que conserve los hechos aprobados y mejore ritmo, motivación, causalidad y cierre.
+5. Separar decisiones de canon necesarias de ajustes de redacción.
+6. Revisar el capítulo actualizado frente a las fichas, los capítulos vecinos y el presupuesto de extensión.
+
+Trabajar un capítulo a la vez. No cambiar capítulos vecinos ni convertir una nota de futuro en una escena vigente sin indicarlo.
+
+## Lista breve antes de cerrar una revisión
+
+- ¿Se conserva el punto de vista y la identidad ya elegidos?
+- ¿Las decisiones tienen causas, límites y consecuencias?
+- ¿Las especies y las funciones siguen lo confirmado y evitan estereotipos?
+- ¿La escena cotidiana aporta algo y aparece con naturalidad?
+- ¿El sistema de magia o tecnología respeta las reglas ya mostradas?
+- ¿El capítulo cambia algo y termina en un punto adecuado?
+- ¿Su extensión apoya el ritmo en vez de obedecer una cuota?
