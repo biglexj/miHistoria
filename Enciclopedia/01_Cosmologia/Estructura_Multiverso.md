@@ -2,7 +2,7 @@
 
 ## Descripción General
 
-El multiverso en "Locuras en el Tiempo" está organizado en una jerarquía de cuatro niveles, desde el Cosmos hasta los planetas individuales. La estructura se visualiza como **"globos circulares"** anidados, donde cada nivel contiene realidades dentro de realidades.
+El multiverso en "Locuras en el Tiempo" está organizado en una jerarquía de cinco niveles, desde el Cosmos hasta los planetas individuales. La estructura se visualiza como **"globos circulares"** anidados, donde cada nivel contiene realidades dentro de realidades.
 
 ## Jerarquía Cósmica Completa
 
