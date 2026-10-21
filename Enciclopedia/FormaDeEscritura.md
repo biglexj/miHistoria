@@ -26,6 +26,8 @@ Biglex y Ely son personajes dentro de este universo. No introducir en la ficció
 
 La especie describe origen y rasgos biológicos o sintéticos; por sí sola no determina carácter, oficio, moralidad, capacidad ni bando. Cada especie puede contener diferencias individuales, culturales e históricas. Evitar que todo personaje de una especie comparta una misma conducta.
 
+No asumir que dos nombres parecidos identifican la misma especie ni que nombran especies distintas. Comparar origen, biología, historia y rasgos confirmados; mantener la relación como pendiente hasta que Biglex la defina. En particular, **Gikenos** aparece en una nota de ideas como especie pendiente y **Gisakianos** tiene una ficha propia: su relación aún no está resuelta.
+
 Registrar las funciones por personaje y por arco, porque alguien puede cambiar de responsabilidad con la experiencia y las circunstancias. Distinguir:
 
 - **Función dramática**: qué aporta al conflicto y a su resolución.
