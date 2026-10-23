@@ -1,147 +1,155 @@
-# Capitulo 09 - Infiltración en Celestia
+# Capítulo 09: El precio de volver
 
-## Descenso
+La pieza que Yani esperaba no cabía por la primera puerta.
 
-La *Aurora* descendió a través de las nubes doradas de **Celestia**, su camuflaje activo distorsionando su firma energética para parecer solo otra pieza de escombro espacial. Biglex piloteaba con precisión milimétrica, evitando las zonas de combate que Sina marcaba en los sensores.
+El técnico de Vórtice aseguró que era equivalente a la que habían solicitado. Yani le mostró las medidas y esperó a que intentara introducirla sin inclinar el carro. El hombre regresó a su almacén con la misma pieza y bastante menos seguridad.
 
-—Zona de aterrizaje a la vista —anunció Flevy—. Dos kilómetros al norte de la señal del **Dimantis**. Parece estar libre de actividad militar.
+Keny se sentó en una caja.
 
-A través de la ventana, **Celestia** se revelaba en toda su belleza trágica. El planeta era un mosaico de cristales dorados y bosques bioluminiscentes, pero esa belleza estaba manchada por las cicatrices de la guerra. Ciudades en ruinas, cráteres de bombardeo, y el humo de incendios que se elevaba hacia el cielo.
+—La compatibilidad universal es preciosa mientras no tenga que pasar por una puerta.
 
-—Es hermoso —murmuró Ely—. Y lo están destruyendo.
+La demora aumentaba la tarifa de atraque. Biglex consultó el balance, calculó qué provisiones podían reducir y encontró que cada ahorro desplazaba el problema a otra parte.
 
-—Concéntrate —dijo Biglex, aunque su voz también llevaba un tono de tristeza—. Tenemos una misión que cumplir.
+Ely le pidió que no recortara nada todavía.
 
-La nave aterrizó suavemente en un valle rodeado de formaciones cristalinas que brillaban con luz propia. El terreno era accidentado, pero ofrecía cobertura natural. Perfecto para ocultarse.
+—Primero sepamos cuánto cuesta lo que de verdad necesitamos.
 
-—Aterrizaje completado —anunció Biglex—. Flevy, Sina, mantengan los sensores activos. Yani, Keny, aseguren que los motores estén listos para un despegue rápido si es necesario.
+El presupuesto corregido llegó antes del mediodía. Había un ahorro posible, pero no era una comida ni un medicamento: podían prescindir de una cubierta nueva si reparaban la existente y aceptaban un límite de uso.
 
-—Entendido, capitán —respondieron al unísono.
-
-## El Despertar de Kael
-
-Biglex se levantó de su asiento y se dirigió a la sección de criogenización, seguido por Ely y Nyx.
-
-—Necesitamos a alguien que pueda hackear sistemas locales —dijo Biglex—. Necesitamos información sobre qué está pasando aquí, quiénes son los invasores, qué buscan. No podemos movernos a ciegas.
-
-Nyx asintió, acercándose a una de las cápsulas.
-
-—**Kael** es nuestra mejor opción. Experta en hacking, seguridad informática, y sistemas de encriptación. Si hay información que conseguir, ella la encontrará.
-
-Nyx activó la secuencia de despertar. La cápsula emitió un zumbido suave, y la luz azulada comenzó a desvanecerse. Lentamente, una mujer de complexión atlética comenzó a moverse, sus ojos parpadeando mientras recuperaba la conciencia.
-
-—¿Dónde...? —murmuró Kael, su voz ronca.
-
-—Bienvenida de vuelta —dijo Biglex—. Estamos en **Celestia**, **Multiverso 11**. Necesitamos tu ayuda.
-
-Kael se incorporó, frotándose los ojos. Era una Nider de cabello corto y oscuro, con marcas de circuitos tatuados en sus antebrazos que pulsaban suavemente con luz verde.
-
-—¿**Celestia**? —preguntó, procesando la información—. ¿La misión del **Dimantis**?
-
-—Exacto —confirmó Ely—. Pero el planeta está en guerra. Necesitamos información antes de movernos. Quiénes son los invasores, qué buscan, cómo evitarlos.
-
-Kael asintió, poniéndose de pie con ayuda de Biglex.
-
-—Entendido. Dame acceso a los sistemas de la nave y veré qué puedo interceptar de las comunicaciones locales.
-
-## Equipamiento
-
-Mientras Kael trabajaba en la cabina de mando interceptando señales, Biglex y Ely se prepararon en la bodega de carga. Las **cápsulas de compresión** que Jey les había dado contenían todo lo necesario para una misión de infiltración.
-
-Biglex activó una cápsula, y con un destello de luz, se materializó un arsenal compacto: armas defensivas de energía, dispositivos de comunicación encriptados, herramientas de infiltración, y suministros de emergencia.
-
-—Jey pensó en todo —comentó Ely, revisando un rifle de pulsos—. Estas armas son de última generación.
-
-—Esperemos no tener que usarlas —respondió Biglex, ajustándose un chaleco táctico—. Nuestra prioridad es sigilo, no combate.
-
-Kael bajó de la cabina, ya equipada con su propio equipo especializado: un brazalete de hacking avanzado, gafas de realidad aumentada, y un dispositivo de interferencia de señales.
-
-—Listo —anunció—. He interceptado varias transmisiones. Los invasores se llaman a sí mismos los **Corvax**. Son de otro **universo** dentro de **M11**. Buscan minerales raros para alimentar su industria de guerra.
-
-—¿Saben sobre el **Dimantis**? —preguntó Biglex.
-
-—No específicamente —respondió Kael—. Pero están escaneando el planeta en busca de "anomalías energéticas de alto valor". El **Dimantis** definitivamente califica.
-
-—Entonces tenemos que movernos rápido —dijo Ely—. Antes de que lo encuentren ellos.
-
-## Infiltración
-
-El equipo de tres salió de la *Aurora* al anochecer de **Celestia**. El cielo estaba iluminado por dos lunas pequeñas y el brillo de las formaciones cristalinas que cubrían el paisaje. Era hermoso, pero también inquietante. El sonido distante de explosiones recordaba constantemente que estaban en una zona de guerra.
-
-—Mantengan las comunicaciones abiertas —dijo Nyx desde la nave—. Cualquier problema, regresen inmediatamente.
-
-—Entendido —respondió Biglex.
-
-Se movieron con cautela a través del terreno accidentado, usando las formaciones cristalinas como cobertura. Kael lideraba el camino, sus gafas de realidad aumentada mostrando rutas seguras y zonas de peligro.
-
-Después de una hora de caminata, llegaron a las afueras de lo que alguna vez fue una ciudad **Celestiana**. Ahora era un campo de ruinas. Edificios de cristal colapsados, calles llenas de escombros, y el silencio pesado de un lugar abandonado.
-
-—Allí —señaló Kael, indicando un edificio parcialmente intacto—. Detecté una terminal de comunicaciones activa. Debería poder hackearla para obtener más información.
-
-Se acercaron con cuidado, verificando que no hubiera patrullas enemigas. El edificio era lo que parecía haber sido un centro de datos **Celestiano**. Las paredes estaban cubiertas de pantallas rotas y servidores dañados, pero en el centro, una terminal aún brillaba con vida.
-
-—Cúbranme —dijo Kael, acercándose a la terminal.
-
-Biglex y Ely tomaron posiciones en las entradas, vigilando el perímetro. Kael conectó su brazalete a la terminal y comenzó a trabajar, sus dedos volando sobre los hologramas mientras descifraba los sistemas de encriptación.
-
-## Descubrimientos
-
-Pasaron varios minutos tensos. Biglex podía escuchar su propio corazón latiendo mientras vigilaba las sombras. Cada sonido distante lo ponía en alerta.
-
-—Tengo algo —anunció Kael finalmente—. Estoy descargando archivos... registros de la invasión, comunicaciones militares, mapas de recursos...
-
-—¿Qué dicen? —preguntó Ely.
-
-—La **Corvax** invadió hace tres meses —leyó Kael—. Los **Celestianos** resistieron inicialmente, pero están siendo superados. Los Corvax están buscando específicamente... —hizo una pausa— "fuentes de energía temporal".
-
-Biglex sintió un escalofrío. El **Dimantis** era exactamente eso.
-
-—¿Saben dónde está? —preguntó.
-
-—No con precisión —respondió Kael—. Pero tienen equipos de exploración rastreando anomalías. Uno de esos equipos está... —verificó los datos— a solo diez kilómetros de nuestra posición. Moviéndose hacia el norte.
-
-—Hacia donde está el **Dimantis** —completó Ely.
-
-—Exacto —Kael continuó descargando información—. También hay algo más. Los **Celestianos** tienen refugiados escondidos en las montañas del norte. Cerca de donde necesitamos ir.
-
-Biglex tomó una decisión.
-
-—Terminamos aquí. Tenemos la información que necesitamos. Volvemos a la nave, analizamos los datos, y planeamos nuestra ruta.
-
-Kael desconectó su brazalete.
-
-—Descarga completa. Tengo mapas, frecuencias de comunicación de la Coalición, y ubicaciones de patrullas. Esto nos dará ventaja.
-
-## Regreso y Decisión
-
-El regreso a la *Aurora* fue más rápido, ahora que conocían el terreno. Una vez a bordo, el equipo se reunió en la cabina de mando. Kael proyectó los datos en un holograma central.
-
-—Aquí está nuestra situación —dijo, señalando el mapa—. El **Dimantis** está aquí, en estas cuevas subterráneas. Los refugiados **Celestianos** están aquí, a dos kilómetros. Y el equipo de exploración de los **Corvax** está aquí, acercándose.
-
-—¿Cuánto tiempo tenemos? —preguntó Biglex.
-
-—A su velocidad actual, llegarán a la zona en unas seis horas —calculó Kael.
-
-—Entonces tenemos que movernos ahora —dijo Ely.
-
-Nyx intervino desde su estación.
-
-—Hay otro factor. Los refugiados **Celestianos**. Si nos ven, podrían pensar que somos invasores. Necesitamos un plan para evitarlos o... contactarlos.
-
-Biglex pensó por un momento. Contactar a los **Celestianos** era arriesgado, pero también podría darles información valiosa sobre las cuevas y las defensas naturales del área.
-
-—Vamos a intentar contacto —decidió—. Pero con cautela. Kael, ¿puedes interceptar sus comunicaciones? Averiguar si son hostiles a todos los extranjeros o solo a los **Corvax**.
-
-—Puedo intentarlo —respondió Kael.
-
-—Bien —Biglex miró a su equipo—. Descansen un par de horas. Luego nos movemos hacia las cuevas. Kael, tú vienes con nosotros. Nyx, tú coordinas desde aquí con Flevy, Sina, Yani y Keny. Mantengan la nave lista para despegar en cualquier momento.
-
-—Entendido, capitán —respondió Nyx.
-
-Biglex miró el holograma del **Dimantis** brillando en las profundidades de las cuevas. Estaban tan cerca. Solo tenían que llegar allí antes que los **Corvax**, obtener el mineral, y salir con vida.
-
-Fácil, ¿verdad?
+Yani explicó ese límite. Biglex no firmó hasta entender en qué momento debían dejar de confiar en la reparación.
 
 ***
 
-> "La información es poder, pero solo si sabes cómo usarla antes de que sea demasiado tarde."
+El control médico de Nyx se hizo en una consulta pequeña, con formularios de compatibilidad que parecían más largos que la lista de síntomas.
+
+Ely lo acompañó como responsable del seguimiento a bordo. Biglex esperó fuera. Escuchó por el corredor un idioma que su traductor convirtió en peticiones inconexas hasta que alguien le indicó que lo estaba recibiendo en el canal incorrecto.
+
+Desactivó la escucha automática.
+
+Nyx salió con recomendaciones de descanso y una pequeña corrección del plan de alimentación. La revisión confirmó una recuperación satisfactoria, no una resistencia ilimitada al cansancio.
+
+—Ya estabas de mi lado —dijo Ely al leer el informe.
+
+—El informe no está del lado de nadie.
+
+—Eso explica por qué es tan poco divertido.
+
+Nyx dobló la copia y la guardó.
+
+En el comedor pidieron tres platos distintos y descubrieron que solo uno de ellos resultaba agradable. Repartirlo permitió comer mejor a todos, aunque Biglex se quedó con más parte de una sopa espesa que no logró identificar.
+
+La conversación pasó a cómo elegir alimentos sin traducir por proximidad. Nyx encontró dos etiquetas que su sistema consideraba iguales y que no lo eran. Actualizó el diccionario de la Aurora con un aviso que requería confirmación humana.
+
+Aquella mejora valía más que instalar otro paquete de navegación sin leer sus condiciones.
+
+***
+
+Mientras estaban fuera, Sina había detectado una petición de acceso desde el terminal del muelle.
+
+El sistema pretendía recopilar datos de diagnóstico del Transversor. No había llegado a entrar: la petición necesitaba autorización de a bordo y Sina la había dejado en espera.
+
+Al regresar, Biglex reconoció el nombre del servicio técnico.
+
+—Pensé que era parte del atraque.
+
+—El atraque necesita saber cuánto consumimos —respondió Sina—. Esto pide cómo funciona el núcleo.
+
+Nyx examinó el mensaje en una copia aislada. El identificador pertenecía a un intermediario que ofrecía mantenimiento especializado. Era posible que se tratara de una oferta agresiva; también de un intento de obtener información útil para otra cosa.
+
+No tenían pruebas para acusar al puerto.
+
+Consultaron a la administración. Una funcionaria confirmó que aquella petición no era obligatoria y bloqueó el contacto tras recibir su queja. Les aconsejó limitar los permisos comerciales del manifiesto público.
+
+Biglex firmó la modificación. Sintió un alivio poco agradable al saber que no había ocurrido nada gracias a que otra persona había comprobado una casilla que él había pasado por alto.
+
+—Buen trabajo —le dijo a Sina.
+
+Ella asintió y volvió a las lecturas. No necesitaba que lo convirtieran en una lección delante de todos.
+
+***
+
+La inspección del recubrimiento terminó con una prueba que Biglex no podía evaluar solo.
+
+Yani le pidió mirar el registro mientras el técnico local repetía la secuencia de carga. El primer ciclo parecía correcto; el segundo mostraba una diferencia pequeña cerca de una unión reparada.
+
+El técnico señaló la lectura de tolerancia del fabricante. Yani señaló las condiciones del próximo tránsito.
+
+No estaban discutiendo quién conocía más palabras. La reparación podía servir para una nave que trabajara en rutas locales y necesitar una limitación adicional para la Aurora.
+
+Acordaron reforzar aquella unión sin sustituir toda la pieza. Keny buscó un material que ambos equipos pudieran verificar. El taller de la estación lo tenía, pero solo ofrecía una cantidad menor de la deseada.
+
+Ely consultó cuánto requería el refuerzo real. No necesitaban comprar el lote que no existía.
+
+Biglex estuvo a punto de considerar resuelto el problema cuando Yani pidió conservar una parte para una reparación posterior.
+
+Volvieron al presupuesto.
+
+El acuerdo final costó más trabajo que dinero. El técnico dejó una copia completa del procedimiento y Yani firmó únicamente las condiciones que podían comprobar.
+
+Al marcharse, Biglex le agradeció que explicara los límites. El hombre parecía más satisfecho con eso que con haber terminado la factura. Trabajaba en una estación llena de naves desconocidas; no todas las tripulaciones querían escuchar una respuesta inconveniente.
+
+Los avisos de Celestia llegaron desde una oficina distinta.
+
+La estación había recibido registros de naves desplazadas y mensajes de auxilio. Algunos hablaban de fuerzas Corvax. Otros no identificaban al atacante. Las fechas usaban referencias locales que Nyx y Sina tuvieron que convertir antes de compararlas.
+
+La información era fragmentaria, pero coherente en algo: había combates y restricciones de acceso.
+
+Flevy proyectó la ruta.
+
+—Podemos acercarnos a la zona de observación y comprobar. Todavía no debemos comprometernos a descender.
+
+Biglex miró el trayecto de regreso, que ahora podían calcular con más confianza.
+
+—Si cancelamos aquí, tenemos reservas suficientes.
+
+Ely lo observó con atención.
+
+—Sí.
+
+La opción quedó sobre la mesa. Nadie la descartó por haber viajado demasiado ni por la vergüenza de regresar con la cápsula vacía.
+
+Yani señaló que la Aurora no podía medirse con una flota militar. Nyx añadió que un mapa actualizado no equivalía a disponer de información táctica. Flevy recordó que las doce jornadas previstas eran una estimación de tránsito con descansos y tramos seguros.
+
+Decidieron avanzar hasta una posición de evaluación, manteniendo separado el permiso de aproximación del permiso de aterrizaje.
+
+Biglex anotó ambos puntos.
+
+***
+
+Antes de terminar la reparación, un representante comercial volvió a buscarlo. Era la persona que les había ofrecido trabajo en el mercado.
+
+Tenía una propuesta impresa y conocía ya el nombre de la nave. Quería comprarles cualquier «material resonante» que obtuvieran en la región de Celestia. Ofrecía pagar una parte de los gastos por adelantado.
+
+Biglex sintió primero la tentación de pensar en el presupuesto.
+
+—No vendemos una carga que no tenemos.
+
+—La prioridad de compra puede acordarse antes.
+
+Ely pidió la identificación del representado. El hombre respondió con una cadena de empresas que ninguno conocía.
+
+—Entonces no hay acuerdo —dijo ella.
+
+No lo acusaron de trabajar para los invasores. No lo sabían. Dejaron constancia del encuentro y redujeron todavía más los datos visibles de su expedición.
+
+Cuando se marchó, Biglex observó la cantidad ofrecida. Bastaba para cubrir el recubrimiento completo que habían descartado.
+
+Yani también la había visto.
+
+—No mejora la nave si nos obliga a hacer una tontería con ella.
+
+***
+
+La última noche en Vórtice comieron todos juntos en la Aurora. No coincidían desde antes del cruce.
+
+Sina había conseguido una grabación musical en un intercambio del muelle. Keny la encontró demasiado repetitiva. Ely dijo que no podía ser peor que el sonido de su herramienta de pulido.
+
+Alguien propuso dejarla de fondo solo durante las comidas. El acuerdo duró hasta que llegó un pasaje especialmente agudo; después votaron en silencio por apagarla.
+
+La risa no eliminó el contenido de los avisos portuarios. Lo dejó a una distancia que les permitió cenar.
+
+Biglex recogió los recipientes mientras Ely revisaba los mensajes pendientes. Timenet recibiría un informe cuando encontraran enlace adecuado. La respuesta de Jey no podía acompañarlos durante cada decisión.
+
+Antes de dormir, Biglex fue a comprobar la cápsula de contención. Seguía vacía, con los dos cierres en verde.
+
+La guardó otra vez. Ya no la veía como una promesa de triunfo, sino como una herramienta destinada a algo que otra gente podía negarse a entregarles. Pensó que había sido importante comprenderlo antes de llegar.

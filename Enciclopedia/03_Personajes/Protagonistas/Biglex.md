@@ -112,7 +112,7 @@ Biglex es un joven Humano de apariencia casual y relajada, con un estilo que ref
 ## Habilidades
 
 ### Habilidades Técnicas
-- **Pilotaje Experto**: Maneja naves espaciales y universales con maestría pero no lee el manual que luego le pasa factura
+- **Pilotaje**: Experiencia comercial y una expedición multiversal completada; necesita referencias y apoyo especializado para vehículos o rutas desconocidos. Ha aprendido a consultar procedimientos y aceptar límites técnicos.
 - **Conocimiento Técnico**: Aprendió sobre naves ayudando a su padre comerciante
 - **Investigación Científica**: Estudió extensivamente el GDT: Gestor de Dimensiones y Tiempo, y TyCEC (Tecnología y Exploración de la Creación en el Cosmos)
 - **Navegación Multiversal**: Comprende las rutas entre universos

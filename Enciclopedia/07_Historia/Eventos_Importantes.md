@@ -1,38 +1,39 @@
 # Eventos Importantes
 
-Lista de hitos y puntos de inflexión que han marcado el desarrollo del universo de "Locuras en el Tiempo".
+Hitos escritos en la línea vigente. Los relatos de dinosaurios, del año 1300, del año 3000 y de la era prehistórica pertenecen a material archivado de V1 y no describen hechos del canon.
 
-## 🏗️ Fundación de TyCEC
-- **Descripción**: Creación de la organización encargada de la Vigilancia del Tiempo y el Espacio Conectado.
-- **Impacto**: Establecimiento de las primeras leyes interdimensionales.
+## 🏗️ Fundación de TyCEC y del GDU
+- **Descripción**: Organizaciones científicas y administrativas que fijan referencias de contacto entre universos.
+- **Impacto**: Permiten el comercio y los protocolos de contacto entre especies. No intervienen en los arcos escritos.
 
-## ⌛ Creación de Timenet por Jey Halcime
-- **Descripción**: Desarrollo de la macro-red capaz de conectar realidades y rastrear flujos temporales.
-- **Impacto**: Permite la supervisión remota de misiones en multiversos lejanos.
-
-## 🌌 Desarrollo de la Máquina del Tiempo
-- **Descripción**: Invención del motor de trans-curvatura temporal.
-- **Impacto**: Posibilita el viaje físico entre épocas y dimensiones, permitiendo la Misión del Dimantis.
+## ⌛ Timenet y Jey Halcime
+- **Descripción**: Compañía de investigación temporal con sede en Nides, Xacro.
+- **Impacto**: Prepara los ensayos con Dimantis y el montaje del Arco 02. Sus resultados se explican en público, con límites.
 
 ## 👥 Reclutamiento de Biglex y Ely
-- **Descripción**: Jey Halcime selecciona a Biglex por su instinto técnico y a Ely por su capacidad estratégica.
-- **Impacto**: Conformación del dúo protagonista que liderará la recuperación tecnológica.
+- **Descripción**: Biglex, de veinte años, y Ely, Nider, se incorporan a la misión del Dimantis con una equipo de once personas.
+- **Impacto**: El reparto de funciones se escribe antes de partir y se revisa en cada arco.
 
 ## 🚢 Misión del Dimantis (Arco 01)
-- **Descripción**: Despliegue de la nave Aurora con su tripulación de 11 miembros para recuperar fragmentos del mineral Dimantis.
-- **Impacto**: El evento que da inicio a la trama principal de la historia.
+- **Descripción**: Veinte días hasta el enlace, cruce, tres días hasta Vórtice y doce hasta Celestia. La custodia local autoriza una muestra secundaria, con el núcleo intacto.
+- **Impacto**: El remanente viaja sellado y separado, con identificación y autorización. El Arco 04 prevé devolverlo a Celestia.
 
-## ⌛ Salto Técnico de Prueba (Año 1300 d.C.)
-- **Descripción**: Primer salto exitoso de Biglex y Jey Halcime. Viajaron 1000 años hacia el pasado desde el presente relativo (2300).
-- **Detalle**: Observaron un planeta con una biósfera intacta y pureza ambiental antes de la industrialización masiva.
+## ⌛ Ensayo del intervalo de prueba (Arco 02)
+- **Descripción**: Diferencia de referencia de 94 segundos y ventana autorizada de 30 minutos. Entran Biglex, Ely, Kael y Nareli.
+- **Impacto**: Se recupera el módulo físico, pero el archivo queda incompleto de forma permanente. Timenet suspende las entradas humanas.
 
-## 🦖 Expedición Mesozoica (~66 millones de años atrás)
-- **Descripción**: Viaje a la era de los dinosaurios al final del período Cretácico.
-- **Detalle**: Observación directa de la extinción masiva, causada no solo por el impacto, sino por infecciones biológicas multiversales que debilitaron a las especies.
+## 🔎 Veskar y los nombres que faltan (Arco 03)
+- **Descripción**: Cyberjol administra sectores con desfases artificiales locales. Pi y Turev pertenecen a una red que ya existía.
+- **Impacto**: Se liberan dieciocho personas con transporte civil cooperativo. En Vórtice, el asilo y los destinos siguen pendientes.
 
-## 🦾 Incidente Cyberjol (Futuro 3000)
-- **Descripción**: Captura de la tripulación de la Aurora en un futuro dominado por un sistema de control totalitario.
-- **Detalle**: Primer encuentro con la Prisión Temporal y la tecnología de vigilancia de Cyberjol.
+## 🛤️ Corredor civil de Celestia (Arco 04)
+- **Descripción**: Doce días de viaje, un corredor con mantenimiento y tarifas, y cinco plazas acordadas.
+- **Impacto**: El corredor sigue abierto sin la Aurora. Los desplazamientos dejan de depender del equipo.
+
+## 🌍 Investigación de origen en Tierra (Arco 05)
+- **Descripción**: Saure, Neraval, el archivo comunitario de Daruen y el trabajo documental de Veiska.
+- **Impacto**: Se recupera una lista y unos contactos; algunos paraderos siguen abiertos. Las rutas de Nicuni sostienen el Arco 06.
 
 ---
+
 [← Volver a Historia](./README.md)

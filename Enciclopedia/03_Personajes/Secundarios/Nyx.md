@@ -3,7 +3,7 @@
 ## Datos Básicos
 - **Nombre**: Nyx
 - **Rol**: Especialista en Sistemas y Lógica de Código
-- **Estado Actual**: Criogenizado (Misión Arco 01)
+- **Estado Actual**: Recuperado y activo al regreso del Arco 01; la estasis corresponde a la fase de salida.
 - **Especie**: Por definir (Tripulante de la Aurora)
 - **Afiliación**: Tripulación Aurora / Timenet
 

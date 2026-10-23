@@ -16,12 +16,12 @@
 Ely es una joven Nider de belleza llamativa y apariencia vibrante. Su presencia irradia energía juvenil y carisma natural.
 
 ### Rasgos Faciales
-- **Ojos**: Grandes y expresivos, color turquesa (#00C7B1) que reflejan curiosidad y determinación
+- **Ojos**: Grandes y expresivos, color turquesa (#00C9B9) que reflejan curiosidad y determinación
 - **Rostro**: Facciones delicadas de estilo anime, con expresión frecuentemente alegre
 - **Piel**: Tono claro y uniforme (#FFE6CA)
 
 ### Cabello
-- **Color**: Turquesa brillante (#00C7B1), su característica más distintiva
+- **Color**: Turquesa brillante (#00C9B9), su característica más distintiva
 - **Estilo**: Extremadamente largo y liso, llegando casi hasta el suelo
 - **Textura**: Sedoso y brillante, fluye naturalmente sin rizos
 - **Detalle único**: Lazos coral (#DF6863) atados en las puntas inferiores del cabello (NO coletas altas), funcionando como adornos decorativos
@@ -38,7 +38,7 @@ Ely es una joven Nider de belleza llamativa y apariencia vibrante. Su presencia 
 - **Camiseta**: Gris oscura (#6E7179)
 - **Shorts**: Blancos (#F9FAF7) con detalles de volantes en los bordes
 - **Cabello**: Atado con lazos coral (#DF6863) en las puntas, cayendo libremente hasta casi el suelo
-- **Zapatillas**: Turquesa con detalles blancos (#01D6B9), estilo deportivo
+- **Zapatillas**: Turquesa con detalles blancos (#00C9B9), estilo deportivo
 - **Aretes**: Amarillo neón (#E8FF0D), largos en forma de estrella
 - **Collar**: Delicado con dije pequeño
 - **Pulsera**: En muñeca derecha, color coral/salmón
@@ -49,7 +49,7 @@ Ely es una joven Nider de belleza llamativa y apariencia vibrante. Su presencia 
 - **Base**: Outfit 1 completo (camiseta + shorts)
 - **Chaqueta**: Blanca elegante con ribetes turquesa que brillan sutilmente, estilo técnico
 - **Cabello**: Atado con lazos coral (#DF6863) en las puntas
-- **Zapatillas**: Turquesa con detalles blancos (#01D6B9)
+- **Zapatillas**: Turquesa con detalles blancos (#00C9B9)
 - **Aretes**: Amarillo neón (#E8FF0D), largos en forma de estrella
 - **Collar**: Delicado con dije pequeño
 - **Pulsera**: En muñeca derecha, color coral/salmón
@@ -68,7 +68,7 @@ Ely es una joven Nider de belleza llamativa y apariencia vibrante. Su presencia 
 - **Túnica**: Violeta con circuitos luminosos en los bordes que cambian de color según estado de ánimo
 - **Circuitos**: Brillan en azul eléctrico cuando está emocionada/nerviosa, otros colores según emociones
 - **Cabello**: Atado con lazos coral (#DF6863) en las puntas
-- **Zapatillas**: Turquesa con detalles blancos (#01D6B9), reforzadas
+- **Zapatillas**: Turquesa con detalles blancos (#00C9B9), reforzadas
 - **Aretes**: Amarillo neón (#E8FF0D), largos en forma de estrella
 - **Collar**: Delicado con dije pequeño
 - **Pulsera**: En muñeca derecha, color coral/salmón

@@ -1,41 +1,21 @@
 # Historia - Cronología
 
-Esta sección documenta la línea temporal y eventos importantes del universo.
+Esta sección documenta la cronología y los eventos de la línea vigente.
 
 ## 📅 Documentos
 
 ### [Linea_Temporal.md](./Linea_Temporal.md)
-Cronología completa de eventos desde el pasado hasta el futuro.
+Cronología de lo escrito, desde antes de la historia hasta el cierre del Arco 05.
 
 ### [Eventos_Importantes.md](./Eventos_Importantes.md)
-Descripción detallada de eventos clave que han moldeado el universo.
+Hitos escritos, con su impacto.
 
-## ⏳ Períodos Principales
+### [Contexto_Arco01.md](./Contexto_Arco01.md)
+Contexto de partida del Arco 01.
 
-### Pasado Lejano
-- Era de los Dinosaurios
-- Extinción masiva por infecciones
+## ⏳ Nota sobre los plazos
 
-### Pasado Reciente
-- 1000 años antes del presente
-- Civilizaciones destruyendo la naturaleza
-
-### Presente (Año de referencia: 2300 después del siglo XX)
-- Vida de Biglex en Xacro
-- Encuentro con Jey Halcime
-- Inicio de la misión del Dimantis
-
-### Futuro
-- Año 3000: Civilización avanzada con Cyberjol
-- Prisión Temporal
-
-## 📖 Eventos Clave
-
-1. **Fundación de TyCEC y GDU**
-2. **Creación de Timenet por Jey Halcime**
-3. **Desarrollo de la Máquina del Tiempo**
-4. **Reclutamiento de Biglex y Ely**
-5. **Misión del Dimantis** (Arco 01)
+No hay un año absoluto de referencia en los capítulos. Los tiempos se cuentan en días de viaje y en GDU, y ningún calendario local fija la escala del multiverso. Las referencias al año 3000, al año 1300, a los dinosaurios y a las extinciones masivas pertenecen a material archivado de V1 y no son hechos del canon.
 
 ---
 

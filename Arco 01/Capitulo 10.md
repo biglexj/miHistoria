@@ -1,181 +1,157 @@
-# Capitulo 10 - Encuentro con los Celestianos
+# Capítulo 10: Las voces que llegan tarde
 
-## Acercamiento
+Salieron de Vórtice después de entregar el carro, pagar la última diferencia de atraque y esperar a que un carguero despejara el corredor.
 
-Dos horas después, el equipo de tres se movía cautelosamente a través del terreno montañoso hacia las cuevas del **Dimantis**. La noche de **Celestia** era extrañamente hermosa: las formaciones cristalinas brillaban con luz propia, creando un paisaje de sueños bioluminiscentes. Pero ese sueño estaba constantemente interrumpido por el sonido distante de explosiones.
+El controlador les deseó un tránsito seguro. Biglex respondió y conservó la frecuencia de asistencia en el listado de contactos. La estación había resultado cara, incómoda y útil. Ninguna de esas cosas anulaba las otras.
 
-Kael lideraba el camino, sus gafas de realidad aumentada mostrando el terreno en capas de datos superpuestos.
+Sina comprobó la primera baliza de la ruta hacia Celestia. Los datos coincidían con el catálogo adquirido y con una segunda referencia independiente.
 
-—Los refugiados **Celestianos** están a quinientos metros al este —susurró—. Sus comunicaciones indican que están en alerta máxima. Han detectado movimiento en el área.
+—Doce días si mantenemos este plan —dijo Flevy—. El último tramo se decide con información nueva.
 
-—¿Nosotros? —preguntó Ely.
+Ely dejó un marcador visible en la consola: punto de revisión de misión. No podía desaparecer debajo de una lista de tareas.
 
-—Probablemente —respondió Kael—. O los **Corvax**. O ambos.
+La Aurora aceleró dentro de sus tolerancias reparadas. Yani permaneció en ingeniería hasta completar dos ciclos de temperatura. Solo entonces fue a dormir.
 
-Biglex verificó su arma defensiva, asegurándose de que estuviera configurada en modo aturdimiento.
-
-—Si nos encuentran, no disparen primero. Intentaremos comunicarnos. Son víctimas de esta guerra, no nuestros enemigos.
-
-Continuaron avanzando, usando las sombras de las formaciones cristalinas como cobertura. Estaban a solo un kilómetro de la entrada de las cuevas cuando sucedió.
-
-## Capturados
-
-Un destello de luz cegadora los envolvió. Biglex sintió una descarga eléctrica recorrer su cuerpo, y sus músculos se paralizaron. Cayó de rodillas, incapaz de moverse.
-
-—¡Quietos! —gritó una voz en un idioma que el traductor de Biglex convirtió automáticamente—. ¡No se muevan o dispararemos!
-
-A través de su visión borrosa, Biglex vio figuras emergiendo de las sombras. Eran **Celestianos**: humanoides de piel dorada que brillaba suavemente, con ojos grandes y expresivos que ahora mostraban miedo y determinación. Llevaban armas improvisadas, pero efectivas.
-
-—No... somos... enemigos —logró decir Biglex, luchando contra la parálisis.
-
-—Eso dicen todos —respondió uno de los **Celestianos**, acercándose con cautela—. Los **Corvax** también mintieron al principio.
-
-Kael intentó alcanzar su brazalete, pero otro **Celestiano** le apuntó con un arma.
-
-—Ni lo intentes, invasora.
-
-—No somos **Corvax** —dijo Ely, su voz tensa—. Venimos del **Multiverso 3**. Estamos... —hizo una pausa, decidiendo cuánto revelar— estamos buscando ayuda.
-
-El líder de los **Celestianos**, un hombre alto con marcas de rango en su túnica, los estudió con ojos penetrantes.
-
-—**Multiverso 3**? —repitió—. Nunca hemos tenido contacto con ese **multiverso**. ¿Cómo llegaron aquí?
-
-—Por el **Agujero Blanco** en el límite del **Universo 11** de nuestro **multiverso** —respondió Biglex, sintiendo que la parálisis comenzaba a disiparse—. Por favor, podemos explicar. No queremos pelear.
-
-El líder intercambió miradas con sus compañeros. Finalmente, asintió.
-
-—Llévenlos al refugio. Pero mantengan las armas en ellos. Si intentan algo, aturdirlos de nuevo.
-
-## El Refugio
-
-Los **Celestianos** los escoltaron a través de un pasaje oculto entre las formaciones cristalinas. El refugio era una red de cuevas naturales que habían sido modificadas para servir como base de operaciones. Había familias, niños, ancianos. Todos lucían cansados, asustados, pero no derrotados.
-
-Los llevaron a una cámara central donde el líder, que se presentó como **Comandante Lyros**, los interrogó.
-
-—Explíquense —ordenó—. ¿Qué hace un equipo del **Multiverso 3** en **Celestia** en medio de una invasión?
-
-Biglex decidió ser honesto, pero cuidadoso.
-
-—Estamos en una misión de recuperación. Necesitamos un mineral raro para... para una tecnología que podría ayudar a prevenir conflictos como este en el futuro.
-
-—¿Qué mineral? —preguntó Lyros, sus ojos entrecerrándose.
-
-Biglex vaciló. Ely intervino.
-
-—No podemos decir exactamente cuál. Pero no es algo que ustedes estén usando activamente. Está en las cuevas subterráneas, en una zona que creemos está deshabitada.
-
-Lyros se reclinó en su asiento, pensativo.
-
-—Las cuevas del norte. Sé a qué se refieren. Están llenas de cristales resonantes y anomalías temporales. Nuestros ancestros las declararon sagradas y prohibidas. Nadie ha entrado allí en generaciones.
-
-—¿Por qué prohibidas? —preguntó Kael.
-
-—Porque el tiempo mismo se comporta de forma errática allí —explicó Lyros—. Hemos perdido exploradores que entraron y nunca regresaron. O regresaron... envejecidos décadas en cuestión de horas.
-
-Biglex sintió un escalofrío. El **Dimantis** era aún más peligroso de lo que pensaban.
-
-—Entendemos los riesgos —dijo—. Pero necesitamos intentarlo.
-
-Lyros los estudió por un largo momento.
-
-—¿Y qué gano yo ayudándolos? Mi gente está muriendo. Los **Corvax** nos superan en número y tecnología. ¿Por qué debería confiar en extranjeros que aparecen de la nada?
-
-## Negociación
-
-Biglex pensó rápidamente. Necesitaban la ayuda de los **Celestianos**, o al menos su cooperación.
-
-—Tenemos información —dijo—. Nuestra especialista en hacking interceptó comunicaciones de los **Corvax**. Sabemos sus rutas de patrullaje, sus frecuencias de comunicación, sus puntos débiles.
-
-Kael captó la indirecta y activó su brazalete, proyectando los datos que había recopilado.
-
-—Aquí —dijo, mostrando mapas tácticos—. Los **Corvax** tienen tres bases principales en **Celestia**. Sus patrullas siguen patrones predecibles. Y tienen un punto ciego en su red de sensores aquí, en el sector oeste.
-
-Lyros se inclinó hacia adelante, estudiando los datos con interés creciente.
-
-—Esto... esto es invaluable. Con esta información, podríamos organizar ataques coordinados, evacuar civiles de zonas de peligro...
-
-—Es suya —dijo Biglex—. A cambio de su ayuda para llegar a las cuevas. Y tal vez... información sobre cómo navegar las anomalías temporales.
-
-Lyros miró a su equipo, luego de vuelta a Biglex.
-
-—Tenemos un trato —dijo finalmente—. Pero con condiciones. Primero, compartirán toda la información que tienen sobre los **Corvax**. Segundo, si encuentran lo que buscan en las cuevas, se irán de **Celestia** inmediatamente. No queremos más facciones involucradas en nuestra guerra.
-
-—Aceptado —respondió Biglex sin vacilar.
-
-## Advertencias
-
-Lyros llamó a una anciana **Celestiana** que había estado observando desde las sombras. Tenía el cabello blanco y ojos que brillaban con sabiduría antigua.
-
-—Esta es **Maestra Veyra** —presentó Lyros—. Ella es una de las últimas guardianas del conocimiento antiguo. Si alguien sabe sobre las cuevas, es ella.
-
-Veyra se acercó lentamente, estudiando a Biglex, Ely y Kael con ojos penetrantes.
-
-—Buscan el corazón de cristal —dijo, no era una pregunta.
-
-Biglex asintió, sorprendido.
-
-—Sí. ¿Cómo...?
-
-—Porque no son los primeros —respondió Veyra—. Los **Corvax** también lo buscan. Enviaron un equipo hace dos días. No regresaron.
-
-Un silencio pesado cayó sobre la cámara.
-
-—¿Qué les pasó? —preguntó Ely.
-
-—Las defensas —respondió Veyra—. Las cuevas están protegidas por sistemas antiguos. Trampas de energía, campos de distorsión temporal, guardianes automáticos. Nuestros ancestros las construyeron para proteger el corazón de cristal de aquellos que buscarían usarlo para el mal.
-
-—¿Cómo las desactivamos? —preguntó Kael.
-
-Veyra sonrió tristemente.
-
-—No se desactivan. Se navegan. Con conocimiento, paciencia, y respeto. —Sacó un pequeño cristal de su túnica—. Esto es una llave resonante. Sintonizada con la frecuencia de las defensas. Les permitirá pasar... si saben cómo usarla.
-
-Le entregó el cristal a Biglex. Era cálido al tacto y pulsaba con una luz suave.
-
-—¿Por qué nos ayuda? —preguntó Biglex.
-
-—Porque veo en sus ojos algo que no veo en los **Corvax** —respondió Veyra—. Duda. Miedo. Humanidad. Los **Corvax** solo ven recursos. Ustedes ven consecuencias. —Hizo una pausa—. Y porque si el corazón de cristal cae en manos de los **Corvax**, usarán su poder para destruir no solo **Celestia**, sino mundos enteros.
-
-Biglex guardó el cristal con cuidado.
-
-—No dejaremos que eso pase.
-
-## Preparativos
-
-Lyros les proporcionó mapas detallados de las cuevas, basados en exploraciones antiguas. También les dio suministros adicionales y un comunicador para mantenerse en contacto.
-
-—Los **Corvax** están enviando otro equipo mañana al amanecer —advirtió Lyros—. Tienen seis horas, tal vez siete, antes de que lleguen. Después de eso, estarán atrapados entre las defensas de las cuevas y los invasores.
-
-—Suficiente tiempo —dijo Biglex, aunque no estaba seguro de creerlo.
-
-Mientras se preparaban para partir, Ely se acercó a Biglex.
-
-—¿Estás seguro de esto? —preguntó en voz baja—. Las defensas mataron a un equipo **Corvax** completo. Y ellos probablemente tenían mejor equipo que nosotros.
-
-—No tenemos opción —respondió Biglex—. Vinimos por el **Dimantis**. Y vamos a conseguirlo.
-
-Kael se unió a ellos, verificando su equipo.
-
-—He analizado los mapas. Hay tres rutas posibles a la cámara central. La más rápida es también la más peligrosa. La más segura nos tomará el doble de tiempo.
-
-—¿Cuál recomiendas? —preguntó Biglex.
-
-—La intermedia —respondió Kael—. Equilibrio entre velocidad y seguridad. Pero necesitaremos usar ese cristal resonante con precisión. Un error y las defensas nos eliminarán.
-
-Biglex asintió.
-
-—Entonces no cometeremos errores.
-
-Lyros se acercó una última vez.
-
-—Que la luz de **Celestia** los guíe —dijo, un saludo tradicional—. Y si tienen éxito... recuerden que hay un mundo aquí que necesita ayuda. Tal vez algún día, cuando su tecnología esté completa, puedan regresar.
-
-—Lo recordaremos —prometió Biglex.
-
-El equipo salió del refugio hacia la noche de **Celestia**. Las cuevas los esperaban, llenas de peligros antiguos y promesas de poder. Y en algún lugar detrás de ellos, los **Corvax** se acercaban.
-
-El reloj corría.
+Biglex esperó a recibir el relevo antes de acercarse al camarote. Tenía sueño de verdad, no el cansancio inquieto de las primeras noches.
 
 ***
 
-> "La confianza no se gana con palabras, sino con acciones que demuestran que tus intenciones son verdaderas."
+La primera mitad del trayecto produjo poco material para un relato de aventura.
+
+La tripulación hizo ejercicios, revisó los suministros y aprendió a preparar mejor las raciones nuevas. Nyx continuó ajustando los formatos de datos; cada cambio quedaba acompañado de una forma de volver a la versión anterior.
+
+Ely dedicó dos turnos libres a fabricar un soporte para la cápsula de contención. El estuche original sujetaba el dispositivo, pero no permitía leer todos sus indicadores sin girarlo.
+
+Keny sugirió hacer una ventana mayor. Yani preguntó si la modificación afectaba a la protección. Terminaron usando una pieza distinta y desperdiciaron una tarde en una solución que luego pareció evidente.
+
+Biglex ayudó a fijarla.
+
+—Antes creía que las naves de expedición lo tenían todo pensado.
+
+—Lo tienen —respondió Ely—. Después suben personas.
+
+Probaron el soporte con una carga inerte. La cápsula siguió vacía.
+
+***
+
+Al sexto día, Sina recibió una transmisión incompleta.
+
+Una voz pedía confirmación de un corredor sanitario. La respuesta se había perdido o no había quedado registrada. El mensaje contenía una fecha local y coordenadas que el sistema se negó a situar con precisión.
+
+No era una conversación que pudieran contestar en tiempo real. La distancia y las retransmisiones la habían convertido en un fragmento del pasado reciente.
+
+Nyx y Sina dedicaron varias horas a reconstruir lo suficiente para localizar la zona. Evitaron rellenar lo que faltaba con una traducción probable.
+
+Biglex escuchó el audio una vez. A la segunda, Ely le pidió que esperara al análisis.
+
+—Escucharlo otra vez no hará que llegue antes nuestra respuesta.
+
+Él sabía que tenía razón. Le resultaba difícil soportar el intervalo entre entender una petición y poder hacer algo.
+
+Transmitieron una consulta por el canal de ayuda publicado. No prometieron rescate ni dieron una posición exacta que no necesitaban revelar.
+
+El silencio posterior ocupó toda la comida.
+
+***
+
+Flevy encontró a Biglex revisando por su cuenta una ruta más rápida.
+
+El cálculo eliminaba dos desvíos y aumentaba consumo. No violaba una prohibición simple: usaba información que no podían comprobar con suficiente actualidad.
+
+—Llegaríamos antes —dijo Biglex.
+
+—Quizá.
+
+La palabra bastó para que oyera lo que acababa de decir.
+
+Flevy se sentó a su lado. Le enseñó qué parte de la ruta dependía de una baliza suspendida y cuánto costaría descubrir demasiado tarde que no emitía.
+
+Biglex cerró el cálculo sin borrarlo. Lo conservó como alternativa descartada con sus razones.
+
+—No quiero quedarme mirando.
+
+—Todavía estamos llegando. No es lo mismo.
+
+Flevy no le contó una tragedia de su pasado ni una historia que cerrara el asunto. Se quedó hasta que Biglex volvió al plan verificado. Después fue a cumplir su turno.
+
+***
+
+Ely recibió un mensaje del taller con una fotografía del transporte que habían reparado antes de salir. El cliente había vuelto por otro problema. Su padre añadía que aquella vez sí había revisado los filtros.
+
+Ella se rio y guardó la imagen para enseñársela a Biglex. Lo encontró en observación, con el mapa de Xacro abierto y ninguna consulta activa.
+
+—Hoy no tengo ganas de explorar nada —admitió él.
+
+Ely dejó de buscar la fotografía.
+
+—Podemos estar cansados.
+
+—Me da vergüenza decirlo después de tanto querer salir.
+
+—Yo echo de menos tener una puerta que pueda cerrar sin comprobar antes un indicador.
+
+Él apartó el mapa para hacerle sitio. Pasaron un rato hablando del apartamento: un cajón que se atascaba, la ventana que recibía demasiada luz, los vecinos que arrastraban algo cada mañana.
+
+No era una conversación para convencerse de volver. Les permitió recordar por qué querían hacerlo.
+
+Antes de marcharse, Ely le enseñó la foto del filtro nuevo. Biglex se rio tarde, cuando ya estaba poniéndose de pie.
+
+***
+
+Una tarde, Nyx pidió a Ely ayuda para interpretar una variación de las lecturas pasivas.
+
+Al mostrarle el patrón, ella creyó reconocer una oscilación del aislamiento. Compararon el registro de la cápsula vacía, que seguía conectada a sus diagnósticos, y encontraron una coincidencia de intervalos.
+
+No habían detectado el Dimantis a distancia. Habían detectado parte de su propio equipo en una lectura que parecía venir del entorno.
+
+Nyx aisló el origen y repitió la observación. La señal desapareció.
+
+Biglex llegó cuando discutían cómo identificar ese error para no reproducirlo al aproximarse a Celestia. Le mostraron ambas imágenes: antes y después. La primera parecía mucho más interesante.
+
+—Habría querido seguirla —admitió.
+
+Ely marcó el registro con una advertencia.
+
+—Por eso la guardamos.
+
+El trabajo les ocupó parte del tiempo libre, así que cancelaron una práctica no esencial y mantuvieron el descanso. Biglex habría preferido recuperar todo al día siguiente; Flevy les recordó que una agenda llena no era una medida de competencia.
+
+En la comida hablaron del falso hallazgo. Keny afirmó que encontrar la cápsula dentro de la propia nave era una navegación impecable.
+
+Se rieron con el cansancio de quienes necesitaban una broma sencilla. Después Nyx incorporó el control de autoemisión al procedimiento de escucha.
+
+El error no había producido una escena emocionante. Había evitado que una señal convincente los llevara más adelante a una decisión equivocada.
+
+Al octavo día tenían razones suficientes para preparar la recuperación de Kael.
+
+Los registros de seguridad de Vórtice y las comunicaciones de Celestia utilizaban sistemas que ella había estudiado. Nyx podía traducir estructuras de datos; analizar riesgos de intrusión y comunicaciones hostiles requería otra especialidad.
+
+Ely revisó el protocolo con Biglex. La Aurora aún estaba lejos de la posición de evaluación. Tendrían margen para recuperar a Kael sin necesitarla inmediatamente en un peligro.
+
+El despertar ocupó parte de la jornada. La especialista pidió agua, preguntó dónde estaba su equipo y, al recibir el resumen, se quedó callada.
+
+—Así que el lugar tranquilo no era el destino —dijo al fin.
+
+—Tenemos avisos de combates —precisó Biglex—. No hemos decidido aterrizar.
+
+Kael asintió. Esa diferencia le importó.
+
+Sina preparó un archivo de información recibida, con fuentes y fechas. No la puso delante de la consola hasta que el control de recuperación lo permitió.
+
+Las comunicaciones se hicieron más frecuentes al aproximarse.
+
+Había mensajes comerciales antiguos, avisos de pérdida de señal y peticiones de identificación dirigidas a naves que ya no estaban en su zona. Kael empezó por separar esas capas temporales de tráfico.
+
+Su primera conclusión fue que no podían inferir posiciones actuales de cada mensaje. La segunda, que algunos transmisores seguían usando patrones repetidos y debían estudiarse sin emitir hacia ellos.
+
+No ofreció acceso a una red militar en unos segundos. Preparó un procedimiento de escucha y explicó qué podía revelar la propia Aurora si lo utilizaba mal.
+
+Biglex autorizó solo la parte pasiva.
+
+En la reunión siguiente dejaron sobre la mesa tres opciones: cancelar, esperar fuera del área o aproximarse para observar sin descender. Cada una tenía un coste y ninguna garantizaba ayudar a quienes enviaban las llamadas.
+
+No votaron por valentía.
+
+Flevy presentó las rutas. Yani confirmó el estado de la nave. Ely fijó el límite de reservas. Kael indicó dónde terminaba lo que sabían de seguridad.
+
+Biglex aceptó la aproximación limitada. La Aurora continuó hacia Celestia, llevando en sus registros unas voces que quizá no volvieran a escuchar y el compromiso de no añadir una tripulación desaparecida a la lista de emergencias.

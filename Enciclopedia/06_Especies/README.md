@@ -1,76 +1,17 @@
-# Especies - Índice
+# Especies
 
-Esta sección documenta las diferentes razas y seres que habitan el multiverso.
+## Documentadas
+- [Humanos](Humanos.md): Biglex nació en Tierra, U7-M3; el origen planetario de una persona no determina por sí solo una especie distinta.
+- [Niders](Niders.md): Ely es Nider y procede de Xacro, U11-M3.
+- [Gisakianos](Gisakianos.md): biotecnología adaptativa; relación con la nota pendiente «Gikenos» aún no definida.
+- [Androides](Androides.md): seres artificiales con trayectorias y funciones propias.
+- [Celestianos](Celestianos.md): habitantes de Celestia, U1-M11, con papeles y decisiones diversos.
+- [Vanti](Vanti.md): habitantes de los asentamientos corredor de Nicuni; humedad programada; primera aparición en el Arco 06.
 
-## 🧬 Especies Conocidas
+## Diseñadas para la continuación
+- [Aruvi](Aruvi.md): necesidades de humedad y soporte ambiental; primera aparición en el Arco 03.
+- [Kelari](Kelari.md): sensibilidad visual y filtros; primera aparición en el Arco 04.
 
-### [Humanos.md](./Humanos.md)
-**Especie Originaria de la Tierra**
-- Universo 7, Planeta Tierra
-- Biglex es Humano, nacido en la Tierra
+Las fichas individuales distinguen diseño, hechos narrados y datos pendientes. Cyberjol es una organización; pertenecer a ella no establece una especie. Corvax identifica a las fuerzas observadas en Celestia, sin convertir a todos los miembros de un pueblo en un único bando.
 
-### [Niders.md](./Niders.md)
-**Especie Principal del Multiverso 3**
-- Humanoides orgánicos
-- Habitantes de Xacro, Zecra, Nicuni y otros planetas
-- Ely es Nider, nativa de Xacro
-
-### [Gisakianos.md](./Gisakianos.md)
-**Seres Biotecnológicos Adaptativos**
-- Copias de humanos originales que desaparecieron.
-- Estructura híbrida biotecnológica.
-
-### [Androides.md](./Androides.md)
-**Seres Artificiales de Apoyo**
-- Fabricados en Xacro para soporte técnico y misiones.
-
-### [Celestianos.md](./Celestianos.md)
-**Raza del Planeta Celestia, Universo 1, Multiverso 11**
-- Astutos estrategas, actualmente bajo asedio.
-
-### Otras Especies
-- **Cyberjolianos**: Habitantes del año 3000
-- **Invasores de Celestia**: Especie desconocida
-
-## 📊 Por Origen
-
-### Multiverso 3
-- Niders (Xacro, Zecra, Nicuni)
-- Androides (creados en Xacro)
-
-### Multiverso 11
-- Habitantes de Celestia
-- Invasores de Celestia
-
-### Año 3000
-- Cyberjolianos
-
-## 🤖 Por Tipo
-
-### Orgánicas
-- Humanos
-- Niders
-- Gisakianos
-- Habitantes de Celestia
-- Invasores de Celestia
-- Cyberjolianos
-
-### Artificiales
-- Androides
-
----
-
-## 📏 Reglas de Escritura: Jerarquía Espacial
-Para mantener la coherencia y evitar escalas excesivas, la descripción del origen de cada especie debe seguir obligatoriamente este orden:
-
-1. **Nombre de Especie**
-2. **Planeta de Origen**
-3. **Galaxia** (Opcional, si está definida)
-4. **Universo**
-5. **Multiverso**
-
-*Ejemplo: Celestianos → Planeta Celestia → Galaxia Dorada (N/A) → Universo 1 → Multiverso 11.*
-
----
-
-[← Volver al índice principal](../README.md)
+[Volver a la enciclopedia](../README.md)

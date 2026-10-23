@@ -1,207 +1,155 @@
-# Capitulo 12 - Escape de Celestia
+# Capítulo 12: Antes de pedir
 
-## Huida por las Cuevas
+La primera orden les llegó desde una roca a la izquierda.
 
-El túnel lateral era estrecho y descendía en ángulo pronunciado. Biglex, Ely y Kael corrían mientras el rugido de la montaña los perseguía. Detrás de ellos, podían escuchar el colapso de las cámaras que habían atravesado.
+—Deténganse. Las manos donde podamos verlas.
 
-—¡Kael, necesito una ruta de salida! —gritó Biglex mientras saltaba sobre una grieta en el suelo.
+Biglex frenó. Kael ya había retirado los dedos de la interfaz de su muñeca. Ely dejó en el suelo el estuche que transportaba y se apartó un paso.
 
-Kael trabajaba frenéticamente en sus gafas mientras corría.
+Cuatro personas salieron de la cobertura. Una sostenía un arma de pulso; otra llevaba un equipo de medición sujeto con una correa reparada. Su ropa no era uniforme, aunque compartían marcas de identificación.
 
-—Este túnel no está en el mapa de Lyros. Estoy escaneando... —hizo una pausa— ¡Conecta con un sistema de cuevas naturales! Debería llevarnos a la superficie a unos tres kilómetros al oeste de donde entramos.
+La luz sobre la piel de los celestianos era tenue, visible sobre todo en los rostros. Biglex tuvo que esforzarse para no mirarlos como una ilustración de un catálogo.
 
-—¿Lejos de los **Corvax**? —preguntó Ely, ajustando la cápsula del **Dimantis** en su mochila.
+—Nave civil Aurora —dijo—. Respondimos a un contacto por este canal.
 
-—Eso espero —respondió Kael.
+Mostró el registro sin avanzar.
 
-El túnel se ensanchó, revelando una caverna con un río subterráneo. El agua brillaba con bioluminiscencia, iluminando el camino.
-
-—Por ahí —señaló Kael, indicando un pasaje al otro lado del río.
-
-No había puente. Biglex evaluó la distancia.
-
-—Tendremos que saltar.
-
-Tomó impulso y saltó, aterrizando en la otra orilla con un golpe que resonó en sus rodillas. Ely lo siguió, y luego Kael. Continuaron corriendo, el sonido de sus pasos mezclándose con el rugido distante de la montaña.
-
-## Encuentro con los Corvax
-
-Emergieron a la superficie en un valle rocoso, lejos de la entrada principal de las cuevas. La noche de **Celestia** los recibió con su brillo cristalino, pero no tuvieron tiempo de apreciarlo.
-
-—¡Contacto! —gritó Kael, señalando hacia el cielo.
-
-Una nave **Corvax** descendía hacia ellos, sus sensores evidentemente habiendo detectado su salida. Era una nave de asalto, negra como el vacío, con armas que brillaban con energía contenida.
-
-—¡Corran! —ordenó Biglex.
-
-Se dispersaron mientras el primer disparo de plasma impactaba donde habían estado segundos antes. El suelo explotó en una nube de roca fundida.
-
-Biglex activó su comunicador mientras corría.
-
-—¡Nyx! ¡Necesitamos extracción ahora! ¡Coordenadas... —verificó su brazalete— Norte 47, Este 23!
-
-La voz de Nyx llegó tensa.
-
-—En camino, capitán. ETA dos minutos. Pero tenemos compañía. Hay tres naves **Corvax** persiguiéndonos.
-
-—¡Solo llega aquí! —gritó Biglex.
-
-Otro disparo de plasma. Kael se lanzó detrás de una formación rocosa, devolviendo fuego con su arma defensiva. El disparo impactó el casco de la nave **Corvax**, haciendo que esta se tambaleara pero sin causar daño real.
-
-—¡Sus escudos son demasiado fuertes! —gritó Kael.
-
-Ely sacó un dispositivo de su mochila: una granada de pulso electromagnético.
-
-—¡Cúbranse! —gritó, lanzándola hacia la nave.
-
-La granada explotó en una onda de energía azul. Los sistemas de la nave **Corvax** chisporrotearon, y esta comenzó a descender de forma errática, estrellándose a cien metros de distancia.
-
-—¡Buena puntería! —celebró Biglex.
-
-Pero su alivio duró poco. Dos naves **Corvax** más aparecieron en el horizonte.
-
-—¡Ahí está la *Aurora*! —señaló Kael.
-
-La nave de Timenet descendía a máxima velocidad, sus escudos brillando mientras desviaba el fuego enemigo. La rampa de acceso se abrió antes de que aterrizara completamente.
-
-—¡Suban! ¡Suban! ¡Suban! —gritó la voz de Nyx por el comunicador.
-
-El equipo corrió hacia la rampa. Biglex fue el último en subir, girándose para disparar una ráfaga de cobertura. Tan pronto como estuvo dentro, la rampa se cerró.
-
-—¡Despegue de emergencia! —ordenó Biglex, corriendo hacia la cabina.
-
-## Escape Orbital
-
-La *Aurora* se elevó violentamente, sus motores rugiendo al máximo. Biglex se lanzó al asiento del piloto, tomando los controles mientras Ely se deslizaba al asiento del copiloto.
-
-—¡Escudos al 60% y bajando! —reportó Ely—. ¡Esas naves **Corvax** tienen armamento pesado!
-
-—Flevy, dame una ruta de escape —ordenó Biglex.
-
-—Calculando... —Flevy trabajaba frenéticamente—. Tenemos que salir de la atmósfera y alcanzar velocidad de escape. Pero hay una flota **Corvax** en órbita.
-
-—Por supuesto que la hay —murmuró Biglex.
-
-La *Aurora* atravesó las nubes doradas de **Celestia**, emergiendo al espacio. Y allí, como Flevy había advertido, los esperaba una flota **Corvax**: cinco naves de guerra, cada una del doble del tamaño de la *Aurora*.
-
-—Activa el camuflaje —ordenó Biglex—. Yani, Keny, necesito cada gramo de potencia en los motores.
-
-—Ya está al máximo, capitán —respondió Yani.
-
-Las naves **Corvax** abrieron fuego. La *Aurora* se sacudió bajo el impacto, pero los escudos aguantaron.
-
-—¡Escudos al 40%! —gritó Ely.
-
-Biglex realizó una maniobra de evasión, girando la nave en un ángulo imposible. Los disparos pasaron a milímetros del casco.
-
-—Kael, ¿puedes interferir con sus sistemas de puntería? —preguntó Biglex.
-
-Desde la parte trasera de la cabina, Kael trabajaba en su brazalete.
-
-—Puedo intentarlo... —sus dedos volaron sobre los hologramas— ¡Listo! Les estoy enviando señales falsas. Deberían pensar que estamos en tres lugares a la vez.
-
-Las naves **Corvax** vacilaron, sus disparos volviéndose erráticos.
-
-—¡Funciona! —celebró Sina—. ¡Tenemos una ventana!
-
-—Flevy, dame el vector más rápido fuera del sistema —ordenó Biglex.
-
-—Rumbo establecido —respondió Flevy—. Pero nos llevará directo a través de su formación.
-
-—Entonces atravesaremos su formación —dijo Biglex con determinación.
-
-La *Aurora* aceleró, dirigiéndose directamente hacia el centro de la flota **Corvax**. Las naves enemigas intentaron interceptarlos, pero la interferencia de Kael y las maniobras de Biglex los mantuvieron un paso adelante.
-
-Pasaron entre dos naves de guerra, tan cerca que Biglex podía ver las marcas en sus cascos. Un último disparo impactó los escudos traseros.
-
-—¡Escudos al 15%! —gritó Ely—. ¡No aguantarán otro impacto!
-
-Pero ya estaban libres. La flota **Corvax** quedó atrás mientras la *Aurora* alcanzaba velocidad de escape.
-
-—¡Lo logramos! —gritó Sina.
-
-Biglex no se permitió relajarse hasta que **Celestia** fue solo un punto de luz en los sensores.
-
-## Rumbo a Casa
-
-Una hora después, con la *Aurora* en curso hacia el **Agujero Blanco**, el equipo se reunió en la cabina de mando. Kael había regresado a su cápsula de criogenización, su trabajo completado. Ahora solo quedaban los seis activos originales.
-
-Ely colocó la cápsula del **Dimantis** en la mesa central. Aún brillaba suavemente, contenido pero poderoso.
-
-—Lo conseguimos —dijo, casi sin creerlo.
-
-—Sí —respondió Biglex—. Lo conseguimos.
-
-Nyx estudió la cápsula con fascinación.
-
-—Jey va a estar... no tengo palabras para describir cómo va a reaccionar. Esto cambia todo.
-
-—¿Cuánto tiempo hasta el **Agujero Blanco**? —preguntó Biglex.
-
-—Doce días —respondió Flevy—. El mismo tiempo que nos tomó llegar.
-
-Biglex asintió. Doce días para procesar todo lo que habían vivido. Doce días para regresar a casa.
-
-—Establezcan el rumbo —ordenó—. Y todos descansen. Lo merecemos.
-
-## Reflexiones
-
-Esa noche, Biglex se encontró en la sala de observación, mirando las estrellas del **Multiverso 11**. Ely lo encontró allí, como siempre parecía hacer.
-
-—¿No puedes dormir? —preguntó ella, sentándose a su lado.
-
-—Sigo pensando en **Celestia** —admitió Biglex—. En los **Celestianos**. En Lyros y Veyra. Los dejamos atrás, todavía en guerra.
-
-—Les dimos información que podría ayudarlos —dijo Ely—. Y Lyros dijo que si nuestra tecnología funciona, tal vez podamos regresar algún día.
-
-—¿Y si no es suficiente? —preguntó Biglex—. ¿Y si los **Corvax** ganan?
-
-Ely tomó su mano.
-
-—Entonces habremos hecho lo que pudimos. No podemos salvar a todos, Big. Solo podemos hacer nuestra parte y esperar que sea suficiente.
-
-Biglex la miró, viendo la sabiduría en sus ojos.
-
-—¿Cuándo te volviste tan sabia?
-
-—Siempre lo he sido —bromeó ella—. Solo que ahora me estás escuchando.
-
-Biglex sonrió, sintiendo que el peso en su pecho se aliviaba un poco.
-
-—Gracias, Ely. Por todo. No habría podido hacer esto sin ti.
-
-—Lo sé —respondió ella con una sonrisa—. Por eso estoy aquí. Juntos, como siempre.
-
-Se quedaron así por un largo rato, dos jóvenes que habían viajado más lejos de lo que nunca imaginaron, que habían visto maravillas y horrores, y que ahora regresaban a casa con un tesoro que podría cambiar el futuro.
-
-## Regreso al Multiverso 3
-
-Los doce días pasaron en una mezcla de rutina y anticipación. El equipo mantuvo sus turnos, reparó los daños de la batalla, y se preparó para el cruce de regreso por el **Agujero Blanco**.
-
-Cuando finalmente llegaron al punto de salto, Biglex sintió una mezcla de alivio y nostalgia. El **Agujero Blanco** brillaba ante ellos, la puerta de regreso a casa.
-
-—Todos a sus estaciones —ordenó—. Prepárense para el cruce.
-
-El proceso fue más suave esta vez, ahora que sabían qué esperar. El túnel de luz blanca los envolvió, estirando la realidad a su alrededor. Y luego, con un último destello...
-
-Emergieron al **Multiverso 3**.
-
-Las estrellas tenían el tono familiar que Biglex había conocido toda su vida. El vacío se sentía... correcto.
-
-—Bienvenidos a casa —dijo Sina con una sonrisa.
-
-Flevy estableció el rumbo hacia **Xacro**.
-
-—Veinte días hasta Lumiria, capitán.
-
-Biglex se reclinó en su asiento, sintiendo una paz que no había sentido en semanas.
-
-—Rumbo a casa —dijo—. Finalmente.
-
-La *Aurora* giró en el espacio, sus motores encendiéndose mientras se dirigía hacia **Xacro**. En la bodega, el **Dimantis** brillaba suavemente en su cápsula, un tesoro de otro **multiverso** que pronto cambiaría el curso de la historia.
-
-Pero por ahora, el equipo solo pensaba en una cosa: regresar a casa.
+El grupo verificó la señal. No bajó las armas inmediatamente.
 
 ***
 
-> "El verdadero viaje no termina cuando alcanzas tu destino, sino cuando llevas contigo las lecciones del camino."
+La persona que dirigía la patrulla les pidió dejar los dispositivos ofensivos en un contenedor. Kael solicitó conservar el equipo de comunicaciones con la nave.
+
+Discutieron el alcance de la conexión durante varios minutos.
+
+Biglex comprendía la necesidad del registro y detestaba sentir que cada objeto entregado reducía su seguridad. Ely preguntó quién respondería por ellos durante el traslado y si el encuentro podía hacerse allí mismo.
+
+—No junto a una nave que acaba de bajar por encima de nuestra ruta de evacuación —respondió el jefe de patrulla.
+
+Aquello no figuraba en el mapa que habían recibido.
+
+Flevy lo confirmó por el canal: una emisión reciente señalaba un movimiento en la zona. No habían podido conocerlo antes del descenso.
+
+Biglex aceptó apartar la nave. Flevy la trasladaría a una posición protegida después de la revisión local. No era una garantía de confianza; evitaba convertir su llegada en otro problema inmediato.
+
+Los tres siguieron a la patrulla a pie.
+
+***
+
+El refugio ocupaba galerías reforzadas bajo una ladera. No tenía una entrada grandiosa ni un centro desde el que pudiera comprenderse todo. Había pasillos con indicaciones, recipientes alineados y personas que trabajaban sin detenerse a mirar a los recién llegados.
+
+Alguien calentaba comida en un equipo que necesitaba sujetar la tapa con una herramienta. Dos niños clasificaban piezas junto a un adulto. Una mujer discutía el turno de un generador con un técnico exhausto.
+
+Biglex vio los daños de una guerra en el modo en que se organizaban las tareas, antes que en cualquier relato.
+
+Los llevaron a una sala estrecha donde un hombre revisaba listas sobre una mesa.
+
+—Lyros —se presentó—. Estoy a cargo de este sector.
+
+No explicó si aquello lo convertía en jefe de una ciudad, una unidad o todas las personas del refugio. Biglex decidió no deducirlo del tono.
+
+Lyros escuchó el resumen de la misión sin interrumpir. Cuando oyó el nombre Dimantis, apartó la lista.
+
+—Eso no es una carga abandonada.
+
+***
+
+Ely abrió el estuche vacío con permiso. Mostró sus lecturas, la cápsula y los registros que habían llevado. Lyros pidió que ninguna prueba emitiera hacia las galerías.
+
+Biglex explicó la investigación de Timenet y la necesidad de una muestra. Se detuvo antes de prometer lo que la máquina del tiempo haría por Celestia.
+
+—No sabemos todavía qué podremos conseguir con ella —admitió.
+
+Lyros lo estudió.
+
+—Entonces no me ofrezcas arreglar nuestro futuro.
+
+La frase le produjo más vergüenza que una acusación directa. Había estado a punto de usar una posibilidad como moneda.
+
+Kael presentó las observaciones de tráfico que podían compartir sin comprometer a otras naves civiles. Lyros llamó a una operadora para cotejarlas. Una ruta estaba desactualizada; otra coincidía con un cambio que habían detectado esa mañana.
+
+La información útil era menos de la que Biglex habría querido traer, pero era verificable.
+
+Nadie les ofreció a cambio las llaves de una cueva.
+
+***
+
+Mientras esperaban la segunda parte de la reunión, una encargada les pidió mover sus mochilas.
+
+Estaban ocupando el paso de los recipientes limpios. Biglex las retiró con una disculpa y descubrió que el espacio que le habían ofrecido no era una sala libre, sino un lugar que otras personas seguían necesitando.
+
+Junto a la puerta, dos adultos discutían por un equipo de carga. Uno quería destinarlo al transporte de material; la otra necesitaba mantener un dispositivo de asistencia durante el siguiente traslado.
+
+La encargada pidió sus registros y buscó otra distribución. No había una autoridad invisible que supiera resolver cada escasez desde el centro del refugio.
+
+Ely observó la instalación sin tocarla. Cuando le preguntaron si sus recipientes médicos podían conectarse allí, pidió las especificaciones antes de responder.
+
+Biglex llevó una caja hasta el sitio indicado y regresó con las manos vacías. Le resultaba extraño estar en un lugar donde su título de capitán no añadía ninguna capacidad útil para la discusión principal.
+
+Kael le acercó la mochila, ya apartada del corredor.
+
+—Aquí también estorbamos si no preguntamos.
+
+Lo dijo con humor suficiente para aliviarlo, sin convertirlo en una burla de las personas que los atendían.
+
+Biglex guardó el equipo que había dejado abierto y dejó de esperar que toda actividad del refugio pudiera detenerse para escuchar la historia de su llegada.
+
+Veyra llegó cuando acababan de servirles agua. Era mayor que Lyros y caminaba con un apoyo corto que utilizó para apartar una caja del paso antes de entrar.
+
+Pidió ver los registros del mineral. Después preguntó qué parte pensaban retirar.
+
+Biglex señaló una imagen de la cámara antigua.
+
+Veyra negó despacio.
+
+—No conocemos esa vista con suficiente precisión. Lo que llamáis depósito forma parte de un sistema. No todo lo que brilla ahí puede tocarse sin consecuencias.
+
+Ely pidió una explicación técnica en la medida en que pudieran compartirla.
+
+La respuesta mezclaba conocimiento práctico, registros incompletos y términos que el traductor resolvía mal. Veyra no pretendió que las palabras antiguas bastaran para comprender el mecanismo. Señaló lo comprobado y lo que seguía sin entenderse.
+
+Había restos desprendidos en zonas de acumulación. Una muestra pequeña podía existir sin retirar el núcleo protegido por las defensas. Acceder hasta ella seguía siendo peligroso.
+
+—Eso cambia nuestro procedimiento —dijo Ely.
+
+—Debería —respondió Veyra.
+
+***
+
+Una discusión al otro lado del pasillo interrumpió la reunión.
+
+El circuito de agua del sector bajo se había detenido. Habían probado el generador y la bomba, pero el cierre de seguridad no permitía reiniciar. Lyros se levantó de inmediato.
+
+Ely pidió acompañarlos para observar. No ofreció reparar un sistema que no conocía.
+
+En la sala de bombeo encontró conexiones familiares y otras que no lo eran. Un técnico local le explicó el recorrido. Había trabajado desde la noche anterior y sospechaba de un sensor.
+
+Ely preguntó qué había cambiado antes de la avería.
+
+Una sección de tubería había sido trasladada para esquivar una zona dañada. Al revisar el paso encontraron que el cable del sensor quedaba estirado contra una abrazadera.
+
+El problema no era difícil una vez identificado. El tiempo y el cansancio lo habían ocultado.
+
+Ely sostuvo la linterna. El técnico hizo la reparación. Kael consultó el registro local solo después de que le abrieran acceso.
+
+Biglex ayudó a llevar recipientes hasta que confirmaron el reinicio.
+
+Volvieron a la sala con las manos húmedas.
+
+Lyros les agradeció la ayuda y dejó claro que el agua no compraba un permiso sobre el mineral. Ely asintió antes que Biglex.
+
+Veyra propuso revisar la posible ruta a la mañana siguiente. Necesitarían observar los accesos, comparar las emisiones y demostrar que la cápsula podía aislar una muestra del tamaño permitido.
+
+No había autorización de extracción todavía.
+
+Biglex transmitió el resultado a la Aurora: contacto establecido, sin acceso autorizado, situación civil grave, evaluación en curso. Flevy respondió que la nave conservaba el margen acordado.
+
+Al terminar, una persona del refugio les indicó dónde podrían descansar. No había camas suficientes; les ofrecieron espacio y mantas limpias.
+
+Ely aceptó y entregó los recipientes médicos que habían separado para ayuda civil. Pidió que alguien local verificara su utilidad antes de repartirlos.
+
+Biglex se sentó contra la pared. Habían bajado con una misión clara y ahora tenían preguntas que no se resolvían desde la cabina.
+
+A unos metros, el agua volvió a correr por una tubería. El sonido no significaba que hubieran ganado la confianza del refugio ni que la misión fuera a tener éxito. Significaba que ese turno podría terminar sin acarrear todos los recipientes a mano.
+
+Por aquella noche, eso bastaba.

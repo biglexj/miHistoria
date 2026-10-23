@@ -1,0 +1,686 @@
+[
+  {
+    "arco": 1,
+    "archivo": "Capitulo 01.md",
+    "titulo": "Capítulo 01 — Una avería pequeña",
+    "palabras": 1430,
+    "caracteres": 8783,
+    "parrafos": 88,
+    "escenas": 4
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 02.md",
+    "titulo": "Capítulo 02 — La invitación",
+    "palabras": 1451,
+    "caracteres": 9039,
+    "parrafos": 96,
+    "escenas": 5
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 03.md",
+    "titulo": "Capítulo 03 — Lo que falta en el centro",
+    "palabras": 1387,
+    "caracteres": 8984,
+    "parrafos": 82,
+    "escenas": 5
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 04.md",
+    "titulo": "Capítulo 04 — Aprender a detenerse",
+    "palabras": 1374,
+    "caracteres": 8635,
+    "parrafos": 89,
+    "escenas": 6
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 05.md",
+    "titulo": "Capítulo 05 — Lo que se deja encargado",
+    "palabras": 1357,
+    "caracteres": 8357,
+    "parrafos": 81,
+    "escenas": 6
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 06.md",
+    "titulo": "Capítulo 06 — Veinte días no caben en un mapa",
+    "palabras": 1384,
+    "caracteres": 8639,
+    "parrafos": 66,
+    "escenas": 6
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 07.md",
+    "titulo": "Capítulo 07 — La otra referencia",
+    "palabras": 1420,
+    "caracteres": 9190,
+    "parrafos": 83,
+    "escenas": 6
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 08.md",
+    "titulo": "Capítulo 08 — Muelle Siete Delta",
+    "palabras": 1468,
+    "caracteres": 9352,
+    "parrafos": 78,
+    "escenas": 6
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 09.md",
+    "titulo": "Capítulo 09 — El precio de volver",
+    "palabras": 1337,
+    "caracteres": 8522,
+    "parrafos": 72,
+    "escenas": 6
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 10.md",
+    "titulo": "Capítulo 10 — Las voces que llegan tarde",
+    "palabras": 1352,
+    "caracteres": 8567,
+    "parrafos": 73,
+    "escenas": 6
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 11.md",
+    "titulo": "Capítulo 11 — Un planeta habitado",
+    "palabras": 1321,
+    "caracteres": 8495,
+    "parrafos": 69,
+    "escenas": 6
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 12.md",
+    "titulo": "Capítulo 12 — Antes de pedir",
+    "palabras": 1367,
+    "caracteres": 8545,
+    "parrafos": 72,
+    "escenas": 6
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 13.md",
+    "titulo": "Capítulo 13 — Las condiciones de la muestra",
+    "palabras": 1439,
+    "caracteres": 9118,
+    "parrafos": 81,
+    "escenas": 6
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 14.md",
+    "titulo": "Capítulo 14 — La llave no abre todo",
+    "palabras": 1341,
+    "caracteres": 8410,
+    "parrafos": 75,
+    "escenas": 6
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 15.md",
+    "titulo": "Capítulo 15 — La parte que puede llevarse",
+    "palabras": 1448,
+    "caracteres": 9143,
+    "parrafos": 84,
+    "escenas": 6
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 16.md",
+    "titulo": "Capítulo 16 — Un lugar para recogernos",
+    "palabras": 1454,
+    "caracteres": 8952,
+    "parrafos": 83,
+    "escenas": 6
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 17.md",
+    "titulo": "Capítulo 17 — La cuenta del regreso",
+    "palabras": 1454,
+    "caracteres": 9041,
+    "parrafos": 83,
+    "escenas": 6
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 18.md",
+    "titulo": "Capítulo 18 — La parte larga",
+    "palabras": 1396,
+    "caracteres": 8779,
+    "parrafos": 72,
+    "escenas": 6
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 19.md",
+    "titulo": "Capítulo 19 — Volver también es una tarea",
+    "palabras": 1338,
+    "caracteres": 8385,
+    "parrafos": 84,
+    "escenas": 6
+  },
+  {
+    "arco": 1,
+    "archivo": "Capitulo 20.md",
+    "titulo": "Capítulo 20 — Un comienzo que puede esperar",
+    "palabras": 1400,
+    "caracteres": 8650,
+    "parrafos": 77,
+    "escenas": 6
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 01.md",
+    "titulo": "Capítulo 01 — La vida que no se pausó",
+    "palabras": 1388,
+    "caracteres": 8350,
+    "parrafos": 91,
+    "escenas": 6
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 02.md",
+    "titulo": "Capítulo 02 — Una diferencia que se resiste",
+    "palabras": 1389,
+    "caracteres": 8673,
+    "parrafos": 94,
+    "escenas": 6
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 03.md",
+    "titulo": "Capítulo 03 — El objeto que debe volver",
+    "palabras": 1377,
+    "caracteres": 8769,
+    "parrafos": 83,
+    "escenas": 6
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 04.md",
+    "titulo": "Capítulo 04 — La muestra tiene destinatarios",
+    "palabras": 1382,
+    "caracteres": 8650,
+    "parrafos": 81,
+    "escenas": 6
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 05.md",
+    "titulo": "Capítulo 05 — Una función concreta",
+    "palabras": 1362,
+    "caracteres": 8435,
+    "parrafos": 87,
+    "escenas": 6
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 06.md",
+    "titulo": "Capítulo 06 — La parte que también viaja",
+    "palabras": 1379,
+    "caracteres": 8728,
+    "parrafos": 82,
+    "escenas": 6
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 07.md",
+    "titulo": "Capítulo 07: Lo que ocupa la espera",
+    "palabras": 1303,
+    "caracteres": 7823,
+    "parrafos": 58,
+    "escenas": 5
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 08.md",
+    "titulo": "Capítulo 08: Noventa y cuatro segundos",
+    "palabras": 1330,
+    "caracteres": 8192,
+    "parrafos": 48,
+    "escenas": 5
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 09.md",
+    "titulo": "Capítulo 09: El precio de una puerta",
+    "palabras": 1315,
+    "caracteres": 8179,
+    "parrafos": 45,
+    "escenas": 5
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 10.md",
+    "titulo": "Capítulo 10: Antes de cruzar",
+    "palabras": 1317,
+    "caracteres": 7975,
+    "parrafos": 50,
+    "escenas": 5
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 11.md",
+    "titulo": "Capítulo 11: Del otro lado del pulso",
+    "palabras": 1324,
+    "caracteres": 8126,
+    "parrafos": 44,
+    "escenas": 5
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 12.md",
+    "titulo": "Capítulo 12: Las capas del edificio",
+    "palabras": 1318,
+    "caracteres": 8006,
+    "parrafos": 40,
+    "escenas": 5
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 13.md",
+    "titulo": "Capítulo 13: La franja que quedaba",
+    "palabras": 1309,
+    "caracteres": 7816,
+    "parrafos": 50,
+    "escenas": 5
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 14.md",
+    "titulo": "Capítulo 14: Quienes sostenían la salida",
+    "palabras": 1315,
+    "caracteres": 7951,
+    "parrafos": 46,
+    "escenas": 5
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 15.md",
+    "titulo": "Capítulo 15: El peso de la reserva",
+    "palabras": 1310,
+    "caracteres": 7794,
+    "parrafos": 41,
+    "escenas": 5
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 16.md",
+    "titulo": "Capítulo 16: Lo que no regresó",
+    "palabras": 1311,
+    "caracteres": 7918,
+    "parrafos": 45,
+    "escenas": 5
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 17.md",
+    "titulo": "Capítulo 17: El tiempo de volver",
+    "palabras": 1307,
+    "caracteres": 7907,
+    "parrafos": 43,
+    "escenas": 5
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 18.md",
+    "titulo": "Capítulo 18: Un resultado incompleto",
+    "palabras": 1325,
+    "caracteres": 8496,
+    "parrafos": 39,
+    "escenas": 5
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 19.md",
+    "titulo": "Capítulo 19: Lo que se dice de una prueba",
+    "palabras": 1331,
+    "caracteres": 8382,
+    "parrafos": 41,
+    "escenas": 5
+  },
+  {
+    "arco": 2,
+    "archivo": "Capitulo 20.md",
+    "titulo": "Capítulo 20: Una mesa y un destino",
+    "palabras": 1309,
+    "caracteres": 8152,
+    "parrafos": 37,
+    "escenas": 5
+  },
+  {
+    "arco": 3,
+    "archivo": "Capitulo 01.md",
+    "titulo": "Capítulo 01: Identidades válidas",
+    "palabras": 1497,
+    "caracteres": 9366,
+    "parrafos": 40,
+    "escenas": 6
+  },
+  {
+    "arco": 3,
+    "archivo": "Capitulo 02.md",
+    "titulo": "Capítulo 02: Un recibimiento correcto",
+    "palabras": 1388,
+    "caracteres": 8659,
+    "parrafos": 40,
+    "escenas": 6
+  },
+  {
+    "arco": 3,
+    "archivo": "Capitulo 03.md",
+    "titulo": "Capítulo 03: La casilla que no existe",
+    "palabras": 1351,
+    "caracteres": 8374,
+    "parrafos": 44,
+    "escenas": 6
+  },
+  {
+    "arco": 3,
+    "archivo": "Capitulo 04.md",
+    "titulo": "Capítulo 04: Separados",
+    "palabras": 1336,
+    "caracteres": 8296,
+    "parrafos": 40,
+    "escenas": 6
+  },
+  {
+    "arco": 3,
+    "archivo": "Capitulo 05.md",
+    "titulo": "Capítulo 05: El trabajo de Pi",
+    "palabras": 1357,
+    "caracteres": 8041,
+    "parrafos": 46,
+    "escenas": 6
+  },
+  {
+    "arco": 3,
+    "archivo": "Capitulo 06.md",
+    "titulo": "Capítulo 06: Aprender el horario",
+    "palabras": 1337,
+    "caracteres": 8092,
+    "parrafos": 40,
+    "escenas": 6
+  },
+  {
+    "arco": 3,
+    "archivo": "Capitulo 07.md",
+    "titulo": "Capítulo 07: La primera confianza",
+    "palabras": 1335,
+    "caracteres": 8095,
+    "parrafos": 41,
+    "escenas": 6
+  },
+  {
+    "arco": 3,
+    "archivo": "Capitulo 08.md",
+    "titulo": "Capítulo 08: Dos lados del muro",
+    "palabras": 1311,
+    "caracteres": 8020,
+    "parrafos": 38,
+    "escenas": 6
+  },
+  {
+    "arco": 3,
+    "archivo": "Capitulo 09.md",
+    "titulo": "Capítulo 09: El mapa que cambia",
+    "palabras": 1289,
+    "caracteres": 8104,
+    "parrafos": 41,
+    "escenas": 6
+  },
+  {
+    "arco": 3,
+    "archivo": "Capitulo 10.md",
+    "titulo": "Capítulo 10: La fuga que se cancela",
+    "palabras": 1241,
+    "caracteres": 7576,
+    "parrafos": 42,
+    "escenas": 6
+  },
+  {
+    "arco": 4,
+    "archivo": "Capitulo 01.md",
+    "titulo": "Capítulo 01: Una habitación no era una llegada",
+    "palabras": 1149,
+    "caracteres": 6921,
+    "parrafos": 42,
+    "escenas": 4
+  },
+  {
+    "arco": 4,
+    "archivo": "Capitulo 02.md",
+    "titulo": "Capítulo 02: Lo que no cabía en el equipaje",
+    "palabras": 1177,
+    "caracteres": 7221,
+    "parrafos": 44,
+    "escenas": 5
+  },
+  {
+    "arco": 4,
+    "archivo": "Capitulo 03.md",
+    "titulo": "Capítulo 03: Elegir dónde quedarse",
+    "palabras": 1044,
+    "caracteres": 6338,
+    "parrafos": 42,
+    "escenas": 5
+  },
+  {
+    "arco": 4,
+    "archivo": "Capitulo 04.md",
+    "titulo": "Capítulo 04: El mapa tenía gente",
+    "palabras": 1042,
+    "caracteres": 6507,
+    "parrafos": 36,
+    "escenas": 5
+  },
+  {
+    "arco": 4,
+    "archivo": "Capitulo 05.md",
+    "titulo": "Capítulo 05: Una respuesta con condiciones",
+    "palabras": 1111,
+    "caracteres": 7048,
+    "parrafos": 37,
+    "escenas": 5
+  },
+  {
+    "arco": 4,
+    "archivo": "Capitulo 06.md",
+    "titulo": "Capítulo 06: Dejar una llave",
+    "palabras": 1005,
+    "caracteres": 6217,
+    "parrafos": 38,
+    "escenas": 5
+  },
+  {
+    "arco": 4,
+    "archivo": "Capitulo 07.md",
+    "titulo": "Capítulo 07: Doce días de camino",
+    "palabras": 1083,
+    "caracteres": 6594,
+    "parrafos": 31,
+    "escenas": 5
+  },
+  {
+    "arco": 4,
+    "archivo": "Capitulo 08.md",
+    "titulo": "Capítulo 08: El lugar había seguido viviendo",
+    "palabras": 1016,
+    "caracteres": 6165,
+    "parrafos": 37,
+    "escenas": 5
+  },
+  {
+    "arco": 4,
+    "archivo": "Capitulo 09.md",
+    "titulo": "Capítulo 09: Una puerta que pudiera cerrarse",
+    "palabras": 1101,
+    "caracteres": 6781,
+    "parrafos": 35,
+    "escenas": 5
+  },
+  {
+    "arco": 4,
+    "archivo": "Capitulo 10.md",
+    "titulo": "Capítulo 10: El tramo que no salía en la vista aérea",
+    "palabras": 1070,
+    "caracteres": 6627,
+    "parrafos": 33,
+    "escenas": 5
+  },
+  {
+    "arco": 4,
+    "archivo": "Capitulo 11.md",
+    "titulo": "Capítulo 11: El derecho a cobrar",
+    "palabras": 1120,
+    "caracteres": 6985,
+    "parrafos": 35,
+    "escenas": 5
+  },
+  {
+    "arco": 4,
+    "archivo": "Capitulo 12.md",
+    "titulo": "Capítulo 12: La placa bajo el agua",
+    "palabras": 1093,
+    "caracteres": 6849,
+    "parrafos": 32,
+    "escenas": 5
+  },
+  {
+    "arco": 4,
+    "archivo": "Capitulo 13.md",
+    "titulo": "Capítulo 13: Un trabajo que continuaría mañana",
+    "palabras": 1199,
+    "caracteres": 7280,
+    "parrafos": 35,
+    "escenas": 6
+  },
+  {
+    "arco": 4,
+    "archivo": "Capitulo 14.md",
+    "titulo": "Capítulo 14: Quién podía decir que sí",
+    "palabras": 1217,
+    "caracteres": 7707,
+    "parrafos": 33,
+    "escenas": 6
+  },
+  {
+    "arco": 5,
+    "archivo": "Capitulo 01.md",
+    "titulo": "Capítulo 01: Las cosas que esperan en casa",
+    "palabras": 1284,
+    "caracteres": 7736,
+    "parrafos": 43,
+    "escenas": 5
+  },
+  {
+    "arco": 5,
+    "archivo": "Capitulo 02.md",
+    "titulo": "Capítulo 02: La caja de los regresos",
+    "palabras": 1186,
+    "caracteres": 7283,
+    "parrafos": 47,
+    "escenas": 5
+  },
+  {
+    "arco": 5,
+    "archivo": "Capitulo 03.md",
+    "titulo": "Capítulo 03: Una ruta al mismo multiverso",
+    "palabras": 1186,
+    "caracteres": 7282,
+    "parrafos": 38,
+    "escenas": 5
+  },
+  {
+    "arco": 5,
+    "archivo": "Capitulo 04.md",
+    "titulo": "Capítulo 04: Los días entre dos casas",
+    "palabras": 1160,
+    "caracteres": 7149,
+    "parrafos": 39,
+    "escenas": 5
+  },
+  {
+    "arco": 5,
+    "archivo": "Capitulo 05.md",
+    "titulo": "Capítulo 05: Un planeta que continuaba",
+    "palabras": 1159,
+    "caracteres": 7132,
+    "parrafos": 37,
+    "escenas": 5
+  },
+  {
+    "arco": 5,
+    "archivo": "Capitulo 06.md",
+    "titulo": "Capítulo 06: El camino a Saure",
+    "palabras": 1172,
+    "caracteres": 7269,
+    "parrafos": 38,
+    "escenas": 5
+  },
+  {
+    "arco": 5,
+    "archivo": "Capitulo 07.md",
+    "titulo": "Capítulo 07: Las voces que no eran suyas",
+    "palabras": 1094,
+    "caracteres": 6898,
+    "parrafos": 39,
+    "escenas": 5
+  },
+  {
+    "arco": 5,
+    "archivo": "Capitulo 08.md",
+    "titulo": "Capítulo 08: Manos del presente",
+    "palabras": 1125,
+    "caracteres": 6866,
+    "parrafos": 37,
+    "escenas": 5
+  },
+  {
+    "arco": 5,
+    "archivo": "Capitulo 09.md",
+    "titulo": "Capítulo 09: La decisión de Naeri",
+    "palabras": 1193,
+    "caracteres": 7287,
+    "parrafos": 44,
+    "escenas": 5
+  },
+  {
+    "arco": 5,
+    "archivo": "Capitulo 10.md",
+    "titulo": "Capítulo 10: El peso que contó Virel",
+    "palabras": 1119,
+    "caracteres": 6963,
+    "parrafos": 39,
+    "escenas": 5
+  },
+  {
+    "arco": 5,
+    "archivo": "Capitulo 11.md",
+    "titulo": "Capítulo 11: Lo que guardaba la empresa",
+    "palabras": 1245,
+    "caracteres": 7909,
+    "parrafos": 36,
+    "escenas": 6
+  },
+  {
+    "arco": 5,
+    "archivo": "Capitulo 12.md",
+    "titulo": "Capítulo 12: Bajo las capas de sal",
+    "palabras": 1306,
+    "caracteres": 7993,
+    "parrafos": 38,
+    "escenas": 6
+  }
+]

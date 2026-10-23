@@ -1,6 +1,6 @@
 # Especie: Niders
 
-**Raza de los Planetas Xacro y Zecra, Universo X, Multiverso 3**
+**Raza de los Planetas Xacro y Zecra, Universo 11, Multiverso 3**
 
 ## Datos Básicos
 - **Nombre**: Niders

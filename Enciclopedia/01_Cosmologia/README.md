@@ -16,6 +16,12 @@ Reglas, limitaciones y paradojas de los viajes en el tiempo.
 ### [Agujeros_Blancos.md](./Agujeros_Blancos.md)
 Funcionamiento de los portales interdimensionales que conectan multiversos.
 
+## 📍 Lugares de los arcos 09 y 10
+
+- [Vetria](Vetria.md), planeta de las rutas a la venta, en el Multiverso 5.
+- [Noreva](Noreva.md), planeta que arbitra las rutas entre multiversos, en el Multiverso 12.
+- [Anexo de Cauce](Anexo_de_Cauce.md), alojamiento de clase tres en Noreva.
+- [Antesala de Arbitraje](Antesala_de_Arbitraje.md), la sala donde se oyen las causas entre mundos.
 ## 🎯 Conceptos Clave
 
 - **Multiverso**: Globo circular gigante que contiene universos

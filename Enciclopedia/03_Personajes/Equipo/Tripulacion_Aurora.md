@@ -55,3 +55,6 @@ Recuperar el **Dimantis** en el Planeta Celestia (Multiverso 11) bajo la supervi
 
 ---
 [← Volver a Personajes](../README.md)
+
+## Estado al cierre del Arco 01 integrado
+Las once personas regresan a Xacro y reciben atención o recuperación de estasis según corresponda. Las tablas de seis activos y cinco reservas describen la organización de salida, no el estado actual al final del arco. Nyx y Kael se incorporaron durante la misión. M-09 y M-10 reciben identidad nominal para la continuación: Ruvek, sanitario, y Sarevi, materiales e instrumentación. Keny mantiene seguimiento de una lesión de muñeca.

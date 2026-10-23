@@ -1,96 +1,201 @@
-# Capitulo 02 - Luces de Lumiria
+# Capítulo 02: La invitación
 
-La mañana en Lumiria no comenzó con el habitual estruendo de una metrópolis, sino con un suave murmullo de motores antigravitatorios y el canto de las aves sintéticas que anidaban en los rascacielos de cristal. Biglex se encontraba frente al espejo de su habitación, ajustándose el brazalete comunicador. Hoy no era un día cualquiera; era su cita con Ely, y en una ciudad que nunca dejaba de innovar, las posibilidades eran infinitas.
+El transporte que Ely debía entregar salió del taller a las diez y diecisiete. Biglex conocía la hora exacta porque había pasado buena parte de la mañana bajo el panel lateral, sosteniendo una lámpara mientras ella buscaba un conector que no figuraba donde decía el manual.
 
-—¡Biglex! ¡Date prisa o nos quedaremos sin mesa en el Caelum! —La voz de Ely llegó a través del comunicador, acompañada por el sonido del viento.
+Había llegado a las ocho. Ely lo había celebrado poniéndole un delantal de trabajo.
 
-Pocos minutos después, ambos se encontraban en el **Caelum**, un café flotante cuyas mesas se suspendían de forma independiente sobre las aguas cristalinas del Gran Lago de Xacro. Mientras el camarero —un androide modelo N-400 fabricado por la familia de Ely les servía dos tazas de extracto de nebulosa, Biglex no podía apartar la vista de su acompañante.
+Ahora caminaban hacia el Caelum. El café flotaba sobre una sección tranquila del lago y tenía tres mesas fuera de servicio. Un camarero les indicó una junto al borde.
 
-—Lumiria es hermosa, Biglex, y hoy está... deslumbrante —dijo Ely, señalando la ciudad que se extendía bajo sus pies.
+—Esa no se inclina —aseguró.
 
-—Nada en este universo, ni en los otros doce, se compara con la belleza de tus ojos, Ely —respondió Biglex con una sonrisa que le valió un leve sonrojo de la chica.
+—Qué descripción tan convincente —murmuró Ely.
 
-Entre risas y confidencias, la cita se transformó en una odisea por los rincones más futuristas de la capital. Decidieron subir a las **Cápsulas Supersónicas**, un sistema de transporte que atravesaba túneles de vacío a velocidades que pegaban sus cuerpos contra los asientos de gel. La adrenalina de la velocidad se mezclaba con sus risas mientras cruzaban Lumiria de un extremo a otro en cuestión de segundos.
+La mesa se inclinó apenas cuando dejaron las mochilas. Biglex decidió no comentarlo.
 
-—¡Esto es increíble! —gritó Ely, aferrándose al brazo de Biglex mientras la cápsula giraba en un loop vertical.
+Pidieron bebidas calientes y dos panes rellenos. Él abrió el mensaje que había recibido del GDU: la baliza errónea quedaría bloqueada hasta completar la revisión. Ninguna nave debía usar su cálculo como sustituto de los datos oficiales.
 
-—¡Te dije que te encantaría! —respondió él, disfrutando de la emoción en los ojos de ella.
+—Te hicieron caso —dijo Ely.
 
-Al atardecer, buscaron el sosiego del **Jardín de las Luces**. Allí, las flores no dependían solo del sol; al caer la noche, comenzaban a emitir un suave resplandor en tonos violetas y cianes. Sentados bajo la sombra de un Roble de Memoria, un árbol cuyas hojas guardaban fragmentos de la historia del planeta, Biglex miró hacia arriba.
+—Me pidieron ocho páginas de explicación para corregir una casilla.
 
-—Cada estrella que ves ahí arriba es un mundo, Ely. Y aun así, ninguna brilla tanto como tú en mi vida.
+—Tal vez porque al otro lado de esa casilla hay una nave.
 
-—Eres un poeta incurable, Biglex —susurró ella, recostándose en su hombro mientras el jardín se iluminaba por completo.
+Él aceptó el punto. Le mostró la respuesta terminada y la guardó. Por primera vez en varios días no tenía un archivo pendiente que justificara distraerse.
 
-Después de un rato de contemplación, decidieron visitar el **Mercado de los Sentidos**, un bazar flotante donde los comerciantes vendían experiencias sensoriales comprimidas en pequeñas esferas de cristal. Biglex compró una que contenía el aroma del océano de LA Tierra, el planeta de su padre, y se la regaló a Ely.
-
-—Para que siempre recuerdes de dónde vengo —dijo él, colocando la esfera en la palma de su mano.
-
-Ely la activó, y de inmediato, el olor a sal marina y especias exóticas llenó el aire entre ellos. 
-—Es hermoso, Biglex. Gracias.
-
-Su siguiente parada fue el **Café Biotecnológico**, un lugar donde la arquitectura era orgánica. Las mesas eran extensiones de árboles de luz que cambiaban de color según el estado de ánimo de los comensales. Allí, se dejaron sorprender por bebidas que cambiaban de estado físico al ser ingeridas, un recordatorio constante de que en el Universo 11, la ciencia era la forma más alta de arte.
-
-Mientras disfrutaban de sus bebidas, Ely notó que Biglex parecía distraído, mirando ocasionalmente su brazalete comunicador.
-
-—¿Estás esperando algo? —preguntó ella con curiosidad.
-
-—No, solo... —Biglex dudó un momento—. Es solo que he estado pensando mucho últimamente sobre los viajes en el tiempo. Sobre si realmente es posible. Sobre todo lo que podríamos descubrir.
-
-Para cerrar el día, visitaron el **Simulador de Civilizaciones Antiguas**. Caminaron por una recreación virtual de diferentes épocas y culturas, rodeados de arquitectura que abarcaba desde pirámides hasta ciudades flotantes de civilizaciones olvidadas.
-
-Biglex se detuvo frente a una réplica de una antigua biblioteca, sus estantes llenos de libros físicos de papel. Tocó uno con reverencia, maravillado por la simplicidad de la tecnología.
-
-—Es fascinante —murmuró él—. Pensar que hubo civilizaciones que almacenaban todo su conocimiento en objetos físicos. Sin hologramas, sin bases de datos cuánticas... solo papel y tinta.
-
-Ely lo observó con ternura, compartiendo su asombro.
-
-—Quizás por eso valoraban tanto el conocimiento —añadió ella, acercándose a él—. Cada libro era único, irremplazable. No podían simplemente hacer una copia con un clic.
-
-—A veces me pregunto —continuó Biglex, mirando los estantes simulados— qué secretos se perdieron cuando estas civilizaciones desaparecieron. Cuánto conocimiento se fue con ellas.
-
-Ely sonrió, tomando su mano.
-
-—Por eso estamos aquí, ¿no? Para descubrir esos secretos.
-
-Mientras el sol se sumergía definitivamente tras las montañas de Xacro, el ambiente de paz se vio interrumpido por una presencia que Biglex notó de inmediato. No era la mirada de un droide de seguridad, ni la curiosidad de otro turista. Era algo más pesado, más analítico.
-
-Cerca de la salida del simulador, un hombre de mediana edad, vestido con una túnica oscura decorada con circuitos de cobre, los observaba. Jey Halcime no parecía un habitante común de Lumiria. Su mirada cargaba con el peso de siglos, una obsesión que relucía en sus ojos mientras se acercaba a ellos con una sonrisa enigmática.
-
-—El tiempo es un recurso curioso, ¿no creen? —dijo Jey, interceptando su camino—. Algunos lo gastan en café y paseos, otros en lamentar el pasado. Pero verlos a ustedes... me hace pensar que hay quienes están listos para dominarlo.
-
-Biglex dio un paso al frente, protegiendo instintivamente a Ely, pero la curiosidad fue más fuerte que la cautela. El extraño no parecía una amenaza, sino un enigma esperando ser resuelto.
-
-—¿Quién es usted? —preguntó Biglex, sintiendo que ese encuentro no era, en absoluto, una coincidencia.
-
-Jey se rió suavemente, una risa que sonaba como el tic-tac de un reloj antiguo. 
-—Soy Jey Halcime, investigador del tiempo y fundador de Timenet. He estado observándolos durante un tiempo, Biglex, Ely. Su curiosidad por el multiverso y el tiempo no ha pasado desapercibida.
-
-—¿Timenet? —repitió Ely, reconociendo el nombre—. La compañía de investigación temporal en la ciudad de Nides. He oído hablar de ella.
-
-—Exactamente —confirmó Jey—. Estamos ubicados en el distrito industrial de Nides, a unas dos horas de aquí en transporte rápido. Y tengo una propuesta para ustedes. Algo que cambiará su percepción de la realidad para siempre.
-
-Biglex y Ely intercambiaron una mirada. La intensidad en los ojos de Jey era innegable, pero también lo era la promesa de aventura que sus palabras contenían.
-
-—¿De qué se trata? —preguntó Biglex, incapaz de contener su curiosidad.
-
-—No aquí —respondió Jey, mirando alrededor—. Vengan a Timenet mañana al mediodía. Les mostraré algo que solo un puñado de personas en todo el multiverso han visto: una máquina capaz de abrir las puertas del tiempo mismo. Pero necesito personas valientes, inteligentes y, sobre todo, dispuestas a arriesgarlo todo por el conocimiento.
-
-Jey les entregó una pequeña tarjeta holográfica que mostraba las coordenadas exactas de Timenet en Nides, junto con un código de acceso.
-
-—Piénsenlo esta noche —dijo Jey, dándose la vuelta—. Pero si deciden venir, sepan que nada volverá a ser igual.
-
-Mientras Jey desaparecía entre la multitud del simulador, Biglex y Ely se quedaron en silencio, mirando la tarjeta holográfica que brillaba suavemente en la mano de Biglex.
-
-—¿Qué piensas? —preguntó Ely finalmente.
-
-—Creo... —Biglex miró a Ely, sus ojos llenos de emoción y un toque de miedo—. Creo que esto es lo que he estado esperando toda mi vida. Pero no quiero arrastrarte a algo peligroso.
-
-Ely tomó su mano y la apretó con firmeza. 
-—Biglex, donde tú vayas, yo voy. Siempre.
-
-Esa noche, mientras regresaban a sus hogares, ambos sabían que el día siguiente marcaría un punto de no retorno. La ciudad de Nides los esperaba, y con ella, los secretos del tiempo mismo.
+Habían reservado la mañana. Ely quería visitar una exposición de mecanismos antiguos; Biglex, el simulador terrestre que habían instalado cerca del Mercado de los Sentidos. Decidieron empezar por los mecanismos porque quedaban antes en la línea de transporte y porque la exposición cerraba temprano.
 
 ***
 
-> "Aquel que busca dominar el tiempo debe primero entender que el reloj no mide la vida, sino la velocidad con la que la dejamos pasar."
+El reloj más viejo no proyectaba nada. Tenía agujas, un péndulo y una cubierta de madera con arañazos. Biglex se inclinó para oírlo funcionar.
+
+—Gasta energía para indicarte que estás gastando tiempo —observó Ely.
+
+—Es bonito.
+
+—También es bonito un motor averiado. Hasta que te lo traen a casa.
+
+Le gustaban las piezas visibles. Se detuvo frente a una rueda dentada, leyó la placa y volvió a mirar el reloj. Biglex la dejó recorrer las vitrinas a su ritmo. Cuando llegó una demostración, ella fue quien consiguió que el encargado abriera un mecanismo de muestra y enseñara la transmisión.
+
+Al salir compraron una esfera sensorial en el mercado. El vendedor la ofrecía como «aroma auténtico de costa terrestre». Biglex preguntó de qué costa.
+
+El hombre consultó una etiqueta.
+
+—Costa. Es lo que dice el proveedor.
+
+Ely contuvo la risa hasta que se alejaron.
+
+—Vas a exigirle coordenadas a un ambientador.
+
+—Si es de la Tierra, puede tenerlas.
+
+—Podría ser de la cocina del fabricante.
+
+Aun así, Biglex se llevó una esfera pequeña. No recordaba el planeta donde había nacido; las imágenes que conocía provenían de fotografías, relatos familiares y recreaciones. Le incomodaba que algo vendido como un recuerdo le pareciera familiar sin haberlo vivido.
+
+No dijo nada de eso hasta que entraron al simulador.
+
+***
+
+La entrada al simulador incluía una advertencia que Biglex nunca había leído con atención: las recreaciones combinaban registros de épocas y regiones distintas.
+
+Se detuvo delante de ella.
+
+—Entonces no es un sitio concreto.
+
+La encargada del recinto negó con la cabeza. Utilizaban materiales de varios archivos y modificaban condiciones para que la visita resultara cómoda. Había paisajes fieles a sus fuentes y otros adaptados por el equipo artístico.
+
+Ely pidió ver cómo distinguían unos de otros.
+
+La mujer les mostró una capa informativa. Biglex reconoció una montaña que había aparecido en una fotografía de su familia, o creyó reconocerla. Al consultar el origen descubrió que pertenecía a otro continente.
+
+El parecido le molestó más de lo razonable.
+
+—Podemos buscar la región de las fotos —propuso Ely.
+
+—Hoy no sé cuál sería.
+
+No era un misterio que pudiera resolver ampliando una imagen. Sus padres conocían nombres y trayectos que él nunca había tenido motivos para pedirles con precisión.
+
+Compró la visita ordinaria y dejó pendiente una consulta al archivo. Ely no convirtió la decisión en una pregunta sobre su infancia. Le enseñó, en cambio, una opción para reducir el sonido ambiental.
+
+—Si vamos a un mar inventado, al menos que nos deje hablar.
+
+Biglex ajustó el control. El rumor de las olas bajó lo suficiente para que la playa dejara de parecer una demostración comercial.
+
+La playa reconstruida estaba casi vacía. La luz del techo imitaba un sol terrestre y la arena cedía con una regularidad que delataba el sistema. Ely se quitó los zapatos para probarla.
+
+—Demasiado limpia.
+
+—Quizá eligieron una buena playa.
+
+—O alguien olvidó programar las piedras.
+
+Biglex activó la esfera. El olor salado se mezcló con el aire templado del recinto. Unas olas simuladas rompían lejos, incapaces de mojarles los pies.
+
+Ely lo observó sin interrumpir.
+
+—No sé si se parecía a esto —dijo él al fin.
+
+—Podrías preguntarles a tus padres.
+
+—Ya les he preguntado cosas. Siempre terminamos hablando del viaje a Xacro.
+
+Ella se sentó a su lado. No le pidió más detalles. Biglex agradeció ese silencio, distinto de los silencios en que alguien esperaba una confesión.
+
+Al otro lado de la playa, un hombre cerró un panel de consulta. Llevaba un abrigo oscuro y se acercó lo suficiente para hablar sin obligarlos a levantarse.
+
+—Biglex. Ely. ¿Puedo interrumpirlos un momento?
+
+Los dos se miraron. Ely se puso los zapatos.
+
+—Primero puede decirnos quién es.
+
+El hombre mostró una identificación verificable.
+
+—Jey Halcime. Timenet.
+
+Biglex conocía el nombre. Había leído entrevistas suyas y una discusión técnica que le había costado dos tardes entender. Aun así, revisó el identificador en su reloj.
+
+—¿Cómo sabe nuestros nombres?
+
+Jey no pareció ofendido por la pregunta.
+
+—El informe de la baliza tiene tu firma. El taller de la familia de Ely ha suministrado componentes a uno de nuestros proveedores. He estado buscando colaboradores para una expedición.
+
+Ely cruzó los brazos.
+
+—¿Y por qué venir aquí?
+
+—Porque les escribí ayer y no recibí respuesta.
+
+Biglex consultó la bandeja filtrada. Allí estaba: una invitación de una empresa, clasificada junto a ofertas de formación y publicidad de motores.
+
+—Eso explica el mensaje —dijo—. No cómo nos encontró.
+
+Jey admitió que había preguntado por ellos en el taller. Había sido una decisión poco delicada; lo reconoció sin convertirla en un chiste.
+
+—Podemos seguir por un canal formal si prefieren.
+
+Ely sostuvo su mirada unos segundos antes de asentir.
+
+***
+
+Se trasladaron a un banco fuera del simulador. Jey dejó que verificaran la invitación completa antes de explicar qué buscaba.
+
+La expedición necesitaba una persona con práctica de pilotaje comercial y capacidad para detectar discrepancias entre mapas. También necesitaba a alguien que entendiera la integración entre navegación, motores y sistemas de seguridad.
+
+—Hay pilotos mejores que yo —dijo Biglex.
+
+—Por supuesto.
+
+La respuesta le desinfló una parte de la emoción, pero le permitió escuchar.
+
+Jey explicó que algunos profesionales habían rechazado el encargo por su duración; otros no cumplían los requisitos técnicos o contractuales de Timenet. Biglex no era el único candidato. Ely tampoco estaba invitada como acompañante.
+
+—Quisiera evaluar su criterio —dijo Jey—. Los conocimientos se verifican. Lo difícil es saber qué hace alguien cuando los datos no bastan.
+
+—¿Una evaluación para qué destino? —preguntó Ely.
+
+—Una misión de recuperación fuera de nuestro multiverso. Les daría los detalles en nuestras instalaciones, con acceso a la documentación.
+
+Biglex sintió la tentación de aceptar antes de conocer la pregunta completa.
+
+—¿Y los viajes en el tiempo?
+
+Jey volvió la cabeza hacia él.
+
+—Son la investigación que motiva el proyecto. La expedición no sería un viaje temporal.
+
+Ely hizo la siguiente pregunta antes de que Biglex pudiera perderse en esa distinción.
+
+—¿Cuándo tendríamos que decidir?
+
+—Después de conocer la misión, los riesgos y al equipo. Si les interesa visitarnos, mañana a las doce.
+
+Jey les dejó una credencial de visitante y se marchó por la pasarela. No pidió una respuesta inmediata.
+
+***
+
+Los panes del almuerzo estaban fríos cuando volvieron al lago. Ely mordió el suyo de todas formas.
+
+—Estabas a punto de decir que sí.
+
+Biglex no fingió sorpresa.
+
+—Lo sé.
+
+—Yo también quiero verlo. Eso no significa que hayamos decidido ir.
+
+Él apoyó la credencial sobre la mesa. Las letras de Timenet parecían ofrecerle una entrada a todo lo que había estudiado desde lejos. Miró a Ely y recordó la pregunta que le había hecho la noche anterior.
+
+—Si tú no quisieras, yo tendría que pensar qué hacer. No puedo dar por hecho que me seguirías.
+
+Ella dejó de comer.
+
+—Eso quería oír.
+
+Prepararon una lista en el reloj: destino, duración, autoridad de mando, condiciones de regreso, atención médica, propiedad de lo recuperado. Ely añadió una última línea: quién podía cancelar la misión.
+
+Biglex la leyó dos veces.
+
+Después reservaron transporte a Nides para las nueve y media. El trayecto duraba casi dos horas; incluso con retrasos llegarían antes del mediodía. La aventura, si llegaba, empezaría por presentarse a una reunión y hacer suficientes preguntas.

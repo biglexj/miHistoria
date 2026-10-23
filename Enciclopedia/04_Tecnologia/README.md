@@ -5,56 +5,48 @@ Esta sección documenta todos los objetos, artefactos y tecnologías del univers
 ## ⚙️ Tecnologías Principales
 
 ### Viajes en el Tiempo
-- **[Maquina_del_Tiempo.md](./Maquina_del_Tiempo.md)**: Dispositivo principal de Timenet
-- **[Dimantis.md](./Dimantis.md)**: Mineral esencial para los viajes temporales
+- **[Dimantis.md](./Dimantis.md)**: mineral de Celestia, U1-M11. Participa en estabilización y ensayos locales, pero no basta por sí sola.
 
-### Almacenamiento y Transporte
-- **[Capsulas_Compresion.md](./Capsulas_Compresion.md)**: Tecnología de compresión de objetos
-- **[Transversor_Universal.md](./Transversor_Universal.md)**: Artefacto para navegar entre multiversos
+### Instrumentación
+- **[Modulo_Medicion.md](./Modulo_Medicion.md)**: módulo móvil de medición y reserva preparado por Yani y Sarevi. No transporta personas entre épocas.
 
 ### Naves
-- **[Naves/Naves_Universales.md](./Naves/Naves_Universales.md)**: Naves para viajes entre planetas
-- **[Naves/Naves_Multiversales.md](./Naves/Naves_Multiversales.md)**: Naves para viajes entre universos
+- **[Naves/Aurora.md](./Naves/Aurora.md)**: nave interestelar de larga duración con once tripulantes.
 
-### Otros Dispositivos
-- Transformador de Invisibilidad
-- Comunicadores Temporales
-- Trajes de Camuflaje
-- Androides
+### Artículos y dispositivos
+- Transversor universal, a bordo de la Aurora.
+- Cápsulas de compresión, androides y comunicadores temporales: constan como equipamiento, sin ficha propia ni límites medidos.
 
 ## 📊 Clasificación por Rareza
 
 ### Único
-- Máquina del Tiempo (Timenet)
-- Transversor Universal
+- Transversor universal
 
 ### Muy Raro
 - Dimantis
 
 ### Raro
-- Naves Multiversales
+- Naves multiversales
 
 ### Poco Común
-- Cápsulas de Compresión
-- Transformadores de Invisibilidad
+- Cápsulas de compresión
+- Transformadores de invisibilidad
 
 ### Común
-- Naves Universales
+- Naves universales
 - Androides
 - Comunicadores
 
 ## 🏭 Por Fabricante
 
 ### Timenet
-- Máquina del Tiempo
-- Cápsulas de Compresión (proporcionadas)
+- Equipos de ensayos temporales y de referencia
 
 ### Padres de Ely
 - Androides
-- Naves Universales
+- Naves universales
 
 ### Desconocido/Antiguo
-- Transversor Universal
 - Dimantis (natural)
 
 ---

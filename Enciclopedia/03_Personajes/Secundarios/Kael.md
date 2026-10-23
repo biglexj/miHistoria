@@ -3,7 +3,7 @@
 ## Datos Básicos
 - **Nombre**: Kael
 - **Rol**: Experta en Hacking y Seguridad
-- **Estado Actual**: Criogenizada (Misión Arco 01)
+- **Estado Actual**: Recuperada y activa al regreso del Arco 01; la estasis corresponde a la fase de salida.
 - **Especie**: Por definir (Tripulante de la Aurora)
 - **Afiliación**: Tripulación Aurora / Timenet
 

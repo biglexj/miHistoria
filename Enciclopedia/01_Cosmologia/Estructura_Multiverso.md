@@ -2,7 +2,7 @@
 
 ## Descripción General
 
-El multiverso en "Locuras en el Tiempo" está organizado en una jerarquía de cuatro niveles, desde el Cosmos hasta los planetas individuales. La estructura se visualiza como **"globos circulares"** anidados, donde cada nivel contiene realidades dentro de realidades.
+El multiverso en "Locuras en el Tiempo" está organizado en una jerarquía de cinco niveles, desde el Cosmos hasta los planetas individuales. La estructura se visualiza como **"globos circulares"** anidados, donde cada nivel contiene realidades dentro de realidades.
 
 ## Jerarquía Cósmica Completa
 
@@ -167,12 +167,15 @@ Multiverso 3
 - **Tiempo**: Impredecible; el tiempo externo e interno pueden desfasarse.
 - **Requisitos**: Tecnología de punta, Transversor Universal y un guía de navegación avanzada.
 
-## Ejemplos en la Historia
+## Ejemplos en la historia vigente
 
-- **Arco 01, Capítulo 4**: El equipo viaja del Multiverso 3 al Multiverso 5 usando un Agujero Blanco
-- **Arco 01, Capítulo 4**: Aterrizan por error en el Universo 9 del Multiverso 5 (planeta Variancia)
-- **Arco 01, Capítulo 4**: Descubren el Transversor Universal para navegar entre multiversos
-- **Arco 01, Capítulo 5**: Llegan al Universo 1 del Multiverso 11 (destino: Dimantis)
+- **Arco 01, capítulos 06–07**: salida desde la región de M3-U11 y tránsito hasta M11-U1.
+- **Capítulos 08–09**: Vórtice permite revisar mapas, reparar y abastecer.
+- **Capítulo 11**: aproximación a Celestia, U1-M11; no se confunde con el Universo 11 de Xacro.
+- **Capítulos 14–16**: recorrido local, muestra autorizada y salida.
+- **Capítulos 17–18**: regreso de doce días a Vórtice, tres hasta el enlace y veinte hasta Xacro tras el cruce.
+
+Variancia y el Multiverso 5 pertenecen a referencias de versiones anteriores; no son una escala recorrida en el Arco 01 integrado.
 
 ## Reglas Importantes
 

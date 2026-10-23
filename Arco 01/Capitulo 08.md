@@ -1,155 +1,167 @@
-# Capitulo 08 - Rumbo a Celestia
+# Capítulo 08: Muelle Siete Delta
 
-## Alejándose de la Estación
+El controlador de Vórtice pidió la identificación de la Aurora y esperó a recibirla completa. Después preguntó por el número de personas a bordo, las necesidades médicas y la clase de carga declarada.
 
-Los motores de la *Aurora* rugieron mientras la nave se alejaba de la **Estación Vórtice**. A través de las ventanas de la cabina, Biglex observó cómo la estructura masiva se hacía cada vez más pequeña, hasta convertirse en un punto de luz entre las estrellas del **Multiverso 11**.
+Biglex había preparado respuestas para amenazas. Necesitó consultar una ficha para responder a la última pregunta.
 
-—Rumbo establecido a **Celestia** —anunció Sina desde navegación—. Doce días estándar GDU a velocidad de crucero.
+—Investigación y suministros técnicos. Sin extracción realizada.
 
-Biglex se reclinó en su asiento, sintiendo el peso de lo que acababa de pasar en la estación. Aquellos seres encapuchados, las miradas furtivas, la advertencia velada. No habían sido bienvenidos, y eso lo inquietaba.
+Ely le señaló un apartado.
 
-—¿Crees que nos seguirán? —preguntó Ely desde el asiento del copiloto.
+—Y cinco módulos de estasis.
 
-—No lo sé —respondió Biglex—. Pero no podemos preocuparnos por eso ahora. Tenemos una misión que completar.
+El controlador confirmó que estaba registrado. Tenía piel azulada, un uniforme gris y la expresión cansada de alguien que había repetido el mismo procedimiento durante horas.
 
-Flevy se giró desde su estación.
+—Muelle Siete Delta. Mantengan la alimentación de soporte independiente hasta verificar la compatibilidad del acoplamiento.
 
-—He configurado los sensores para detectar cualquier nave que nos siga. Si alguien intenta rastrearnos, lo sabremos.
+La tarifa apareció antes que el permiso final. No era una bienvenida generosa, pero tampoco una emboscada.
 
-—Bien —Biglex asintió—. Mantén los escudos al 75%. No quiero gastar energía innecesariamente, pero tampoco quiero ser vulnerable.
+Sina cotejó la señal del muelle con el catálogo provisional. Flevy confirmó el vector. Biglex realizó la aproximación a una velocidad que le pareció insoportablemente lenta.
 
-El espacio del **Multiverso 11** se extendía ante ellos, vasto y desconocido. Las estrellas aquí tenían ese tono azulado que Biglex había notado desde el primer momento. Era hermoso, pero también alienante. Un recordatorio constante de que estaban muy lejos de casa.
+Cuando el cierre quedó asegurado, Yani ordenó esperar. Midió la conexión dos veces.
 
-## Días en el Vacío
-
-Los primeros tres días de viaje fueron tranquilos. El equipo estableció su rutina de turnos: Biglex, Ely y Flevy rotaban en los controles de pilotaje, mientras Sina los apoyaba en navegación. Yani y Keny se turnaban en la sala de máquinas, asegurándose de que el **Transversor Universal** funcionara sin problemas.
-
-Durante el cuarto día, mientras Biglex descansaba en su camarote, Ely lo encontró mirando un holograma de **Xacro**.
-
-—¿Extrañas casa? —preguntó ella, sentándose a su lado.
-
-—Más de lo que pensé que lo haría —admitió Biglex—. Cuando soñaba con cruzar **multiversos**, nunca pensé en... esto. En lo solo que se siente estar tan lejos.
-
-Ely tomó su mano.
-
-—No estás solo. Estoy aquí. El equipo está aquí.
-
-—Lo sé —Biglex sonrió—. Y eso es lo único que me mantiene cuerdo.
-
-—¿Nervioso por **Celestia**? —preguntó Ely.
-
-—Aterrado —confesó él—. Nyx dice que el planeta está en guerra. No sabemos con quién, ni por qué. Y vamos a bajar directo al medio de eso para buscar un mineral que probablemente esté custodiado.
-
-—Jey confía en nosotros —dijo Ely—. Y yo confío en ti. Encontraremos el **Dimantis** y volveremos a casa.
-
-Biglex la abrazó, sintiendo el calor de su presencia.
-
-—Juntos, como siempre.
-
-## Preparativos
-
-El séptimo día, Nyx convocó una reunión en la sala de conferencias. Había estado trabajando sin parar, recopilando toda la información disponible sobre **Celestia**.
-
-—Necesitan saber a qué nos enfrentamos —comenzó Nyx, proyectando un holograma del planeta—. **Celestia** está en el **Universo 1** del **Multiverso 11**. Es un planeta rico en minerales raros, incluyendo el **Dimantis**. Pero esa riqueza ha atraído invasores.
-
-El holograma mostró naves de guerra orbitando el planeta, y destellos de explosiones en la superficie.
-
-—¿Quiénes son los invasores? —preguntó Flevy.
-
-—No tengo información específica —admitió Nyx—. Pero los patrones de energía sugieren tecnología avanzada. Posiblemente de otro **universo** dentro de **M11**.
-
-—¿Y los habitantes de **Celestia**? —preguntó Ely.
-
-—Los **Celestianos** son una especie pacífica, pero han desarrollado defensas formidables para proteger sus recursos. El problema es que están siendo superados en número.
-
-Biglex estudió el holograma, analizando las rutas de patrullaje de las naves invasoras.
-
-—Necesitaremos entrar con camuflaje —dijo—. Yani, Keny, ¿pueden modificar nuestros escudos para que emitan una firma energética neutral?
-
-—Podemos intentarlo —respondió Yani—. Nos tomará un par de días, pero es factible.
-
-—Háganlo —ordenó Biglex—. Y Nyx, necesito que localices la señal del **Dimantis** con la mayor precisión posible. No podemos darnos el lujo de buscar a ciegas una vez estemos en la superficie.
-
-Nyx asintió.
-
-—Ya estoy trabajando en eso. El **Transversor Universal** puede detectar la firma energética del **Dimantis** desde la órbita. Debería poder darte coordenadas exactas.
-
-## Señales de Guerra
-
-El décimo día, los sensores de la *Aurora* comenzaron a captar señales preocupantes.
-
-—Capitán —llamó Sina—. Estoy detectando transmisiones de emergencia. Vienen de la dirección de **Celestia**.
-
-Biglex se incorporó en su asiento.
-
-—¿Puedes descifrarlas?
-
-Sina trabajó en su consola, filtrando las señales a través del traductor universal.
-
-—Son... llamadas de auxilio. Los **Celestianos** están pidiendo ayuda. Dicen que los invasores han penetrado sus defensas exteriores.
-
-Un silencio pesado cayó sobre la cabina. La realidad de lo que estaban a punto de enfrentar se volvió tangible.
-
-—¿Deberíamos ayudarlos? —preguntó Ely.
-
-Biglex luchó con la pregunta. Habían venido por el **Dimantis**, no a involucrarse en una guerra. Pero escuchar esas llamadas de auxilio...
-
-—Nuestra misión es el **Dimantis** —dijo finalmente, su voz tensa—. Pero si podemos ayudar sin comprometer la misión, lo haremos. Primero necesitamos evaluar la situación desde la órbita.
-
-Flevy lo miró con aprobación.
-
-—Decisión sabia, capitán.
-
-## Avistamiento
-
-El día doce, **Celestia** apareció en los sensores visuales.
-
-—Ahí está —anunció Sina.
-
-Biglex se levantó de su asiento, acercándose a la cúpula de observación. El planeta era hermoso, una esfera de tonos dorados y azules que brillaba con una luz interna. Pero esa belleza estaba manchada por la guerra. Desde el espacio, podían ver los destellos de explosiones en la atmósfera superior, y las estelas de naves de combate cruzando el cielo.
-
-—Es peor de lo que pensaba —murmuró Ely, uniéndose a él.
-
-Nyx trabajaba frenéticamente en su consola.
-
-—Tengo la señal del **Dimantis** —anunció—. Está en el hemisferio norte, en una región montañosa. Parece estar en una red de cuevas subterráneas.
-
-—¿Qué tan cerca están los combates de esa zona? —preguntó Biglex.
-
-Sina analizó los datos.
-
-—Hay actividad militar a unos cincuenta megámetros. No están directamente sobre el **Dimantis**, pero están lo suficientemente cerca como para ser un problema.
-
-Biglex tomó una decisión.
-
-—Yani, Keny, ¿está listo el camuflaje?
-
-La voz de Yani llegó desde la sala de máquinas.
-
-—Listo, capitán. Los escudos están configurados para emitir una firma neutral. Deberíamos poder pasar desapercibidos, al menos por un tiempo.
-
-—Perfecto —Biglex regresó a su asiento—. Flevy, traza una ruta de descenso que nos mantenga alejados de las zonas de combate. Vamos a entrar por el sector norte, donde está la señal del **Dimantis**.
-
-—Entendido —Flevy comenzó a trabajar en los cálculos.
-
-Biglex miró a su equipo. Todos lucían tensos, pero determinados. Habían viajado a través del cosmos, cruzado un **Agujero Blanco**, navegado un **multiverso** desconocido. Y ahora, estaban a punto de descender a un planeta en guerra para buscar un mineral que podría cambiar el futuro de la tecnología temporal.
-
-—Todos a sus estaciones —ordenó—. Prepárense para el descenso. Esto va a ser complicado.
-
-Ely verificó los sistemas de la nave.
-
-—Escudos al máximo. Camuflaje activado.
-
-—Ruta de descenso calculada —reportó Flevy—. Lista cuando tú lo estés, capitán.
-
-Biglex respiró profundo, sus manos sobre los controles. A través de la ventana, **Celestia** brillaba ante ellos, hermosa y peligrosa a la vez.
-
-—Iniciando descenso —dijo, su voz firme—. Que la suerte esté de nuestro lado.
-
-La *Aurora* giró en el espacio, sus motores encendiéndose mientras se dirigía hacia el planeta. Las nubes doradas de **Celestia** se acercaban, y con ellas, el destino que los había traído tan lejos de casa.
-
-El **Dimantis** los esperaba. Y con él, peligros que aún no podían imaginar.
+Solo entonces pudieron abrir.
 
 ***
 
-> "El verdadero coraje no es la ausencia de miedo, sino la decisión de seguir adelante a pesar de él."
+La esclusa olía a metal tibio y a un producto de limpieza con un aroma que Biglex no reconoció. Al otro lado no había una multitud aguardando a los viajeros de otro multiverso. Había un operario que quería saber si alquilarían un carro.
+
+Ely lo alquiló antes de que Biglex pudiera decir que cargarían las cosas a mano.
+
+—Todavía no hemos comprado nada —señaló él.
+
+—Eso puede cambiar.
+
+Nyx salió con ellos después de que el control médico autorizara actividad moderada. Flevy completaba el grupo. Sina, Yani y Keny permanecían a bordo con el resto de la tripulación.
+
+El corredor tenía marcas distintas para carga, peatones y sistemas de soporte móviles. Una criatura de cuerpo segmentado atravesó la intersección dentro de un vehículo adaptado. Biglex se apartó demasiado tarde y recibió un aviso amable por el altavoz.
+
+—La raya violeta es para ellos —le explicó Flevy.
+
+—Ya lo he entendido.
+
+Un grupo de niños pasaba al otro lado, guiado por una persona que señalaba el cierre de un hangar como si fuera una excursión de escuela. Biglex había imaginado una frontera excepcional; Vórtice también era un sitio donde alguien debía llevar niños al baño.
+
+***
+
+La oficina de catálogos no vendía mapas sueltos. Vendía licencias de uso y niveles de actualización.
+
+Nyx pidió consultar las condiciones técnicas antes de pagar. La empleada que los atendió tenía dos pares de brazos y utilizaba uno para mantener una taza lejos de los documentos.
+
+—El catálogo económico tiene posiciones verificadas hasta el trimestre pasado —explicó—. No incluye avisos de seguridad de acceso restringido.
+
+Biglex quiso preguntar por Celestia. Flevy le tocó suavemente el brazo.
+
+Primero verificaron que la licencia funcionara en su sistema. Después preguntaron por cobertura regional. Nyx abrió una sesión aislada y probó una referencia que ya conocían. La conversión coincidió dentro del margen esperado.
+
+La empleada les mostró una advertencia junto al destino: tráfico irregular, balizas interrumpidas y datos de emergencia pendientes de confirmación.
+
+—¿Es una guerra? —preguntó Ely.
+
+—Es una advertencia de navegación —respondió la mujer—. No tengo información suficiente para llamarla de otra manera.
+
+Les indicó dónde consultar los avisos portuarios. No parecía ocultar un secreto; parecía cuidar el límite entre lo que vendía y lo que sabía.
+
+Biglex pagó la licencia compatible. Era más cara de lo que había previsto.
+
+Ely redujo otra partida antes de que abandonaran la oficina.
+
+***
+
+En el vestíbulo del mercado habían instalado un jardín dentro de una cubierta húmeda. Una franja separaba las plantas de la corriente de aire principal y un cartel pedía no abrirla sin autorización.
+
+Ely se detuvo junto a la persona que realizaba el mantenimiento. El traductor tardó en encontrar un canal útil; terminaron usando una pantalla escrita y dibujos sencillos.
+
+El jardín no era decoración. Formaba parte de un espacio adaptado para comerciantes que necesitaban condiciones distintas a las del corredor.
+
+Biglex había pensado que las cubiertas eran vitrinas.
+
+Mientras esperaba, vio a una niña buscar el nombre de una planta en un panel. Su acompañante le corrigió la escritura y ella volvió a intentarlo. El texto utilizaba trazos que Biglex no conocía, pero reconoció la impaciencia con que la niña pulsó borrar.
+
+No pidió tomar una fotografía.
+
+Ely regresó con una recomendación sobre los filtros ambientales de la estación y una descripción mejor de lo que debían evitar al comprar consumibles.
+
+—¿Cómo has conseguido entenderle?
+
+—He dejado de preguntarle tres cosas a la vez.
+
+Biglex miró la cubierta. Desde su lado seguía pareciendo un pequeño jardín. Había necesitado hablar con alguien para descubrir que también era una parte del trabajo de otras personas.
+
+En el mercado, la diversidad no estaba organizada para que ellos la admiraran. Un vendedor protegía mercancías sensibles del calor. Otro utilizaba una pantalla con símbolos visuales porque el traductor de audio no resolvía su idioma con precisión.
+
+Biglex intentó comprar agua por contenedor. Ely le pidió la capacidad y la composición antes de aceptar el precio.
+
+Descubrieron que comparaban unidades distintas.
+
+El vendedor de cuatro brazos esperó mientras rehacían las cuentas. No redujo la tarifa, pero incluyó una prueba de compatibilidad para el sistema de recuperación de la nave.
+
+—Deberían empezar por la oficina sanitaria —recomendó—. Hay cosas más caras que comprar agua dos veces.
+
+En el puesto siguiente había raciones que ninguno podía consumir con seguridad. Flevy identificó un sello de compatibilidad y descartó otro que se le parecía demasiado.
+
+Nyx empezó a llevar la cuenta del gasto. Cuando Biglex lo vio frotarse la frente, propuso regresar.
+
+—Todavía puedo revisar un módulo —dijo Nyx.
+
+—Puedes revisarlo mañana.
+
+Se sorprendió al oírse decirlo con firmeza. Hasta hacía poco la urgencia de terminar le habría parecido una buena razón para seguir.
+
+A la vuelta, Ely notó que alguien llevaba demasiado tiempo caminando detrás.
+
+No lo supo por una mirada siniestra. Reconoció la misma hebilla en una parada, una escalera y la salida del mercado. Se lo indicó a Biglex sin señalar a la persona.
+
+Flevy propuso entrar en una oficina de tránsito. Si los seguían, tendrían testigos y cámaras oficiales.
+
+La persona pasó de largo. Un minuto después apareció otra con una chaqueta distinta y preguntó si venían del Multiverso 3.
+
+Biglex no negó lo que ya habían declarado al puerto.
+
+—Buscamos contratar su nave para una recuperación —dijo el desconocido—. He oído que trabajan con materiales de fase.
+
+Ely observó el carro: recipientes de agua, medicinas selladas y ninguna pieza que justificara la última afirmación.
+
+—No aceptamos encargos sin revisar la documentación.
+
+El hombre les ofreció un contacto y se marchó.
+
+No hubo arma ni amenaza. Eso no hacía inocente la pregunta.
+
+Nyx guardó el contacto sin abrirlo en la red de la Aurora. Flevy pidió una copia del registro portuario donde figuraba su declaración de carga.
+
+Biglex pensó en el apartado técnico que había respondido al llegar. Podía haber descrito sus necesidades con más detalle del necesario.
+
+No sabía si era una casualidad. Tampoco podía atribuir toda pregunta a un enemigo.
+
+***
+
+Sina recibió al grupo con una noticia menos inquietante: habían logrado concertar una inspección del recubrimiento por la mañana. Yani había rechazado el primer presupuesto y conseguido que explicaran por qué necesitaban una pieza completa.
+
+La explicación no había resistido demasiado.
+
+Reunieron la información alrededor de la mesa. El catálogo daba una ruta de doce días hacia Celestia, dentro del Universo 1, con un tramo de información de seguridad incompleta. Debían verificar la situación antes de acercarse al planeta.
+
+Nyx revisó qué datos de la Aurora habían quedado expuestos al puerto. No había una filtración evidente de la cápsula de contención ni del nombre Dimantis. El contrato de atraque sí permitía a intermediarios conocer ciertas necesidades comerciales.
+
+Kael había dejado procedimientos para reducir esa exposición. Algunos estaban desactivados por defecto en el sistema de Timenet.
+
+Ely apuntó la incidencia para revisarla, sin culpar a una persona antes de comprenderla.
+
+Biglex cerró la reunión con una decisión: no saldrían hasta reparar el circuito, asegurar el regreso y comprobar los avisos de Celestia.
+
+***
+
+El muelle tenía un mirador estrecho. Biglex fue allí después de dejar el carro de alquiler. A través del vidrio veía otras naves, personas entrando en turnos de trabajo y paquetes que viajaban por carriles automáticos.
+
+Ely se acercó con dos bebidas del comedor de estación. Una era bastante peor que la otra. Las intercambiaron después del primer sorbo.
+
+—Pensé que conocer otro multiverso se notaría más —dijo él.
+
+—Te han cobrado por un carro, casi compras agua en la unidad equivocada y ya tienes una llamada comercial que no querías.
+
+—Como en casa.
+
+Ely sonrió.
+
+Debajo, una nave pidió paso y otra tuvo que esperar. Biglex observó cómo se resolvía la maniobra. Había cosas desconocidas suficientes para toda una vida, pero algunas reglas empezaban a resultarle comprensibles: preguntar, comparar y no ocupar el corredor de otra persona mientras intentaba trabajar.

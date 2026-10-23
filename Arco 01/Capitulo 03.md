@@ -1,129 +1,173 @@
-# Capitulo 03 - El Amanecer de una Decisión
+# Capítulo 03: Lo que falta en el centro
 
-## Perspectiva de Ely
+Ely comprobó tres veces la dirección antes de subir al transporte. No porque desconfiara del piloto, sino porque Biglex había guardado el mapa de Timenet dentro de una carpeta llamada «cosas para después».
 
-El despertador biológico que había programado en mi brazalete vibró suavemente a las 6:00 AM. Abrí los ojos despacio, acostumbrándome a la tenue luz de **Argentis** que comenzaba a filtrarse por las cortinas inteligentes. El tráfico aéreo de la mañana aún era ligero: solo algunas naves-auto de trabajadores del turno nocturno regresando a casa.
+—Es un sistema —se defendió él.
 
-Me giré hacia Biglex, que dormía profundamente con el brazo sobre su cara, completamente ajeno al mundo. Sonreí. Típico de él.
+—Un sistema que necesita que alguien recuerde dónde está.
 
-—Despierta, Biglex —susurré, dándole un pequeño beso en la frente.
+Nides apareció tras casi dos horas de viaje. La vegetación no desaparecía al acercarse a la ciudad industrial: cambiaba de lugar. Había árboles junto a los canales de refrigeración y jardines entre bloques de viviendas, aunque desde la altura destacaban sobre todo los hangares y las vías de carga.
 
-Ni se inmutó. Bueno, lo intenté.
+Llegaron con veinte minutos de margen. En recepción les pidieron dejar los dispositivos de grabación en una taquilla. Biglex preguntó si aquello incluía el registro médico de su reloj.
 
-Me levanté con cuidado de no mover demasiado el colchón y caminé hacia el baño. Lo primero era lo primero: me lavé las manos y la boca, sintiendo cómo el agua fría me terminaba de despertar. Nuestro apartamento no era grande —un espacio abierto en el piso 47 de una torre turquesa en el **Distrito Residencial**— pero era acogedor y, sobre todo, nuestro.
+La recepcionista explicó qué funciones debían desactivar y cuáles podían mantener. Ely solicitó una copia de las condiciones de visita. Nadie se sorprendió.
 
-Activé la ducha molecular y dejé que las partículas de agua ionizada me despertaran por completo. Mientras me secaba, podía escuchar el sonido de los **trenes supersónicos** comenzando su ronda matutina, pasando por los rieles magnéticos que conectaban las diferentes secciones de la ciudad.
+Jey los recibió después del mediodía. Había cambiado el abrigo por una chaqueta de trabajo y llevaba una taza cuya bebida parecía haberse enfriado hacía rato.
 
-Por ahora me puse algo cómodo para la mañana: una blusa holgada color coral suave y una falda plisada corta en tono turquesa claro que hacía juego con mi cabello. Mi cabello largo aún estaba húmedo, cayendo libremente sin los lazos que usaría después. La invitación de **Jey Halcime** seguía resonando en mi mente. *"Vengan a Timenet mañana al mediodía."* Hoy era ese día.
+—¿Encontraron el edificio?
 
-Salí del baño y miré hacia la cama. Biglex seguía en la misma posición, roncando suavemente.
+—Con la dirección completa ayuda bastante —dijo Ely.
 
-—Increíble —murmuré, sonriendo mientras caminaba descalza hacia la cocina.
-
-Me dirigí a la pequeña cocina molecular y comencé a preparar el desayuno. Programé el sintetizador para dos porciones de huevos revueltos sintéticos y pan tostado. Mientras esperaba, miré por la ventana panorámica. **Lumiria** comenzaba a despertar: más naves-auto se unían al tráfico aéreo, formando ríos de metal brillante entre las torres de colores cambiantes.
-
-A las 6:30, escuché movimiento desde la cama.
-
-## Perspectiva de Biglex
-
-Algo me hizo abrir los ojos. ¿Un beso? ¿Ely diciendo mi nombre? No estaba seguro. Cerré los ojos de nuevo. Todavía era temprano. Demasiado temprano.
-
-Media hora después, el olor a café sintético finalmente me sacó del sueño. Me estiré y miré el reloj holográfico flotante: 6:30 AM. Ely ya estaba levantada, por supuesto. Podía verla en la cocina, moviéndose con esa energía matutina que yo nunca entendería.
-
-—Buenos días, dormilón —dijo ella sin voltear, sabiendo que finalmente me había levantado.
-
-—Mmm... buenos días —respondí con voz ronca, levantándome de la cama.
-
-Lo primero que hice fue ir al baño. Me lavé las manos y la boca, dejando que el agua fría me despertara un poco más. Luego me metí a la ducha molecular, dejando que las partículas ionizadas terminaran el trabajo.
-
-Cuando salí, me puse algo simple para la mañana: una camiseta azul grisácea y unos pantalones deportivos beige claros. Mi cabello negro-verdoso seguía despeinado, pero no me molesté en peinarlo todavía.
-
-Mientras Ely terminaba de preparar el desayuno, comencé a ordenar el apartamento. Recogí la ropa que había dejado tirada la noche anterior, acomodé los cojines del sofá, y guardé los hologramas de estudio que había dejado flotando sobre el escritorio.
-
-—Asistente, enciende las noticias —dije, y la **TV holográfica** se materializó en el centro de la sala.
-
-El rostro de una presentadora **Nider** apareció, flotando a tamaño real frente a nosotros.
-
-*"Buenos días, Lumiria. Hoy, 15 de Ciclo Solar, las temperaturas se mantendrán estables en los 24 grados. El tráfico aéreo en las rutas principales hacia Nides presenta demoras menores debido a mantenimiento en los carriles de luz del sector norte..."*
-
-—Perfecto, justo cuando tenemos que ir a Nides —comenté, acercándome a la cocina donde Ely ya había servido el desayuno.
-
-—Salimos con tiempo de sobra —respondió ella, pasándome un plato—. La nave-taxi nos recoge a las 10:45.
-
-Nos sentamos juntos frente a la ventana panorámica, desayunando mientras veíamos el tráfico aéreo volverse cada vez más denso. Las noticias seguían en el fondo:
-
-*"En otras noticias, la compañía Timenet ha anunciado avances significativos en su investigación sobre viajes temporales. El fundador, Jey Halcime, declaró que están más cerca que nunca de lograr el primer salto temporal controlado..."*
-
-Ely y yo nos miramos. El timing no podía ser más perfecto... o más inquietante.
-
-—Deberíamos prepararnos —dije, levantándome de la mesa—. Tenemos un par de horas antes de que llegue la nave-taxi.
-
-## Preparativos para la Misión
-
-Después del desayuno, ambos nos dirigimos al pequeño armario donde guardábamos nuestra ropa. Jey nos había recomendado vestirnos de manera que llamáramos la atención lo menos posible, pero que también fuera funcional.
-
-**Ely** se cambió primero. Se quitó la blusa coral y la falda plisada, y se puso su **outfit base**: una camiseta gris oscura y unos **shorts blancos** con detalles de volantes. Sobre esto, se puso una elegante **chaqueta blanca** con ribetes turquesa que brillaban sutilmente. Se ató su cabello turquesa con los característicos **lazos coral** en las puntas, dejándolo caer libremente por su espalda hasta casi tocar el suelo. Finalmente, se puso sus **zapatillas turquesa** con detalles blancos y sus **aretes amarillo neón** en forma de estrella.
-
-—¿Cómo me veo? —preguntó, dando una vuelta.
-
-—Perfecta —respondí con una sonrisa—. Como siempre.
-
-Mi turno. Me quité la ropa casual y me puse mi **outfit base**: una **camisa gris-azul** de manga larga, enrollándola hasta los antebrazos como me gustaba. Luego mis **pantalones beige** tipo chino y mis **zapatillas turquesa** que hacían juego con las de Ely. Me coloqué mi **reloj crema** en la muñeca izquierda y el **brazalete coral** en la derecha. Finalmente, tomé mi **chaqueta negra con detalles en azul neón** —el regalo de mi padre de Nicuni— y me la puse sobre la camisa.
-
-—Listo —dije, revisándome en el espejo holográfico—. Ahora sí parecemos aventureros.
-
-Ely se acercó y ajustó el cuello de mi chaqueta.
-
-—Ahora sí —confirmó ella, besándome suavemente.
-
-## El Viaje a Nides
-
-A las 10:40, Biglex y Ely subieron al **ascensor de luz** del edificio. No era un ascensor tradicional; era un tubo de energía que los elevó a través de los 47 pisos en cuestión de segundos, sus cuerpos suspendidos en un campo antigravitatorio que los hacía sentir ingrávidos.
-
-Llegaron a la **plataforma de aterrizaje** en la azotea justo cuando su nave-taxi descendía. Era una nave elegante de color plateado con líneas aerodinámicas y ventanas panorámicas, similar a los miles de vehículos que surcaban el cielo de Lumiria, pero con el distintivo de "Transporte Privado" brillando en sus costados.
-
-El piloto, un androide de navegación modelo **P-800**, los saludó con un gesto cortés.
-
-—Bienvenidos. Destino: Ciudad de Nides, Distrito Industrial, Sector 4. Tiempo estimado de viaje: 1 hora y 58 minutos. Por favor, abróchense los cinturones de seguridad.
-
-Se acomodaron en los asientos de gel adaptativo. La nave despegó suavemente, uniéndose al flujo del tráfico aéreo. Desde las ventanas, pudieron ver la ciudad extendiéndose en todas direcciones: torres de todos los colores imaginables, puentes de luz conectando edificios, trenes supersónicos corriendo por rieles que se entrelazaban como arterias metálicas.
-
-—Nunca me canso de esta vista —susurró Ely, mirando cómo una formación de naves-auto pasaba junto a ellos en perfecta sincronía.
-
-La nave aceleró, elevándose por encima de las capas más altas del tráfico urbano. Aquí, el cielo era más despejado, aunque aún podían ver las estelas de luz de los transportes de larga distancia que conectaban las diferentes ciudades de Xacro.
-
-Pasaron sobre vastas extensiones de bosques bioluminiscentes y campos de cultivo automatizados donde robots agrícolas trabajaban en formaciones geométricas perfectas. A lo lejos, podían ver las montañas cristalinas que marcaban el límite norte del continente.
-
-—¿Sabes qué es lo que más me gusta de todo esto? —preguntó Biglex, tomando la mano de Ely.
-
-—¿Qué?
-
-—Que no importa a dónde vayamos, siempre volvemos a casa. Juntos.
-
-Ely sonrió y recostó su cabeza en el hombro de él.
-
-Mientras viajaban, conversaron sobre todo y nada. Biglex le contó sobre las teorías que había estado leyendo sobre los agujeros blancos y los saltos multiversales. Ely le habló sobre el nuevo proyecto de androides de sus padres.
-
-Después de una hora y media, el paisaje comenzó a cambiar. Las zonas verdes dieron paso a estructuras industriales: fábricas de procesamiento de energía, hangares de construcción de naves, torres de investigación. El tráfico aéreo aquí era diferente: más naves de carga, menos vehículos personales.
-
-—Aterrizaje en 15 minutos —anunció el piloto androide—. Prepárense para el descenso.
-
-La nave comenzó a descender, entrando en los carriles de tráfico local de **Nides**. Aquí, las torres no eran de colores brillantes como en Lumiria, sino de metal oscuro y cristal ahumado. Era una ciudad de función, no de forma.
-
-Entre las estructuras industriales, una torre destacaba por su diseño único: una espiral de metal oscuro decorada con circuitos de cobre que brillaban con energía propia. Parecía un reloj gigante incrustado en el paisaje urbano.
-
-—Esa debe ser Timenet —susurró Ely.
-
-—Sí —confirmó Biglex, sintiendo cómo su corazón se aceleraba—. Allí es donde todo comienza.
-
-La nave aterrizó suavemente en la plataforma de visitantes de Timenet. Las puertas se abrieron con un siseo neumático, revelando la entrada principal del edificio: una puerta masiva de aleación de carbono con el logo de la compañía: un reloj de arena atravesado por una espiral infinita.
-
-Biglex y Ely descendieron de la nave, sus pies tocando el suelo de Nides por primera vez. El aire aquí era diferente: más denso, cargado con el olor a ozono y metal caliente de la industria. Sobre sus cabezas, naves de carga pasaban constantemente, transportando materiales entre las diferentes fábricas.
-
-Frente a la entrada, esperándolos con esa sonrisa enigmática que ya conocían, estaba Jey Halcime.
-
-—Bienvenidos a Timenet —dijo, extendiendo los brazos—. Bienvenidos al futuro.
+Jey aceptó la observación con una sonrisa breve.
 
 ***
 
-> "El verdadero viaje no comienza cuando cruzas la puerta, sino cuando decides dejar de mirar hacia atrás para ver si aún puedes regresar."
+El primer laboratorio contenía instrumentos reconocibles. Bancos de diagnóstico, cámaras de vacío, brazos de montaje. Biglex tardó unos segundos en entender que aquello lo tranquilizaba: esperaba maravillas imposibles y encontró personas repitiendo mediciones.
+
+Una investigadora tenía una bandeja de muestras delante.
+
+—¿Hoy tampoco? —preguntó Jey.
+
+—Hoy tampoco —respondió ella—. La segunda lectura no reproduce la primera.
+
+Jey se quedó un momento mirando la pantalla.
+
+—Conserva ambas.
+
+La mujer siguió trabajando. No hubo discurso sobre fracasos necesarios ni una explicación pensada para impresionar a los visitantes.
+
+En una sala contigua observaron dos relojes aislados. Uno marcaba una fracción de segundo distinta del otro.
+
+—¿Eso es un salto temporal? —preguntó Biglex.
+
+—Es un desfase medido —respondió Jey—. Llamarlo viaje sería adelantarnos al resultado.
+
+Ely se acercó al vidrio.
+
+—¿Podéis repetirlo?
+
+—Con suficiente margen, no. Ese es parte del problema.
+
+La cámara principal estaba un nivel más abajo. Tenía una estructura circular, bobinas y conexiones que convergían en un alojamiento vacío. Una barrera física impedía acercarse. No había personas cruzando portales ni luz escapando de un agujero abierto.
+
+Biglex sintió una decepción infantil y, enseguida, vergüenza por ella.
+
+—La máquina está incompleta —dijo Jey—. Podemos producir perturbaciones pequeñas. No sostener una transferencia segura.
+
+Señaló el alojamiento central.
+
+—Nos falta un material que soporte la estabilización sin perder su estructura.
+
+***
+
+El Dimantis apareció en una pantalla. La imagen provenía de una exploración antigua y mostraba cristales oscuros atravesados por un brillo irregular. Algunas zonas tenían datos; otras eran reconstrucciones señaladas con un color distinto.
+
+—Universo 1, Multiverso 11. Planeta Celestia —precisó Jey.
+
+Biglex repitió la ubicación para guardarla sin confundirla con el Universo 11 donde estaban.
+
+Ely buscó en el documento el nombre de la institución que había recogido la muestra original.
+
+—No habéis trabajado con material suficiente.
+
+—Solo con registros y trazas de análisis —admitió Jey—. Necesitamos una muestra estable.
+
+—¿Quién autoriza a retirarla?
+
+La pregunta dejó un silencio corto.
+
+Jey abrió otro archivo. Existían referencias de una red de custodia local, pero los contactos eran antiguos. Celestia figuraba como una región de comunicaciones irregulares, con avisos contradictorios sobre la seguridad del tráfico.
+
+—La primera instrucción de la expedición será comprobar la situación —dijo—. No pretendo que entren a un territorio habitado y tomen algo sin más.
+
+Ely pidió que eso constara en la propuesta. Jey lo anotó.
+
+Biglex repasó las imágenes. El destino dejaba de ser un punto remoto y empezaba a parecerse a un lugar donde otras personas podían tener razones para negarles el acceso.
+
+—¿Y si no nos dan permiso?
+
+—Tendrían que volver sin la muestra.
+
+Jey dijo la frase con corrección. Solo cuando cerró la imagen del cristal dejó ver cuánto le desagradaba aquella posibilidad.
+
+***
+
+Antes de salir del laboratorio, Ely solicitó ver el registro de un ensayo que hubiera obligado a detener la investigación.
+
+Jey llamó a la investigadora de los relojes. Ella abrió una secuencia donde la primera lectura parecía mejor que las actuales. El problema aparecía después: una parte del montaje seguía acumulando energía cuando el control informaba de que estaba desconectada.
+
+Biglex miró la línea descendente.
+
+—Podría confundirse con una recuperación normal.
+
+—La primera vez se confundió —respondió la mujer—. Hasta que usamos un segundo instrumento.
+
+El dispositivo de corte que ahora ocupaba el lateral de la cámara no estaba en aquella grabación. Lo habían añadido por ese resultado.
+
+Ely pidió el nombre del procedimiento, no una copia de datos que no estuvieran autorizados a recibir. Lo anotó junto a las preguntas para la expedición.
+
+Jey observó el registro completo aunque ya lo conocía. Cuando terminó, guardó silencio un instante.
+
+—La muestra no eliminará todos esos problemas —dijo la investigadora.
+
+Biglex volvió a mirar el alojamiento vacío. Había imaginado que faltaba una pieza y que, al ponerla, todo encajaría. El laboratorio ofrecía una realidad menos satisfactoria: una pieza podía resolver un límite y obligarlos a descubrir otros.
+
+Le preguntó cuánto tiempo llevaba el equipo trabajando en la interrupción segura. La respuesta ocupó el resto del trayecto hasta el comedor.
+
+Almorzaron en un comedor donde una mesa estaba reservada con piezas de una máquina desmontada. Jey apartó dos cajas para hacerles sitio.
+
+La propuesta de expedición no comenzaba esa tarde. Incluía pruebas de aptitud, preparación técnica y un período para revisar el contrato. El plan calculaba veinte días hasta la región del agujero blanco, más el tránsito y los desplazamientos en destino.
+
+—No podemos prometer la fecha exacta del regreso —explicó Jey—. Sí un límite de reservas y criterios para dar la vuelta.
+
+Biglex preguntó por las comunicaciones. Jey distinguió entre mensajes dentro del multiverso y paquetes que debían esperar un enlace adecuado para atravesar la frontera. No tendrían una conversación instantánea con Timenet desde Celestia.
+
+Ely subrayó esa parte.
+
+—Entonces las decisiones allí las toma la tripulación.
+
+—Dentro de la misión acordada.
+
+—Y dentro de los límites de seguridad —añadió ella.
+
+La nave se llamaba Aurora. Había sido preparada para un grupo pequeño en servicio y especialistas de reserva. Sus pilotos profesionales no estaban disponibles para asumir el encargo completo; Flevy, el navegante veterano, participaría en la evaluación del mando operativo.
+
+Biglex dejó la cuchara.
+
+—¿Quieres que yo dirija una nave con alguien que tiene más experiencia que yo?
+
+—Quiero saber si podéis trabajar juntos —respondió Jey—. Si no podéis, no dirigirás esa nave.
+
+Por primera vez desde la invitación, Biglex imaginó la posibilidad de que aquella oportunidad terminara en un no. El pensamiento dolió. También le permitió dejar de actuar como si ya estuviera elegido.
+
+***
+
+Flevy los esperaba en el hangar. No saludó con entusiasmo ni con desconfianza: les dio una vuelta alrededor del casco y preguntó qué observaban.
+
+Biglex señaló los puntos de mantenimiento que conocía de cargueros comerciales. Ely identificó una adaptación del distribuidor de escudos y pidió consultar el esquema antes de opinar sobre ella.
+
+Flevy pareció interesado precisamente en esa petición.
+
+—Prefiero una pregunta a una respuesta inventada.
+
+Subieron por la rampa. La Aurora olía a aislante nuevo y a una comida recalentada que alguien había abandonado en una consola.
+
+—Eso no forma parte del sistema de navegación —aclaró Flevy, retirando el recipiente.
+
+Les enseñó los puestos, las salidas de emergencia y la zona médica antes de permitir que tocaran los controles. Después les mostró las cámaras de estasis. Cinco módulos de reserva estaban apagados y abiertos.
+
+Ely preguntó por los procedimientos de recuperación. Flevy les entregó un manual más grueso que el contrato.
+
+—No se despierta a una persona para ponerla a correr por una avería. Si un plan depende de eso, el plan está mal.
+
+Biglex guardó la frase junto a la imagen del alojamiento vacío de la máquina.
+
+Al salir del hangar, Jey les preguntó si querían continuar con las pruebas. No si aceptarían la misión.
+
+Ely miró a Biglex y después respondió por sí misma.
+
+—Sí. Con acceso a los procedimientos y tiempo para revisarlos.
+
+—Yo también —dijo él.
+
+Regresaron a Lumiria con documentos, una cita para la mañana siguiente y una lista de dudas más larga que la que habían llevado. Biglex se quedó dormido durante el trayecto. Ely apoyó el manual sobre sus rodillas y siguió leyendo hasta que las luces de casa aparecieron bajo el transporte.

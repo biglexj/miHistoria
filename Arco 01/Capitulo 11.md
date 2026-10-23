@@ -1,157 +1,149 @@
-# Capitulo 11 - El Corazón de Cristal
+# Capítulo 11: Un planeta habitado
 
-## Entrada a las Cuevas
+Celestia apareció primero como una superficie incompleta.
 
-Las cuevas del norte se abrían como una boca oscura en la ladera de la montaña. Incluso desde la distancia, Biglex podía sentir algo extraño emanando de ellas: una vibración en el aire, un zumbido apenas audible que hacía que sus dientes resonaran.
+La distancia y las interferencias impedían obtener una imagen continua. Había regiones limpias y otras cubiertas por bandas de ruido que el programa intentaba suavizar. Sina desactivó la reconstrucción automática antes de llevar la imagen a la mesa.
 
-—Las anomalías temporales —explicó Kael, leyendo los datos en sus gafas—. El campo está activo. Estamos entrando en una zona donde el tiempo no fluye normalmente.
+—Lo que no vemos no es terreno despejado.
 
-Biglex sacó el cristal resonante que Veyra les había dado. Pulsaba con luz suave, sincronizándose con el zumbido de las cuevas.
+Biglex observó las zonas sin datos. Bajo las nubes se distinguían formaciones minerales, agua y áreas construidas. La primera explosión que detectaron no produjo un sonido heroico. Fue una variación de luz, seguida de un registro energético que Kael marcó para analizar.
 
-—Manténganse cerca —ordenó—. Si nos separamos en un campo de distorsión temporal, podríamos no volver a encontrarnos.
+La Aurora se mantuvo fuera de las rutas principales.
 
-Entraron a las cuevas. Inmediatamente, el mundo cambió. Las paredes estaban cubiertas de cristales que brillaban con colores que Biglex no tenía nombres para describir. El suelo latía suavemente bajo sus pies, como si estuvieran caminando sobre el corazón de algo vivo.
+No podían mirar el planeta entero ni conocer una guerra desde la consola de una nave pequeña. Podían observar un sector y decidir qué significaba para su aproximación.
 
-—Miren esto —susurró Ely, señalando una gota de agua que caía de una estalactita.
-
-La gota caía, pero no de forma normal. Caía, se detenía en el aire, retrocedía hacia arriba, volvía a caer, todo en un bucle infinito.
-
-—Bucle temporal —dijo Kael—. Pequeño, contenido. Pero es una advertencia. Aquí, el tiempo es... flexible.
-
-## Navegando las Defensas
-
-Siguieron el mapa que Lyros les había dado, moviéndose con cautela a través de los túneles. El cristal resonante en la mano de Biglex brillaba más intensamente cuando se acercaban a una trampa, permitiéndoles evitarla.
-
-La primera defensa real apareció en un pasaje estrecho. Un campo de energía azulada bloqueaba el camino, pulsando con poder contenido.
-
-—Barrera de energía —anunció Kael—. Si la tocamos sin la llave correcta, probablemente nos desintegre.
-
-Biglex levantó el cristal resonante. Este comenzó a vibrar, emitiendo una frecuencia que hizo que la barrera parpadeara. Lentamente, el campo se abrió, creando un pasaje justo lo suficientemente grande para que pasaran.
-
-—Rápido —urgió Biglex—. No sé cuánto tiempo se mantendrá abierto.
-
-Pasaron corriendo, y justo cuando Kael cruzó, la barrera se cerró detrás de ellos con un chasquido de energía.
-
-—Eso estuvo cerca —murmuró Ely.
-
-Continuaron más profundo. La segunda defensa fue más sutil: un pasillo que parecía extenderse infinitamente. Caminaron durante lo que parecieron horas, pero según sus relojes, solo habían pasado minutos.
-
-—Distorsión espacial —diagnosticó Kael—. El pasillo se repite sobre sí mismo. Estamos caminando en círculos sin movernos.
-
-Biglex estudió el cristal. Este apuntaba hacia una pared aparentemente sólida.
-
-—Por aquí —dijo, acercándose a la pared.
-
-Cuando el cristal tocó la superficie, la pared se disolvió, revelando el verdadero camino.
-
-—Ilusión —dijo Ely—. Inteligente.
-
-## El Guardian
-
-La tercera defensa fue la más peligrosa. Entraron a una cámara amplia, y en su centro, flotaba una construcción de cristal y energía. Tenía forma vagamente humanoide, pero era claramente artificial.
-
-—Guardián automático —susurró Kael—. Probablemente programado para eliminar intrusos.
-
-El guardián giró hacia ellos, sus "ojos" brillando con luz roja.
-
-—**INTRUSOS DETECTADOS**— dijo con una voz que resonó en sus huesos—. **PROTOCOLO DE ELIMINACIÓN ACTIVADO**.
-
-Biglex levantó el cristal resonante rápidamente.
-
-—¡Somos portadores de la llave! —gritó—. ¡Tenemos permiso!
-
-El guardián se detuvo, analizando el cristal. Sus ojos cambiaron de rojo a ámbar.
-
-—**LLAVE RESONANTE DETECTADA. VERIFICANDO AUTENTICIDAD**.
-
-Pasaron segundos que parecieron eternos. Finalmente, los ojos del guardián cambiaron a verde.
-
-—**AUTENTICIDAD CONFIRMADA. ACCESO CONCEDIDO. ADVERTENCIA: EL CORAZÓN DE CRISTAL ES PELIGROSO. PROCEDER CON EXTREMA PRECAUCIÓN**.
-
-El guardián se apartó, abriendo el camino hacia un túnel descendente.
-
-—Gracias, Veyra —murmuró Biglex, guardando el cristal.
-
-## La Cámara del Dimantis
-
-El túnel descendía en espiral, cada vez más profundo. El aire se volvía más denso, cargado de energía. Y entonces, llegaron.
-
-La cámara era vasta, una catedral natural de cristal y piedra. Pilares de cuarzo se elevaban desde el suelo hasta el techo invisible en la oscuridad de arriba. Y en el centro, suspendido en el aire por fuerzas invisibles, flotaba el **Dimantis**.
-
-Era más hermoso de lo que Biglex había imaginado. Una gema del tamaño de un puño, pero que parecía contener galaxias enteras en su interior. Luz giraba dentro de ella, formando patrones que cambiaban constantemente. Y alrededor del **Dimantis**, el tiempo mismo se comportaba de forma errática.
-
-Pequeñas grietas en el aire se abrían y cerraban, mostrando destellos de otros momentos: el pasado de la cámara, futuros posibles, realidades alternativas. Fragmentos de roca flotaban en bucles temporales, cayendo y elevándose eternamente.
-
-—Es... hipnótico —susurró Ely.
-
-—Y peligroso —añadió Kael—. Miren el suelo.
-
-Alrededor del **Dimantis**, había restos. Equipo **Corvax**, reconocible por sus insignias. Los invasores que habían intentado tomar el **Dimantis** y habían fallado.
-
-—¿Qué les pasó? —preguntó Biglex.
-
-—Tocaron el **Dimantis** directamente —respondió Kael, analizando los restos con sus sensores—. Quedaron atrapados en bucles temporales. Algunos envejecieron décadas en segundos. Otros... —señaló un casco que contenía solo polvo— se desintegraron cuando su línea temporal colapsó.
-
-Biglex sacó la cápsula de contención que Jey les había dado.
-
-—Por eso tenemos esto.
-
-## La Extracción
-
-Ely tomó la cápsula, estudiándola cuidadosamente.
-
-—Jey dijo que estas cápsulas están diseñadas específicamente para contener el **Dimantis**. Deberían aislar su campo temporal.
-
-—"Deberían" no es muy reconfortante —murmuró Biglex.
-
-—Es lo mejor que tenemos —respondió Ely.
-
-Se acercó al **Dimantis** con extrema cautela, usando un par de pinzas magnéticas extendidas. Kael y Biglex la cubrían, listos para tirar de ella si algo salía mal.
-
-—Casi... —Ely extendió las pinzas, acercándose al **Dimantis**.
-
-El aire alrededor del mineral se distorsionó. Biglex vio, por un instante, múltiples versiones de Ely superpuestas: una que tenía éxito, una que fallaba, una que nunca había intentado el agarre.
-
-—¡Ely, cuidado! —gritó.
-
-Pero Ely mantuvo la concentración. Las pinzas tocaron el **Dimantis**, y por un momento, todo se congeló. Luego, con un movimiento fluido, Ely guió el mineral hacia la cápsula de contención.
-
-Tan pronto como el **Dimantis** entró en la cápsula, las anomalías temporales en la cámara comenzaron a desvanecerse. Las grietas en el aire se cerraron, los bucles se detuvieron, y el silencio regresó.
-
-—Lo tengo —anunció Ely, sellando la cápsula—. El **Dimantis** está contenido.
-
-Biglex sintió una ola de alivio. Lo habían logrado. Después de todo el viaje, todos los peligros, tenían el **Dimantis**.
-
-—Contacta a Nyx —ordenó—. Dile que tenemos el paquete y que estamos saliendo.
-
-Kael activó su comunicador.
-
-—*Aurora*, aquí equipo terrestre. Tenemos el paquete. Repito, tenemos el paquete. Iniciando extracción.
-
-La voz de Nyx llegó con estática.
-
-—Recibido, equipo terrestre. Pero tenemos un problema. Los **Corvax** han llegado. Están en la entrada de las cuevas. Tienen el área rodeada.
-
-## Alarma
-
-Como si las palabras de Nyx hubieran activado algo, una alarma resonó por toda la cámara. No era un sonido mecánico, sino algo más profundo: el gemido de la montaña misma.
-
-—¿Qué fue eso? —preguntó Ely.
-
-—El sistema de defensa —respondió Kael, leyendo los datos—. La extracción del **Dimantis** activó una alarma. Está transmitiendo nuestra posición.
-
-—Los **Corvax** sabrán exactamente dónde estamos —completó Biglex.
-
-—No solo eso —Kael señaló el techo—. La cámara se está sellando. Tenemos que salir ahora.
-
-Efectivamente, las entradas comenzaban a cerrarse con barreras de energía. Solo quedaba una salida abierta: un túnel lateral que no estaba en el mapa de Lyros.
-
-—¡Por ahí! —gritó Biglex—. ¡Corran!
-
-El equipo corrió hacia el túnel mientras la cámara colapsaba detrás de ellos. El rugido de la montaña los seguía, y en algún lugar arriba, los **Corvax** se acercaban.
-
-Tenían el **Dimantis**. Ahora solo tenían que salir con vida.
+Ely pidió comenzar por las llamadas civiles.
 
 ***
 
-> "El verdadero desafío no es alcanzar tu objetivo, sino escapar con él antes de que el precio se vuelva demasiado alto."
+Kael había completado la recuperación básica y trabajaba con pausas programadas. Una de sus primeras decisiones fue desconectar una búsqueda activa que Timenet había dejado preparada para localizar materiales resonantes.
+
+—Esto emite una señal reconocible —explicó—. Si lo usamos sin entender quién escucha, estamos anunciando qué buscamos.
+
+Nyx verificó el procedimiento. No era malicioso; estaba pensado para una prospección sin oposición militar.
+
+Ely solicitó una alternativa.
+
+La señal pasiva del terreno podía indicar una región compatible con los registros del Dimantis, pero no localizar un cristal concreto bajo kilómetros de roca. Tendrían que acercarse y contrastar con información local.
+
+Biglex aceptó perder precisión a cambio de no anunciar su posición.
+
+Kael identificó después un conjunto de transmisiones de patrulla. Los avisos portuarios y la estructura de comunicaciones permitían asociarlos con fuerzas Corvax, aunque no determinar el tamaño de toda su presencia.
+
+—No sabemos cuántos son —dijo—. Sabemos dónde hemos observado algunos.
+
+Escribió esa limitación junto al mapa. Nadie pudo pasarlo por alto en la reunión.
+
+***
+
+En una de las primeras observaciones, Biglex señaló lo que parecía una plataforma militar.
+
+Había movimientos de vehículos y una concentración de calor mayor que en los alrededores. Kael pidió ampliar el intervalo de observación antes de identificarla.
+
+Después vieron depósitos, un sistema de carga y vehículos que llegaban vacíos y salían con recipientes. No podían saber si el lugar abastecía a fuerzas combatientes, a población civil o a ambas.
+
+Sina lo dejó marcado como instalación logística sin clasificación confirmada.
+
+Biglex contempló la diferencia entre las dos etiquetas. La imagen no había cambiado de golpe. Habían cambiado las preguntas que le hacían.
+
+Ely solicitó que retiraran de la vista de descenso cualquier símbolo que sugiriera un objetivo hostil sin verificación. Si tenían que tomar una decisión rápida, los colores del mapa podían influir más que las notas.
+
+Kael ajustó la presentación.
+
+La tarea llevó pocos minutos y alteró todo el aspecto de la zona. Había menos enemigos dibujados y más lugares de los que no sabían suficiente.
+
+Flevy revisó las rutas con aquella versión.
+
+Biglex sintió menos claridad y más responsabilidad. Era incómodo pilotar hacia un mundo que ya no se repartía en puntos seguros y amenazas evidentes. También era una manera de recordar que la incertidumbre no convertía a quienes estaban abajo en algo que podían ignorar.
+
+El mensaje que recibieron al final de la segunda guardia no les pedía un mineral ni una intervención militar. Solicitaba información sobre un corredor y el estado de una estación de bombeo.
+
+La transmisión estaba cifrada solo de manera básica. Kael podía leer parte sin entrar en ninguna red. El origen era móvil.
+
+Biglex preparó una respuesta. Ely le pidió escucharla antes de enviarla.
+
+Había incluido el nombre completo de la misión.
+
+Lo borró.
+
+Respondieron como nave civil de investigación, sin afirmar que podían resolver nada. Ofrecieron una observación del corredor que tenían a la vista y un canal para confirmar recepción.
+
+La respuesta tardó lo suficiente para que la espera resultara incómoda. Una voz pidió una prueba sencilla: describir una estructura que solo una nave con aquella posición podría ver.
+
+Sina obtuvo la imagen. No enviaron coordenadas de otros transmisores ni una descripción completa de sus capacidades.
+
+Después llegó una instrucción: no acercarse al valle principal. Había patrullas.
+
+La voz se cortó antes de dar un nombre.
+
+***
+
+Yani y Keny presentaron el ajuste de firma energética como lo que era: una reducción de emisiones bajo determinadas condiciones.
+
+La Aurora no se volvía invisible. No podía ocultar una aceleración brusca, un arma disparando o una mala trayectoria. Debían apagar sistemas no esenciales y seguir el relieve durante una parte del descenso.
+
+—Con los escudos al máximo perderíamos buena parte de esta ventaja —advirtió Yani—. No podemos pedir las dos cosas a la vez.
+
+Biglex consultó a Flevy sobre la ruta. Ely revisó los escenarios de interrupción. Nyx estableció qué sistemas debían seguir encendidos para no comprometer la estasis ni el soporte vital.
+
+El plan tomó forma a costa de renunciar a soluciones cómodas.
+
+La cápsula de contención fue probada con una carga de diagnóstico. Las dos lecturas coincidieron. Ely cerró el estuche y lo fijó al soporte.
+
+No habían decidido aún que la bajarían.
+
+***
+
+La reunión final tuvo ocho personas alrededor de una mesa diseñada para menos.
+
+Flevy defendió una visita limitada al punto de contacto si conseguían confirmación local. Kael apoyaba observar desde tierra las comunicaciones próximas, siempre con una salida preparada. Yani quería evitar que una avería menor dejara a la nave expuesta mientras parte de la tripulación estaba fuera.
+
+Sina preguntó qué harían si los habitantes negaban el acceso.
+
+—Retirarnos —respondió Biglex.
+
+No lo dijo como una promesa fácil. Sabía lo que significaría: regresar después de todo aquel trayecto, presentar cuentas y explicar a Jey por qué la cápsula seguía vacía.
+
+Ely añadió otra condición.
+
+—Si el lugar necesita ayuda, no vamos a vincular cada reparación a que nos entreguen algo.
+
+Biglex asintió. La frase le obligó a revisar la negociación que había imaginado sin decirla.
+
+Mantendrían una reserva de suministros que podían ceder sin reducir el regreso por debajo del límite. No era mucho. Era una cantidad concreta que podían cumplir.
+
+Pidieron autorización para un encuentro, no para una extracción.
+
+El contacto llegó después del cambio de guardia. Había una zona fuera del valle principal donde podían aproximarse sin atravesar la ruta observada de las patrullas.
+
+No recibieron un salvoconducto completo ni una bienvenida. Recibieron una oportunidad de hablar.
+
+Biglex, Ely y Kael formarían el grupo terrestre. Flevy quedaría a cargo del pilotaje; Sina mantendría navegación y observación. Nyx coordinaría sistemas y enlace. Yani y Keny conservarían la capacidad de salida.
+
+Inca y los otros dos reservistas continuarían en estasis. Despertarlos no mejoraba una visita que podía terminar sin descender de la rampa; solo aumentaba las necesidades sin una función justificada.
+
+Biglex comprobó los equipos del grupo. La principal herramienta defensiva era saber qué no debían hacer.
+
+Ely cargó material de diagnóstico, una reserva médica básica y el estuche de contención como carga declarable. Kael probó el canal local y guardó la interfaz de seguridad sin conectarla a nada.
+
+La Aurora descendió al siguiente ciclo favorable.
+
+***
+
+Desde el aire, Celestia dejó de ser una composición de superficies.
+
+Biglex vio una carretera cortada, campos abandonados y un conjunto de viviendas con cubiertas reparadas en materiales distintos. En otra región se levantaba una columna de humo. La imagen no permitía saber qué había ocurrido allí.
+
+Ely marcó el terreno seguro sin convertirlo en un paisaje trágico para admirar.
+
+—Entrada por la derecha. No sobre las casas.
+
+Biglex corrigió el rumbo.
+
+Flevy confirmó la salida alternativa. Kael mantuvo una escucha pasiva. La nave rozó una capa de nubes y redujo altura entre dos elevaciones.
+
+Aterrizaron con el ruido justo para recordarles que ninguna máquina de aquel tamaño podía llegar sin que el suelo lo notara.
+
+Durante unos segundos nadie apareció.
+
+Biglex dejó las manos visibles antes de abrir la rampa. Había pasado media vida imaginando otros mundos como lugares por descubrir. Al bajar, intentó recordar que aquel ya tenía gente esperando que los visitantes explicaran qué hacían allí.

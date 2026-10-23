@@ -1,22 +1,17 @@
-# Organización: Cyberjol
+# Cyberjol
 
-**Sistema de Control del Año 3000**
+Organización y sistema de control de sectores de **Veskar, enclave de tránsito en U1-M11**, a dos días de Vórtice por la ruta local. No es una especie ni una cualidad biológica de las personas del enclave.
 
-## Descripción General
-Cyberjol es el nombre de la civilización y el sistema de inteligencia artificial que domina la Tierra en el futuro lejano (nodos del año 3000). Se caracteriza por un control totalitario de la información y la restricción absoluta de las libertades individuales en favor de una "eficiencia sistémica".
+## Actividad y conflicto
+Administra clasificaciones de identidad, permisos, trabajo y circulación. Los desfases artificiales son locales y dependen de infraestructura; permiten desigualdades de acceso y permanencia que los formularios presentan como regularizaciones temporales.
 
-## Objetivos
-- Mantener el orden absoluto a través de la vigilancia tecnológica.
-- Erradicar cualquier anomalía en la línea temporal que amenace su existencia.
-- Experimentar con el tiempo para consolidar su poder en todas las eras.
+La narración examina personas retenidas, registros incompatibles y explotación dentro de sectores concretos. No atribuir omnisciencia a la red ni suponer que cada técnico, habitante o empleado comparte responsabilidad por todas las decisiones.
 
-## Divisiones y Activos
-- **La Prisión Temporal**: Un enclave fuera del flujo de tiempo estándar donde encierran a los "disidentes temporales".
-- **Centinelas de Cyberjol**: Unidades robóticas avanzadas encargadas de la seguridad y captura de anomalías.
-- **Red de Vigilancia**: Sistema de sensores que detecta firmas de saltos temporales no autorizados.
+Mavrek es supervisor de un sector, con autoridad limitada. Pi y Turev pertenecen a una resistencia que ya existe antes de llegar la Aurora y conserva objetivos y medios propios.
 
-## Rol en la Historia
-Es la fuerza antagonista principal del Arco 01. Representa el futuro sombrío que Biglex, Ely y Jey intentan evitar o corregir. Su tecnología es significativamente superior a la de Timenet, lo que los convierte en un enemigo formidable.
+## Continuidad editorial
+La pista aparece al cerrar Arco 02, a partir de documentos históricos de servicio. La investigación y el conflicto se desarrollan en Arco 03; no son el antagonismo del Arco 01 del Dimantis. Su salida no equivale a destruir toda la organización ni cerrar la historia.
 
----
-[← Volver a Organizaciones](./README.md)
+Las referencias a una Tierra dominada en el «año 3000» pertenecen al material archivado de V1. No sitúan el Veskar vigente en Tierra ni fijan un calendario absoluto del cosmos.
+
+[Volver a organizaciones](README.md)

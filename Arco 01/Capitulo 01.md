@@ -1,131 +1,183 @@
-# Capitulo 01 - El Susurro de las Lunas
+# Capítulo 01: Una avería pequeña
 
-Las dos lunas de **Xacro**, **Argentis** y **Opyl**, comenzaban su lento descenso sobre el horizonte carmesí, bañando los **Jardines Flotantes de Lumiria** con una luz plateada que se entrelazaba con el brillo bioluminiscente de los ríos. Eran las últimas horas del ciclo de luz, y para Biglex, ese era el momento más sagrado del día.
+Ely llegó a los Jardines Flotantes con una caja de comida bajo el brazo y una mancha de aceite en la mejilla. Biglex llevaba media hora sentado junto al sauce de fibra óptica, siguiendo con el dedo una ruta que su reloj proyectaba sobre las rodillas. Cuando levantó la vista, ella ya estaba señalando la caja.
 
-**Xacro** era un planeta que desafiaba toda lógica convencional. Su capital, **Lumiria**, no era solo una ciudad, sino un organismo vivo de tecnología y naturaleza entrelazadas. Los edificios crecían como árboles de cristal y metal, sus raíces hundidas en la red de datos planetaria que pulsaba bajo la superficie. El aire mismo estaba cargado de partículas nanométricas que purificaban la atmósfera mientras transmitían información a velocidades imposibles. 
+—Dime que no has comido.
 
-Desde las alturas de los **Jardines Flotantes**, se podía ver toda la extensión de la ciudad: torres que brillaban con luz propia, puentes de energía sólida que conectaban distritos flotantes, y ríos artificiales que fluían hacia arriba, desafiando la gravedad gracias a campos magnéticos cuidadosamente calibrados. Era un testimonio del ingenio de los **Niders**, la especie dominante del planeta, cuya conexión innata con la tecnología había transformado **Xacro** en una de las joyas del **Universo 11**.
+—Depende de si una bebida cuenta.
 
-Sentado en un banco de cristal templado que parecía brotar de las raíces de un **Sauce de Fibra Óptica**, el joven de veinte años observaba cómo un pequeño dron de mantenimiento de la **TyCEC** pasaba silenciosamente sobre su cabeza. Su mente, sin embargo, no estaba en el presente. 
+—Entonces he acertado.
 
-Biglex jugueteaba con un pequeño proyector holográfico en su muñeca, repasando por centésima vez los esquemas del **GDU** que había logrado descargar de la red pública. Para la mayoría de los habitantes del **Universo 11**, el **Gestor de Dimensiones Universales** era poco más que una entidad abstracta que mantenía el cielo en su sitio. Para él, era el mapa del tesoro más grande jamás concebido.
+Dejó las dos raciones en el banco. El envoltorio de una estaba abollado. Ely se quedó con esa, pero Biglex la cambió por la suya antes de que pudiera protestar.
 
-—¿Otra vez con eso, Biglex? —Una voz melódica y cargada de una energía contagiosa rompió su concentración.
+Desde allí se veían los puentes de Lumiria, las líneas de transporte sobre el río y una cuadrilla de mantenimiento sustituyendo paneles en una torre residencial. Argentis empezaba a distinguirse entre las nubes; Opyl aparecería más tarde. Abajo, alguien discutía con una máquina expendedora que insistía en venderle dos paraguas.
 
-Biglex cerró el holograma de un parpadeo y sonrió al ver a Ely acercándose por la pasarela de cristal. Llevaba su túnica de trabajo manchada ligeramente con aceite sintético, señal de que acababa de salir del taller de naves de su familia. En **Xacro**, los **Niders** como Ely llevaban la tecnología en la sangre, y Biglex, a pesar de ser un humano nacido en la Tierra, compartía esa misma conexión con lo tecnológico.
+Biglex guardó el mapa para hacer sitio a los platos.
 
-—No puedo evitarlo, Ely —respondió él, levantándose para recibirla—. Mi padre dice que los comerciantes ven el **multiverso** como una vitrina, pero yo... yo quiero ver el mecanismo detrás del cristal.
+—¿Terminasteis el motor?
 
-Ely se rió, un sonido que para Biglex era más real que cualquier ley de la física. Se dejó caer en el banco junto a él, estirando las piernas con un suspiro de alivio.
+—Terminamos el motor, lo probamos y descubrimos que el propietario no había cambiado los filtros en tres años.
 
-—Llevas todo el día en el taller, ¿verdad? —preguntó Biglex, notando las marcas de cansancio en su rostro.
+—Eso no estaba en el diagnóstico.
 
-—Desde el amanecer —confirmó ella, frotándose las sienes—. Hoy terminamos el calibrado de un motor de salto para el **Universo 17**. Es un trabajo delicado. Si te equivocas en un solo decimal al calcular la frecuencia de resonancia, la nave podría terminar en el **Universo 16** o, peor, fragmentada entre ambos.
+—Porque preguntamos cuándo había hecho el mantenimiento y dijo «recientemente».
 
-Biglex se inclinó hacia adelante, fascinado.
+Ely se limpió las manos con una toallita del taller. Un lazo coral se le había aflojado en la parte baja del cabello. Lo ajustó sin mirarse, con el gesto aprendido de quien pasaba demasiadas horas inclinada sobre mecanismos.
 
-—¿Cómo funciona exactamente? Sé la teoría, pero nunca he visto el proceso real.
+—Mi padre quiere cobrarle el segundo diagnóstico —añadió—. Mi madre quiere mandarle el filtro por correo, enmarcado.
 
-Ely sonrió, reconociendo esa chispa de curiosidad que tanto le gustaba de él.
+Biglex se rio. El arroz estaba demasiado caliente y sopló antes de probarlo. No había preguntado todavía por el transporte averiado que ella debía entregar al día siguiente. Lo había olvidado mientras consultaba el archivo del GDU, y el olvido le produjo una punzada de culpa.
 
-—Es como... afinar un instrumento musical —explicó, usando sus manos para ilustrar—. Cada **universo** tiene su propia frecuencia vibratoria. El motor de salto no te mueve físicamente, sino que ajusta la frecuencia de la nave para que resuene con el **universo** destino. Cuando las frecuencias se alinean perfectamente, es como si la membrana entre **universos** se estirara y...
+—¿Necesitas ayuda mañana?
 
-—Y pasas a través —completó Biglex, sus ojos brillando—. Como atravesar una burbuja de jabón sin romperla.
+—Necesito que vengas a la hora que dijiste.
 
-—Exacto —Ely lo miró con aprobación—. Ves, por eso me gustas. La mayoría de la gente solo quiere que las cosas funcionen. Tú quieres entender por qué funcionan.
+—A las ocho.
 
-Se quedaron en silencio por un momento, disfrutando de la brisa suave que traía el aroma de las flores bioluminiscentes del jardín. A lo lejos, podían escuchar el murmullo constante de la ciudad, ese zumbido tecnológico que era el latido de **Lumiria**.
+—A las ocho reales. Las de «estoy cerrando el archivo» suelen ser las nueve.
 
-—Me recordó a tu padre —dijo Ely finalmente—. El motor, quiero decir. Está calibrado para las rutas comerciales del **Universo 17**. ¿Cuándo regresan de su última ruta?
-
-—Mañana —contestó Biglex con un asomo de orgullo—. Traen especias de **Zecra**. Mi madre dice que el comercio multiversal es la columna vertebral de nuestra economía, pero yo creo que lo dicen solo porque les gusta viajar.
-
-—¿Alguna vez has ido con ellos? —preguntó Ely.
-
-—Un par de veces cuando era niño —Biglex se reclinó en el banco, mirando hacia las lunas—. Pero solo a **universos** cercanos. Nunca a otro **multiverso**. Eso es... mucho más complicado.
-
-—¿Por qué? —Ely arqueó una ceja—. ¿No es solo cuestión de conseguir una nave adecuada?
-
-—Ojalá fuera tan simple —Biglex suspiró—. Los **Agujeros Blancos** son increíblemente raros. No están en ningún mapa público. La información sobre su ubicación es... escasa. Casi secreta. Mi padre dice que solo las grandes corporaciones y algunas expediciones científicas saben dónde encontrarlos. Y no comparten esa información fácilmente.
-
-Ely lo estudió por un momento, reconociendo ese tono en su voz. Era el mismo que usaba cuando hablaba de sus sueños más profundos.
-
-—¿Quieres hacerlo, verdad? —preguntó suavemente—. Cruzar a otro **multiverso**.
-
-Biglex no respondió de inmediato. Se levantó del banco y caminó hacia la barandilla del jardín flotante, donde podía ver toda **Lumiria** extendiéndose ante él. Las luces de la ciudad comenzaban a encenderse una por una, preparándose para el ciclo nocturno.
-
-—Mira esto, Ely —dijo finalmente, señalando la ciudad—. **Lumiria** es increíble. Tenemos tecnología que hace cien años habría parecido magia. Edificios que crecen, ríos que fluyen hacia arriba, inteligencias artificiales que son más sabias que cualquier maestro. Pero todo esto... todo esto es solo un **universo**. Una burbuja en un **multiverso**. Y ese **multiverso** es solo uno entre... ¿cuántos? ¿Cientos? ¿Miles?
-
-Ely se acercó a él, colocándose a su lado.
-
-—El **GDU** tiene registrados al menos cincuenta **multiversos** conocidos —dijo—. Pero mi profesor de cosmología dice que probablemente hay muchos más. Infinitos, tal vez.
-
-—Infinitos —repitió Biglex, la palabra sonando como una oración—. Y nosotros estamos aquí, en este pequeño rincón de la realidad, pensando que lo sabemos todo.
-
-Ely tomó su mano, entrelazando sus dedos con los de él.
-
-—No es pequeño para mí —dijo suavemente—. Este rincón tiene todo lo que necesito.
-
-Biglex la miró, y por un momento, el peso de sus ambiciones se alivió. Sonrió, apretando su mano.
-
-—Tienes razón —admitió—. Perdón. A veces me pierdo en mis pensamientos.
-
-—Es una de las cosas que me gustan de ti —Ely se apoyó en la barandilla—. Pero también me preocupa. Tienes esa mirada, Big. Esa mirada de alguien que no va a quedarse quieto por mucho tiempo.
-
-Biglex guardó silencio, porque sabía que ella tenía razón. Desde que era niño, había sentido esa inquietud, esa necesidad de ver más allá del horizonte. **Xacro** era su hogar, y lo amaba. Pero el **multiverso** lo llamaba con una voz que no podía ignorar.
-
-—¿Sabes qué es lo que más me fascina del **GDU**? —preguntó, cambiando ligeramente de tema—. No es solo que mapee los **universos**. Es que cada punto en ese mapa representa un lugar donde las leyes de la física podrían ser completamente diferentes. Mundos donde el tiempo fluye al revés, donde la gravedad es opcional, donde... donde todo lo que creemos saber podría ser solo una versión de la verdad.
-
-—Suenas como mi profesor de física cuántica —bromeó Ely, pero había calidez en su voz—. Pero entiendo lo que dices. A veces, cuando estoy calibrando un motor de salto, siento que estoy tocando algo... más grande. Como si la nave no solo viajara por el espacio, sino que bailara con el tejido mismo de la realidad.
-
-—Exacto —Biglex se giró para mirarla, sus ojos brillando con emoción—. Y eso es solo viaje entre **universos** del mismo **multiverso**. Imagina lo que debe ser cruzar un **Agujero Blanco**. Saltar de un **multiverso** a otro. Ver cómo las reglas fundamentales cambian en un parpadeo.
-
-—Mi abuelo lo hizo una vez —dijo Ely de repente.
-
-Biglex la miró sorprendido.
-
-—¿En serio? Nunca me lo habías contado.
-
-—Fue hace mucho tiempo, antes de que yo naciera —Ely miró hacia las estrellas—. Era ingeniero en una expedición científica privada. Tardaron años en conseguir la información sobre la ubicación de un **Agujero Blanco**. Cruzaron al **Multiverso 7** para establecer rutas comerciales. Dijo que fue la experiencia más aterradora y hermosa de su vida. El **Agujero Blanco** es... violento. No es como el viaje suave entre **universos**. Es como ser arrastrado por un río de luz pura.
-
-—¿Y qué vio del otro lado? —preguntó Biglex, completamente absorto.
-
-—Dijo que las estrellas tenían un color diferente. Que el vacío mismo se sentía distinto, como si vibrara con una frecuencia nueva. Y la gente... la gente pensaba diferente. No porque fueran de otra especie, sino porque las leyes fundamentales de su realidad eran sutilmente distintas.
-
-Biglex sintió un escalofrío de emoción recorrer su espalda.
-
-—¿Alguna vez has pensado en hacerlo? —preguntó Ely, estudiando su rostro—. ¿Cruzar a otro **multiverso**?
-
-Biglex guardó silencio por un momento, mirando hacia las estrellas que comenzaban a aparecer en el cielo nocturno de **Xacro**.
-
-—Todos los días —admitió finalmente—. Pero es solo un sueño. Los **Agujeros Blancos** son tan raros que casi nadie sabe dónde encontrarlos. La información es... difícil de conseguir. No es algo que un simple... —hizo una pausa, buscando las palabras— un simple soñador pueda hacer.
-
-Ely tomó su mano, apretándola suavemente.
-
-—Tú no eres un simple soñador, Big. Eres alguien que ve el mundo como debería ser, no como es. Y eso... eso es raro. Valioso.
-
-—A veces me siento atrapado —confesó Biglex, su voz apenas un susurro—. **Xacro** es hermoso, y tengo una buena vida. Pero siento que hay algo más allá, algo que estoy destinado a encontrar. ¿Eso me hace egoísta?
-
-—Te hace humano —respondió Ely—. Bueno, técnicamente humano. —Sonrió, aligerando el momento—. Pero en serio, Big. No hay nada malo en querer más. Solo... no te olvides de lo que ya tienes mientras buscas lo que podría ser.
-
-El sol central de **Xacro** terminó de ocultarse, y de repente, la ciudad estalló en una sinfonía de colores. Los edificios, maravillas de ingeniería translúcida, comenzaron a proyectar patrones de bienvenida a la noche. Hologramas gigantes de criaturas míticas danzaban entre las torres, y la música ambiental de la ciudad cambió a un tono más suave, más íntimo.
-
-Mientras caminaban por el jardín, el suelo bajo sus pies latía suavemente. Las plantas de **Xacro** no solo crecían, sino que procesaban datos y energía, purificando la atmósfera mientras emitían ese suave zumbido que era la banda sonora de la capital. Cruzaron un **Puente de Luz Sólida** sobre un río que brillaba con un azul eléctrico, donde peces artificiales nadaban entre algas reales.
-
-—Es hermoso —dijo Ely, deteniéndose en el centro del puente—. A veces me pregunto si en otros **universos**, en otros **multiversos**, hay versiones de nosotros mirando el mismo cielo.
-
-Biglex la abrazó, sintiendo el calor de su presencia.
-
-—Si las hay —respondió suavemente—, espero que sean tan felices como yo en este momento.
-
-—¿Incluso con todas tus dudas? ¿Con toda esa inquietud que llevas dentro?
-
-—Especialmente por eso —Biglex la miró a los ojos—. Porque tú eres la única persona que entiende esa inquietud sin juzgarme por ella. Que me deja soñar sin hacerme sentir que estoy desperdiciando el presente.
-
-Ely sonrió, y en ese momento, con las dos lunas de **Xacro** reflejándose en sus ojos, Biglex sintió que el **multiverso** podía esperar un poco más.
-
-Permanecieron así por un largo rato, dos jóvenes en un puente de luz, rodeados por una ciudad que era mitad sueño, mitad realidad. No sabían que en las sombras de **Nides**, la ciudad industrial al otro lado del planeta, un hombre llamado **Jey Halcime** ya había puesto sus ojos en ellos. El destino estaba tensando una cuerda que los lanzaría a través del tejido mismo de la realidad, pero por esa noche, solo eran dos jóvenes contemplando un cielo que estaba a punto de volverse infinitamente más grande.
+Él levantó las manos. La observación era justa.
 
 ***
 
-> "El primer paso de un gran viaje no siempre es el más largo, sino el que nos obliga a dejar de mirar el mapa para empezar a mirar el horizonte."
+Después de cenar caminaron hasta una pasarela menos concurrida. Biglex volvió a desplegar el mapa, esta vez entre los dos. No mostraba galaxias luminosas ni mundos imaginados, sino una tabla de coordenadas y avisos de navegación.
+
+—Encontré una discontinuidad en el archivo público.
+
+Ely leyó un par de filas.
+
+—Puede ser una corrección pendiente.
+
+—Lo pensé. Pero mira las fechas.
+
+Las tres últimas balizas habían actualizado su posición con el mismo intervalo. La cuarta conservaba una referencia antigua. Un programa de rutas podía interpretarla como un trayecto corto cuando, en realidad, obligaba a esperar una ventana de tránsito que ya no existía.
+
+—¿Lo has reportado?
+
+—Esta mañana. Me respondieron que estaba en revisión.
+
+—Entonces está en revisión.
+
+—Sí, pero podría calcular el desplazamiento probable.
+
+Ely lo miró de lado.
+
+—Podrías. También podrías dejar que lo comprobara alguien con los datos completos.
+
+Biglex amplió la tabla. Había pasado suficientes viajes sentado junto a los pilotos de carga de su padre para reconocer una ruta mal compuesta. Eso no lo convertía en navegante de expediciones. Lo sabía; le costaba recordarlo cuando un problema parecía estar a punto de encajar.
+
+—No pienso usarla —aclaró—. Solo entenderla.
+
+—Eso me parece bien. Lo que me preocupa es cuando dices «solo» antes de algo muy grande.
+
+Una vibración recorrió la barandilla. El puente contiguo perdió intensidad durante un instante y recuperó su brillo. Al fondo sonó un aviso discreto. Varias personas cambiaron de dirección sin detener la conversación.
+
+Ely cerró el mapa con un movimiento de la mano.
+
+—Eso no debería hacerlo.
+
+***
+
+La pasarela secundaria había reducido su capacidad. Un trabajador de TyCEC mantenía a los peatones detrás de una línea amarilla mientras hablaba por el comunicador. A su lado, un carro de limpieza intentaba atravesar una y otra vez el mismo umbral.
+
+Ely mostró su identificación de taller.
+
+—¿El carro estaba conectado cuando empezó?
+
+El trabajador siguió la dirección de su mirada.
+
+—No lo sé. Estamos esperando al equipo de la estructura.
+
+—No toque el puente —dijo ella—. Compruebe la base de carga.
+
+Biglex se quedó con los peatones. Una mujer llevaba un coche infantil y trataba de encontrar el acceso al ascensor de servicio. Él conocía el desvío; la acompañó hasta el indicador correcto y volvió sin cruzar la línea.
+
+Cuando regresó, Ely estaba arrodillada junto al carro. No había abierto la cubierta. Señalaba una advertencia que el encargado leía con creciente fastidio.
+
+—Está intentando compensar un consumo que no existe —explicó ella—. Cada vez que pide carga, el distribuidor local reajusta el circuito.
+
+—¿Se puede apagar?
+
+—Desde su control. Yo no tengo autorización.
+
+El hombre desconectó el carro. La vibración cesó, pero Ely no anunció victoria. Esperaron dos ciclos de diagnóstico. Después, el puente recuperó su intensidad normal y el trabajador recibió confirmación del centro.
+
+—El equipo tendrá que revisar el distribuidor igualmente —dijo ella.
+
+—¿Cómo lo vio tan rápido?
+
+—Hicimos mantenimiento a ese modelo hace poco. El carro repetía el mismo movimiento.
+
+El encargado anotó su nombre. Biglex sostuvo la caja de comida mientras Ely se limpiaba una rodilla.
+
+—Podrías haberlo resuelto tú —comentó él cuando retomaron el camino.
+
+—Podría haber apagado algo que no me correspondía. No es lo mismo.
+
+La respuesta le gustó y lo incomodó un poco. Había imaginado aventuras como una sucesión de problemas que cedían ante una solución brillante. Aquella avería había necesitado otra cosa: experiencia, una pregunta concreta y permiso para intervenir.
+
+***
+
+Se sentaron cerca del agua. Unas luces del jardín acababan de encenderse y el río reflejaba franjas blancas entre las raíces suspendidas.
+
+Biglex buscó en el reloj la respuesta del GDU. No había ninguna novedad. La cerró sin volver a calcular.
+
+—Me gustaría ver lo que hay al otro lado de un agujero blanco.
+
+Ely no respondió enseguida. Sacó la última fruta de la caja, la partió y le pasó la mitad.
+
+—A mí también me gustaría salir de aquí alguna vez.
+
+Él la miró, sorprendido por el tono más que por las palabras.
+
+—Pensaba que estabas contenta en el taller.
+
+—Lo estoy. También puedo querer otra cosa. No eres el único que mira las rutas.
+
+Biglex recordó cuántas veces le había explicado destinos que ella conocía por los motores que reparaba. Cuántas conversaciones había convertido en una exposición de sus propios planes.
+
+—¿Adónde irías?
+
+Ely pensó mientras comía.
+
+—A un lugar donde no tenga que arreglar la nave que me lleva. Al menos el primer día.
+
+—Eso reduce mucho las opciones.
+
+—Entonces habrá que construir una buena.
+
+Biglex le enseñó una imagen de una nave exploradora que había guardado meses antes. Ely amplió la sección de motores y señaló el acceso de mantenimiento.
+
+—Ahí no cabe una persona con un traje de protección.
+
+—Es una ilustración.
+
+—Y está muy bien para colgarla. Para viajar, buscaría otra.
+
+Él había elegido la imagen por la proa abierta, por la sensación de avanzar hacia algo. Nunca se había preguntado quién tendría que meterse detrás de aquellos paneles.
+
+Ely buscó un diseño más modesto. Tenía un pasillo ancho, menos superficie de observación y dos puestos de trabajo que podían aislarse del resto. A Biglex le pareció feo hasta que ella empezó a describir cómo se viviría dentro.
+
+—Aquí puedes dormir mientras otra persona repara algo —dijo—. Aquí no guardas la comida junto a un circuito caliente. Y esta puerta no obliga a atravesar la cabina para llegar al baño.
+
+—Me estás cambiando el sueño.
+
+—Te estoy poniendo un baño.
+
+Biglex se rio y guardó también aquel diseño. Había dedicado horas a imaginar el destino y casi ninguna a pensar en la nave durante las noches en que no ocurriera nada. Le pidió a Ely que marcara los cambios que haría.
+
+Ella aceptó, sorprendida de que no quisiera defender la ilustración. El nuevo archivo tuvo un nombre que los dos pudieran encontrar.
+
+La conversación siguió por rutas menos heroicas: cuánto costaba un pasaje, quién regaría las plantas del apartamento, qué ocurriría con los trabajos pendientes. La posibilidad se volvió más pequeña al tocar esos detalles, pero también más real.
+
+Cuando emprendieron el regreso, Biglex recibió una notificación. El expediente de la baliza había sido aceptado. Su cálculo no se validaba todavía; se le pedía adjuntar el procedimiento.
+
+Ely leyó por encima de su hombro.
+
+—Ahora sí puedes terminar el archivo.
+
+—Mañana, después del taller.
+
+—Mira cómo aprende.
+
+Biglex guardó el reloj. Tomó la caja vacía y buscó con Ely un contenedor que no estuviera lleno. Lumiria continuaba alrededor, ocupada en sus trabajos de cada noche. Antes de marcharse a conocer otros mundos, él tenía que presentarse a las ocho en uno muy cercano.

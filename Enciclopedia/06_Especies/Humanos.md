@@ -1,6 +1,6 @@
 # Especie: Humanos
 
-**Raza del Planeta Tierra, Universo 7, Multiverso X**
+**Raza del Planeta Tierra, Universo 7, Multiverso 3**
 
 ## Datos Básicos
 - **Nombre**: Humanos
